@@ -1,1 +1,45 @@
-mean, median , mode
+import pandas as pd
+import numpy as np
+from scipy import stats
+
+## Creat a DataSet
+
+height = [170, 165, 155, 175, 66, 45, 22, 45, 67, 12, 334, 567, 34, 567, 334, 12, 13, 14, 145, 16, 19, 90, 9, 87, 65, 43, 23, 46, 9, 7]
+weight = [58, 52, 63, 33, 34, 55, 67, 888, 232, 233, 18, 89, 67, 777, 78, 87, 123, 213, 124, 656, 345, 345, 345, 345, 34, 34, 24, 24, 23, 12]
+
+classification = [''] * len(weight)  # Initializing classification list
+
+for i in range(len(weight)):
+    if weight[i] > 150:
+        classification[i] = "Animal"
+    else:
+        classification[i] = "Human"
+print(height)
+print(weight)
+print(classification)
+
+data = {
+    'height':height,
+    'weight':weight,
+    'classification':classification
+}
+df=pd.DataFrame(data)
+print(df)
+
+#find means 
+mean_height=np.mean(height)
+mean_weight=np.mean(weight)
+print("Mean of Hight:",mean_height)
+print("mean of weight:",mean_weight)
+
+#finding medians
+median_height=np.median(height)
+median_weight=np.median(weight)
+print("median of Height:",median_height)
+print("median of weight:",median_weight)
+
+#MODE
+mode_height=stats.mode(height)
+mode_weight=stats.mode(weight)
+print("Mode of Height:",mode_height)
+print("Mode of Weight:",mode_weight)
