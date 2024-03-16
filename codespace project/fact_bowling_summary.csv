@@ -1,0 +1,2437 @@
+match_id,match,bowlingTeam,bowlerName,overs,maiden,runs,wickets,economy,0s,4s,6s,wides,noBalls
+T203817,Super Kings Vs KKR,KKR,ShakibAlHasan,3.0,0,33,0,11.0,6,2,3,0,0
+T203817,Super Kings Vs KKR,KKR,ShivamMavi,4.0,0,32,1,8.0,8,1,2,0,0
+T203817,Super Kings Vs KKR,KKR,LockieFerguson,4.0,0,56,0,14.0,4,7,2,2,0
+T203817,Super Kings Vs KKR,KKR,VarunChakravarthy,4.0,0,38,0,9.5,5,2,2,0,1
+T203817,Super Kings Vs KKR,KKR,SunilNarine,4.0,0,26,2,6.5,6,0,1,1,0
+T203817,Super Kings Vs KKR,KKR,VenkateshIyer,1.0,0,5,0,5.0,2,0,0,0,0
+T203817,Super Kings Vs KKR,Super Kings,DeepakChahar,4.0,0,32,1,8.0,10,4,1,1,0
+T203817,Super Kings Vs KKR,Super Kings,JoshHazlewood,4.0,0,29,2,7.25,10,2,1,2,0
+T203817,Super Kings Vs KKR,Super Kings,ShardulThakur,4.0,0,38,3,9.5,11,3,1,4,1
+T203817,Super Kings Vs KKR,Super Kings,DwayneBravo,4.0,0,29,1,7.25,9,1,2,0,0
+T203817,Super Kings Vs KKR,Super Kings,RavindraJadeja,4.0,0,37,2,9.25,9,3,2,1,0
+T206442,Capitals Vs KKR,KKR,ShakibAlHasan,4.0,0,28,0,7.0,9,2,1,1,0
+T206442,Capitals Vs KKR,KKR,LockieFerguson,4.0,0,26,1,6.5,11,1,2,0,0
+T206442,Capitals Vs KKR,KKR,SunilNarine,4.0,0,27,0,6.75,9,0,2,1,0
+T206442,Capitals Vs KKR,KKR,VarunChakravarthy,4.0,0,26,2,6.5,7,2,0,0,1
+T206442,Capitals Vs KKR,KKR,ShivamMavi,4.0,0,27,1,6.75,9,1,1,1,0
+T206442,Capitals Vs KKR,Capitals,AnrichNortje,4.0,0,31,2,7.75,10,2,1,1,0
+T206442,Capitals Vs KKR,Capitals,RavichandranAshwin,3.5,0,27,2,7.04,7,1,1,1,0
+T206442,Capitals Vs KKR,Capitals,AveshKhan,4.0,0,22,1,5.5,9,1,0,0,0
+T206442,Capitals Vs KKR,Capitals,AxarPatel,4.0,0,32,0,8.0,8,0,3,1,0
+T206442,Capitals Vs KKR,Capitals,KagisoRabada,4.0,0,23,2,5.75,13,1,1,2,0
+T208597,RCB Vs KKR,KKR,ShakibAlHasan,4.0,0,24,0,6.0,6,2,0,0,0
+T208597,RCB Vs KKR,KKR,ShivamMavi,4.0,0,36,0,9.0,8,4,0,2,2
+T208597,RCB Vs KKR,KKR,VarunChakravarthy,4.0,0,20,0,5.0,7,0,0,0,0
+T208597,RCB Vs KKR,KKR,LockieFerguson,4.0,0,30,2,7.5,8,4,0,1,0
+T208597,RCB Vs KKR,KKR,SunilNarine,4.0,0,21,4,5.25,11,2,0,1,0
+T208597,RCB Vs KKR,RCB,MohammedSiraj,4.0,0,19,2,4.75,10,1,0,0,0
+T208597,RCB Vs KKR,RCB,GeorgeGarton,3.0,0,29,0,9.66,4,3,1,0,0
+T208597,RCB Vs KKR,RCB,HarshalPatel,4.0,0,19,2,4.75,10,1,0,1,0
+T208597,RCB Vs KKR,RCB,YuzvendraChahal,4.0,0,16,2,4.0,8,0,0,0,0
+T208597,RCB Vs KKR,RCB,GlennMaxwell,3.0,0,25,0,8.33,4,2,1,0,0
+T208597,RCB Vs KKR,RCB,DanChristian,1.4,0,29,0,17.4,1,1,3,2,0
+T201819,Capitals Vs Super Kings,Super Kings,DeepakChahar,3.0,0,26,0,8.66,5,4,0,1,0
+T201819,Capitals Vs Super Kings,Super Kings,JoshHazlewood,4.0,0,29,2,7.25,13,4,1,0,0
+T201819,Capitals Vs Super Kings,Super Kings,ShardulThakur,3.0,0,36,0,12.0,5,1,3,2,0
+T201819,Capitals Vs Super Kings,Super Kings,RavindraJadeja,3.0,0,23,1,7.66,4,3,0,0,0
+T201819,Capitals Vs Super Kings,Super Kings,MoeenAli,4.0,0,27,1,6.75,5,0,1,1,0
+T201819,Capitals Vs Super Kings,Super Kings,DwayneBravo,3.0,0,31,1,10.33,4,3,1,2,0
+T201819,Capitals Vs Super Kings,Capitals,AnrichNortje,4.0,0,31,1,7.75,7,4,0,0,0
+T201819,Capitals Vs Super Kings,Capitals,AveshKhan,4.0,0,47,1,11.75,8,5,3,1,0
+T201819,Capitals Vs Super Kings,Capitals,KagisoRabada,3.0,0,23,0,7.66,5,1,1,0,0
+T201819,Capitals Vs Super Kings,Capitals,AxarPatel,3.0,0,23,0,7.66,7,2,1,0,0
+T201819,Capitals Vs Super Kings,Capitals,TomCurran,3.4,0,29,3,7.9,6,3,0,2,0
+T201819,Capitals Vs Super Kings,Capitals,RavichandranAshwin,2.0,0,19,0,9.5,0,2,0,0,0
+T205942,Capitals Vs RCB,RCB,GlennMaxwell,3.0,0,29,0,9.66,3,2,1,2,0
+T205942,Capitals Vs RCB,RCB,MohammedSiraj,4.0,0,25,2,6.25,11,4,0,0,0
+T205942,Capitals Vs RCB,RCB,GeorgeGarton,3.0,0,20,0,6.66,6,2,0,0,1
+T205942,Capitals Vs RCB,RCB,YuzvendraChahal,4.0,0,34,1,8.5,5,1,2,0,0
+T205942,Capitals Vs RCB,RCB,HarshalPatel,4.0,0,34,1,8.5,8,1,2,3,0
+T205942,Capitals Vs RCB,RCB,DanChristian,2.0,0,19,1,9.5,5,2,1,0,0
+T205942,Capitals Vs RCB,Capitals,AnrichNortje,4.0,0,24,2,6.0,9,2,0,1,0
+T205942,Capitals Vs RCB,Capitals,AveshKhan,4.0,0,31,0,7.75,11,2,1,2,0
+T205942,Capitals Vs RCB,Capitals,AxarPatel,4.0,0,39,1,9.75,8,4,2,0,0
+T205942,Capitals Vs RCB,Capitals,KagisoRabada,4.0,0,37,0,9.25,4,3,1,0,0
+T205942,Capitals Vs RCB,Capitals,RavichandranAshwin,1.0,0,11,0,11.0,1,0,1,0,0
+T205942,Capitals Vs RCB,Capitals,RipalPatel,3.0,0,22,0,7.33,5,2,0,2,0
+T201979,Mumbai Vs Sunrisers,Sunrisers,MohammadNabi,3.0,0,33,0,11.0,3,4,1,0,0
+T201979,Mumbai Vs Sunrisers,Sunrisers,SiddarthKaul,4.0,0,56,0,14.0,5,10,1,0,0
+T201979,Mumbai Vs Sunrisers,Sunrisers,JasonHolder,4.0,0,52,4,13.0,9,6,2,3,0
+T201979,Mumbai Vs Sunrisers,Sunrisers,UmranMalik,4.0,0,48,1,12.0,7,8,1,1,0
+T201979,Mumbai Vs Sunrisers,Sunrisers,RashidKhan,4.0,0,40,2,10.0,5,2,3,0,0
+T201979,Mumbai Vs Sunrisers,Sunrisers,AbhishekSharma,1.0,0,4,2,4.0,4,0,0,1,0
+T201979,Mumbai Vs Sunrisers,Mumbai,TrentBoult,4.0,0,30,1,7.5,8,4,0,0,0
+T201979,Mumbai Vs Sunrisers,Mumbai,JaspritBumrah,4.0,0,39,2,9.75,8,4,0,3,0
+T201979,Mumbai Vs Sunrisers,Mumbai,PiyushChawla,4.0,0,38,1,9.5,3,3,1,0,0
+T201979,Mumbai Vs Sunrisers,Mumbai,NathanCoulter-Nile,4.0,0,40,2,10.0,7,6,1,0,0
+T201979,Mumbai Vs Sunrisers,Mumbai,JamesNeesham,3.0,0,28,2,9.33,5,3,1,0,0
+T201979,Mumbai Vs Sunrisers,Mumbai,KrunalPandya,1.0,0,16,0,16.0,1,1,1,0,1
+T204179,KKR Vs Royals,Royals,JaydevUnadkat,4.0,0,35,0,8.75,8,2,2,1,0
+T204179,KKR Vs Royals,Royals,ChrisMorris,4.0,0,28,1,7.0,12,2,1,3,0
+T204179,KKR Vs Royals,Royals,ChetanSakariya,4.0,0,23,1,5.75,12,2,1,0,0
+T204179,KKR Vs Royals,Royals,MustafizurRahman,4.0,0,31,0,7.75,8,2,1,1,0
+T204179,KKR Vs Royals,Royals,ShivamDube,2.0,0,18,0,9.0,1,2,0,0,0
+T204179,KKR Vs Royals,Royals,RahulTewatia,1.0,0,11,1,11.0,1,0,1,1,0
+T204179,KKR Vs Royals,Royals,GlennPhillips,1.0,0,17,1,17.0,1,2,1,1,0
+T204179,KKR Vs Royals,KKR,ShakibAlHasan,1.0,0,1,1,1.0,5,0,0,0,0
+T204179,KKR Vs Royals,KKR,ShivamMavi,3.1,0,21,4,6.63,10,3,0,0,0
+T204179,KKR Vs Royals,KKR,SunilNarine,4.0,0,30,0,7.5,12,1,3,0,0
+T204179,KKR Vs Royals,KKR,LockieFerguson,4.0,0,18,3,4.5,17,3,0,0,0
+T204179,KKR Vs Royals,KKR,VarunChakravarthy,4.0,0,14,1,3.5,16,0,1,0,0
+T201866,Super Kings Vs Punjab Kings,Punjab Kings,MohammedShami,4.0,0,22,1,5.5,14,2,1,1,0
+T201866,Super Kings Vs Punjab Kings,Punjab Kings,HarpreetBrar,4.0,0,22,0,5.5,12,2,0,2,0
+T201866,Super Kings Vs Punjab Kings,Punjab Kings,ArshdeepSingh,4.0,0,35,2,8.75,6,3,1,1,0
+T201866,Super Kings Vs Punjab Kings,Punjab Kings,ChrisJordan,3.0,0,20,2,6.66,6,2,0,1,0
+T201866,Super Kings Vs Punjab Kings,Punjab Kings,RaviBishnoi,4.0,0,25,1,6.25,10,3,0,1,0
+T201866,Super Kings Vs Punjab Kings,Punjab Kings,MoisesHenriques,1.0,0,9,0,9.0,1,1,0,1,0
+T201866,Super Kings Vs Punjab Kings,Super Kings,DeepakChahar,4.0,0,48,1,12.0,5,3,3,3,0
+T201866,Super Kings Vs Punjab Kings,Super Kings,JoshHazlewood,3.0,0,22,0,7.33,10,3,1,0,0
+T201866,Super Kings Vs Punjab Kings,Super Kings,ShardulThakur,3.0,0,28,3,9.33,10,3,2,0,0
+T201866,Super Kings Vs Punjab Kings,Super Kings,RavindraJadeja,1.0,0,9,0,9.0,2,0,1,0,0
+T201866,Super Kings Vs Punjab Kings,Super Kings,DwayneBravo,2.0,0,32,0,16.0,0,0,3,2,0
+T209992,Sunrisers Vs RCB,RCB,MohammedSiraj,3.0,0,17,0,5.66,11,3,0,1,0
+T209992,Sunrisers Vs RCB,RCB,GeorgeGarton,2.0,0,29,1,14.5,3,4,1,2,0
+T209992,Sunrisers Vs RCB,RCB,ShahbazAhmed,4.0,0,21,0,5.25,7,1,0,0,0
+T209992,Sunrisers Vs RCB,RCB,HarshalPatel,4.0,0,33,3,8.25,8,4,0,0,1
+T209992,Sunrisers Vs RCB,RCB,YuzvendraChahal,4.0,0,27,1,6.75,9,1,1,0,0
+T209992,Sunrisers Vs RCB,RCB,DanChristian,3.0,0,14,2,4.66,8,1,0,0,0
+T209992,Sunrisers Vs RCB,Sunrisers,BhuvneshwarKumar,4.0,0,25,1,6.25,11,2,1,0,0
+T209992,Sunrisers Vs RCB,Sunrisers,JasonHolder,4.0,0,27,1,6.75,11,3,0,2,0
+T209992,Sunrisers Vs RCB,Sunrisers,SiddarthKaul,4.0,1,24,1,6.0,12,2,1,0,0
+T209992,Sunrisers Vs RCB,Sunrisers,UmranMalik,4.0,0,21,1,5.25,11,2,0,0,0
+T209992,Sunrisers Vs RCB,Sunrisers,RashidKhan,4.0,0,39,1,9.75,7,3,2,0,0
+T205599,Royals Vs Mumbai,Mumbai,TrentBoult,4.0,0,24,0,6.0,10,1,1,2,0
+T205599,Royals Vs Mumbai,Mumbai,JayantYadav,2.0,0,17,0,8.5,6,2,1,0,0
+T205599,Royals Vs Mumbai,Mumbai,JaspritBumrah,4.0,0,14,2,3.5,18,2,0,0,1
+T205599,Royals Vs Mumbai,Mumbai,NathanCoulter-Nile,4.0,0,14,4,3.5,16,2,0,0,0
+T205599,Royals Vs Mumbai,Mumbai,JamesNeesham,4.0,0,12,3,3.0,13,0,0,0,0
+T205599,Royals Vs Mumbai,Mumbai,KieronPollard,2.0,0,9,0,4.5,3,0,0,0,0
+T205599,Royals Vs Mumbai,Royals,MustafizurRahman,2.2,0,32,1,13.71,6,3,2,1,0
+T205599,Royals Vs Mumbai,Royals,ChetanSakariya,3.0,1,36,1,12.0,9,3,2,0,2
+T205599,Royals Vs Mumbai,Royals,ShreyasGopal,1.0,0,9,0,9.0,2,0,1,0,0
+T205599,Royals Vs Mumbai,Royals,KuldipYadav,2.0,0,16,0,8.0,5,3,0,0,0
+T207682,Super Kings Vs Capitals,Capitals,AnrichNortje,4.0,0,37,1,9.25,8,2,1,2,0
+T207682,Super Kings Vs Capitals,Capitals,AveshKhan,4.0,0,35,1,8.75,12,5,1,2,0
+T207682,Super Kings Vs Capitals,Capitals,AxarPatel,4.0,0,18,2,4.5,6,0,0,0,0
+T207682,Super Kings Vs Capitals,Capitals,KagisoRabada,4.0,0,21,0,5.25,12,3,0,0,0
+T207682,Super Kings Vs Capitals,Capitals,RavichandranAshwin,4.0,0,20,1,5.0,8,0,0,2,0
+T207682,Super Kings Vs Capitals,Super Kings,DeepakChahar,3.0,0,34,1,11.33,9,4,2,2,0
+T207682,Super Kings Vs Capitals,Super Kings,JoshHazlewood,4.0,0,27,1,6.75,10,2,1,0,0
+T207682,Super Kings Vs Capitals,Super Kings,RavindraJadeja,4.0,0,28,2,7.0,10,3,0,1,0
+T207682,Super Kings Vs Capitals,Super Kings,MoeenAli,3.0,0,16,0,5.33,8,0,1,0,0
+T207682,Super Kings Vs Capitals,Super Kings,ShardulThakur,4.0,0,13,2,3.25,12,0,0,0,0
+T207682,Super Kings Vs Capitals,Super Kings,DwayneBravo,1.4,0,20,1,12.0,4,3,0,3,0
+T207430,Sunrisers Vs KKR,KKR,TimSouthee,4.0,0,26,2,6.5,9,3,0,0,0
+T207430,Sunrisers Vs KKR,KKR,ShivamMavi,4.0,0,29,2,7.25,12,5,0,0,1
+T207430,Sunrisers Vs KKR,KKR,VarunChakravarthy,4.0,0,26,2,6.5,13,0,3,0,0
+T207430,Sunrisers Vs KKR,KKR,ShakibAlHasan,4.0,0,20,1,5.0,10,0,1,0,0
+T207430,Sunrisers Vs KKR,KKR,SunilNarine,4.0,0,12,0,3.0,12,0,0,0,0
+T207430,Sunrisers Vs KKR,Sunrisers,BhuvneshwarKumar,4.0,0,20,0,5.0,14,3,0,0,0
+T207430,Sunrisers Vs KKR,Sunrisers,JasonHolder,4.0,0,32,2,8.0,8,5,0,0,0
+T207430,Sunrisers Vs KKR,Sunrisers,UmranMalik,4.0,0,27,0,6.75,13,4,0,2,0
+T207430,Sunrisers Vs KKR,Sunrisers,RashidKhan,4.0,0,23,1,5.75,13,3,0,0,0
+T207430,Sunrisers Vs KKR,Sunrisers,SiddarthKaul,3.4,0,17,1,4.63,11,2,0,0,0
+T207754,RCB Vs Punjab Kings,Punjab Kings,AidenMarkram,1.0,0,5,0,5.0,4,1,0,0,0
+T207754,RCB Vs Punjab Kings,Punjab Kings,MohammedShami,4.0,0,39,3,9.75,6,3,2,0,0
+T207754,RCB Vs Punjab Kings,Punjab Kings,ArshdeepSingh,3.0,0,42,0,14.0,6,3,3,4,0
+T207754,RCB Vs Punjab Kings,Punjab Kings,RaviBishnoi,4.0,0,35,0,8.75,11,3,2,1,0
+T207754,RCB Vs Punjab Kings,Punjab Kings,HarpreetBrar,4.0,0,26,0,6.5,14,0,3,0,0
+T207754,RCB Vs Punjab Kings,Punjab Kings,MoisesHenriques,4.0,0,12,3,3.0,13,0,0,0,0
+T207754,RCB Vs Punjab Kings,RCB,MohammedSiraj,4.0,0,33,0,8.25,9,4,1,1,0
+T207754,RCB Vs Punjab Kings,RCB,GeorgeGarton,4.0,0,27,1,6.75,10,1,1,2,1
+T207754,RCB Vs Punjab Kings,RCB,ShahbazAhmed,3.0,0,29,1,9.66,4,1,2,0,0
+T207754,RCB Vs Punjab Kings,RCB,HarshalPatel,4.0,0,27,0,6.75,10,0,2,0,0
+T207754,RCB Vs Punjab Kings,RCB,YuzvendraChahal,4.0,0,29,3,7.25,9,2,1,2,0
+T207754,RCB Vs Punjab Kings,RCB,DanChristian,1.0,0,11,0,11.0,1,2,0,0,0
+T205672,Super Kings Vs Royals,Royals,AkashSingh,4.0,0,39,0,9.75,7,5,1,0,0
+T205672,Super Kings Vs Royals,Royals,ChetanSakariya,4.0,0,31,1,7.75,10,4,0,2,0
+T205672,Super Kings Vs Royals,Royals,MustafizurRahman,4.0,0,51,0,12.75,4,3,4,1,0
+T205672,Super Kings Vs Royals,Royals,RahulTewatia,4.0,0,39,3,9.75,5,2,2,2,0
+T205672,Super Kings Vs Royals,Royals,MayankMarkande,3.0,0,26,0,8.66,4,2,1,0,0
+T205672,Super Kings Vs Royals,Royals,GlennPhillips,1.0,0,3,0,3.0,3,0,0,0,0
+T205672,Super Kings Vs Royals,Super Kings,SamCurran,4.0,0,55,0,13.75,4,5,3,2,1
+T205672,Super Kings Vs Royals,Super Kings,JoshHazlewood,4.0,0,54,0,13.5,8,7,3,0,0
+T205672,Super Kings Vs Royals,Super Kings,ShardulThakur,4.0,0,30,2,7.5,11,3,1,2,0
+T205672,Super Kings Vs Royals,Super Kings,KMAsif,2.1,0,18,1,8.3,2,1,0,0,1
+T205672,Super Kings Vs Royals,Super Kings,MoeenAli,2.2,0,23,0,9.85,4,1,2,0,0
+T205672,Super Kings Vs Royals,Super Kings,RavindraJadeja,1.0,0,9,0,9.0,3,0,1,0,0
+T209349,Mumbai Vs Capitals,Capitals,AnrichNortje,4.0,1,19,1,4.75,15,3,0,0,0
+T209349,Mumbai Vs Capitals,Capitals,AveshKhan,4.0,0,15,3,3.75,16,2,0,1,0
+T209349,Mumbai Vs Capitals,Capitals,RavichandranAshwin,4.0,0,41,1,10.25,6,2,3,2,0
+T209349,Mumbai Vs Capitals,Capitals,KagisoRabada,4.0,0,33,0,8.25,9,1,2,1,1
+T209349,Mumbai Vs Capitals,Capitals,AxarPatel,4.0,0,21,3,5.25,8,1,0,1,0
+T209349,Mumbai Vs Capitals,Mumbai,TrentBoult,4.0,0,24,1,6.0,7,1,0,1,0
+T209349,Mumbai Vs Capitals,Mumbai,JayantYadav,4.0,0,31,1,7.75,9,2,1,1,0
+T209349,Mumbai Vs Capitals,Mumbai,KrunalPandya,2.1,0,18,1,8.3,5,0,2,0,0
+T209349,Mumbai Vs Capitals,Mumbai,JaspritBumrah,4.0,0,29,1,7.25,10,3,1,0,0
+T209349,Mumbai Vs Capitals,Mumbai,NathanCoulter-Nile,4.0,0,19,1,4.75,12,2,0,0,0
+T209349,Mumbai Vs Capitals,Mumbai,KieronPollard,1.0,0,9,0,9.0,2,1,0,2,0
+T201051,KKR Vs Punjab Kings,Punjab Kings,FabianAllen,4.0,0,38,0,9.5,5,3,2,0,0
+T201051,KKR Vs Punjab Kings,Punjab Kings,MohammedShami,4.0,0,23,1,5.75,10,2,0,1,0
+T201051,KKR Vs Punjab Kings,Punjab Kings,ArshdeepSingh,4.0,0,32,3,8.0,10,2,1,2,0
+T201051,KKR Vs Punjab Kings,Punjab Kings,NathanEllis,4.0,0,46,0,11.5,4,6,1,1,0
+T201051,KKR Vs Punjab Kings,Punjab Kings,RaviBishnoi,4.0,0,22,2,5.5,9,2,0,0,0
+T201051,KKR Vs Punjab Kings,KKR,TimSouthee,4.0,0,40,0,10.0,5,3,2,1,0
+T201051,KKR Vs Punjab Kings,KKR,ShivamMavi,4.0,0,31,1,7.75,12,4,1,0,0
+T201051,KKR Vs Punjab Kings,KKR,VarunChakravarthy,4.0,0,24,2,6.0,8,1,1,0,0
+T201051,KKR Vs Punjab Kings,KKR,SunilNarine,4.0,0,34,1,8.5,5,0,2,2,0
+T201051,KKR Vs Punjab Kings,KKR,VenkateshIyer,2.3,0,30,1,12.0,2,0,3,0,1
+T201051,KKR Vs Punjab Kings,KKR,NitishRana,1.0,0,7,0,7.0,1,0,0,0,0
+T203061,Sunrisers Vs Super Kings,Super Kings,DeepakChahar,4.0,0,32,0,8.0,9,2,2,0,0
+T203061,Sunrisers Vs Super Kings,Super Kings,JoshHazlewood,4.0,0,24,3,6.0,13,1,2,0,0
+T203061,Sunrisers Vs Super Kings,Super Kings,ShardulThakur,4.0,0,37,1,9.25,7,4,0,1,1
+T203061,Sunrisers Vs Super Kings,Super Kings,DwayneBravo,4.0,0,17,2,4.25,10,0,0,3,0
+T203061,Sunrisers Vs Super Kings,Super Kings,RavindraJadeja,3.0,0,14,1,4.66,5,0,0,0,0
+T203061,Sunrisers Vs Super Kings,Super Kings,MoeenAli,1.0,0,5,0,5.0,2,0,0,0,0
+T203061,Sunrisers Vs Super Kings,Sunrisers,SandeepSharma,3.0,0,18,0,6.0,7,1,0,0,0
+T203061,Sunrisers Vs Super Kings,Sunrisers,BhuvneshwarKumar,4.0,0,34,0,8.5,12,1,3,2,0
+T203061,Sunrisers Vs Super Kings,Sunrisers,JasonHolder,4.0,0,27,3,6.75,9,3,0,0,0
+T203061,Sunrisers Vs Super Kings,Sunrisers,RashidKhan,4.0,0,27,1,6.75,12,3,1,1,0
+T203061,Sunrisers Vs Super Kings,Sunrisers,SiddarthKaul,2.4,0,24,0,9.0,8,2,2,0,0
+T203061,Sunrisers Vs Super Kings,Sunrisers,AbhishekSharma,2.0,0,9,0,4.5,6,1,0,0,0
+T204742,Royals Vs RCB,RCB,GeorgeGarton,3.0,0,30,1,10.0,9,1,3,1,0
+T204742,Royals Vs RCB,RCB,MohammedSiraj,3.0,0,18,0,6.0,7,2,0,1,0
+T204742,Royals Vs RCB,RCB,GlennMaxwell,2.0,0,17,0,8.5,4,1,1,0,0
+T204742,Royals Vs RCB,RCB,HarshalPatel,4.0,0,34,3,8.5,10,4,1,1,0
+T204742,Royals Vs RCB,RCB,DanChristian,2.0,0,21,1,10.5,3,2,1,0,0
+T204742,Royals Vs RCB,RCB,YuzvendraChahal,4.0,0,18,2,4.5,11,0,1,0,0
+T204742,Royals Vs RCB,RCB,ShahbazAhmed,2.0,0,10,2,5.0,2,0,0,0,0
+T204742,Royals Vs RCB,Royals,ChrisMorris,4.0,0,50,0,12.5,5,6,2,0,0
+T204742,Royals Vs RCB,Royals,KartikTyagi,2.0,0,23,0,11.5,3,3,0,2,0
+T204742,Royals Vs RCB,Royals,ChetanSakariya,3.0,0,18,0,6.0,8,2,0,1,0
+T204742,Royals Vs RCB,Royals,MustafizurRahman,3.0,0,20,2,6.66,8,2,0,0,0
+T204742,Royals Vs RCB,Royals,RahulTewatia,3.0,0,23,0,7.66,4,3,0,0,0
+T204742,Royals Vs RCB,Royals,MahipalLomror,2.0,0,13,0,6.5,3,1,0,1,0
+T204742,Royals Vs RCB,Royals,RiyanParag,0.1,0,4,0,24.0,0,1,0,0,0
+T208262,Punjab Kings Vs Mumbai,Mumbai,KrunalPandya,4.0,0,24,1,6.0,6,1,0,0,1
+T208262,Punjab Kings Vs Mumbai,Mumbai,TrentBoult,3.0,0,30,0,10.0,7,4,1,1,0
+T208262,Punjab Kings Vs Mumbai,Mumbai,JaspritBumrah,4.0,0,24,2,6.0,11,2,0,0,0
+T208262,Punjab Kings Vs Mumbai,Mumbai,NathanCoulter-Nile,4.0,0,19,0,4.75,10,1,0,0,0
+T208262,Punjab Kings Vs Mumbai,Mumbai,KieronPollard,1.0,0,8,2,8.0,2,1,0,1,0
+T208262,Punjab Kings Vs Mumbai,Mumbai,RahulChahar,4.0,0,27,1,6.75,6,2,0,0,0
+T208262,Punjab Kings Vs Mumbai,Punjab Kings,AidenMarkram,3.0,0,18,0,6.0,5,1,0,1,0
+T208262,Punjab Kings Vs Mumbai,Punjab Kings,MohammedShami,4.0,0,42,1,10.5,9,5,2,0,0
+T208262,Punjab Kings Vs Mumbai,Punjab Kings,ArshdeepSingh,4.0,0,29,0,7.25,9,2,1,1,0
+T208262,Punjab Kings Vs Mumbai,Punjab Kings,RaviBishnoi,4.0,0,25,2,6.25,11,2,1,0,0
+T208262,Punjab Kings Vs Mumbai,Punjab Kings,NathanEllis,3.0,0,12,1,4.0,10,1,0,0,0
+T208262,Punjab Kings Vs Mumbai,Punjab Kings,HarpreetBrar,1.0,0,11,0,11.0,1,0,1,0,0
+T206700,Capitals Vs KKR,KKR,SandeepWarrier,2.0,0,15,0,7.5,6,3,0,0,0
+T206700,Capitals Vs KKR,KKR,TimSouthee,4.0,0,29,1,7.25,9,4,0,1,0
+T206700,Capitals Vs KKR,KKR,LockieFerguson,2.0,0,10,2,5.0,6,1,0,0,0
+T206700,Capitals Vs KKR,KKR,VarunChakravarthy,4.0,0,24,0,6.0,8,2,0,1,0
+T206700,Capitals Vs KKR,KKR,SunilNarine,4.0,0,18,2,4.5,10,1,0,0,0
+T206700,Capitals Vs KKR,KKR,VenkateshIyer,4.0,0,29,2,7.25,8,3,0,2,0
+T206700,Capitals Vs KKR,Capitals,AnrichNortje,2.2,0,15,1,6.42,9,3,0,1,0
+T206700,Capitals Vs KKR,Capitals,AxarPatel,3.0,0,13,0,4.33,10,0,1,0,0
+T206700,Capitals Vs KKR,Capitals,RavichandranAshwin,4.0,0,24,1,6.0,10,1,1,1,0
+T206700,Capitals Vs KKR,Capitals,LalitYadav,3.0,0,35,1,11.66,5,1,3,0,0
+T206700,Capitals Vs KKR,Capitals,AveshKhan,3.0,0,13,3,4.33,9,1,0,0,0
+T206700,Capitals Vs KKR,Capitals,KagisoRabada,3.0,1,28,1,9.33,10,2,2,0,1
+T206862,Royals Vs Sunrisers,Sunrisers,SandeepSharma,3.0,0,30,1,10.0,5,4,1,0,0
+T206862,Royals Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,1,28,1,7.0,8,3,0,1,0
+T206862,Royals Vs Sunrisers,Sunrisers,JasonHolder,4.0,0,27,0,6.75,7,1,1,1,0
+T206862,Royals Vs Sunrisers,Sunrisers,SiddarthKaul,4.0,0,36,2,9.0,10,3,2,0,0
+T206862,Royals Vs Sunrisers,Sunrisers,RashidKhan,4.0,0,31,1,7.75,7,2,1,1,0
+T206862,Royals Vs Sunrisers,Sunrisers,AbhishekSharma,1.0,0,8,0,8.0,1,1,0,0,0
+T206862,Royals Vs Sunrisers,Royals,JaydevUnadkat,2.0,0,20,0,10.0,4,2,1,1,0
+T206862,Royals Vs Sunrisers,Royals,ChrisMorris,3.0,0,27,0,9.0,6,4,0,0,0
+T206862,Royals Vs Sunrisers,Royals,MustafizurRahman,3.3,0,26,1,7.42,11,5,0,1,0
+T206862,Royals Vs Sunrisers,Royals,MahipalLomror,3.0,0,22,1,7.33,6,1,1,0,0
+T206862,Royals Vs Sunrisers,Royals,RahulTewatia,3.0,0,32,0,10.66,3,3,1,2,0
+T206862,Royals Vs Sunrisers,Royals,ChetanSakariya,4.0,0,32,1,8.0,7,1,1,4,0
+T203043,RCB Vs Mumbai,Mumbai,TrentBoult,4.0,0,17,1,4.25,16,1,1,1,0
+T203043,RCB Vs Mumbai,Mumbai,JaspritBumrah,4.0,0,36,3,9.0,12,4,2,2,0
+T203043,RCB Vs Mumbai,Mumbai,AdamMilne,4.0,0,48,1,12.0,7,6,2,0,1
+T203043,RCB Vs Mumbai,Mumbai,KrunalPandya,4.0,0,27,0,6.75,8,0,1,3,0
+T203043,RCB Vs Mumbai,Mumbai,RahulChahar,4.0,0,33,1,8.25,11,1,3,0,0
+T203043,RCB Vs Mumbai,RCB,KyleJamieson,2.0,0,22,0,11.0,3,3,0,0,1
+T203043,RCB Vs Mumbai,RCB,MohammedSiraj,3.0,0,15,1,5.0,12,3,0,0,0
+T203043,RCB Vs Mumbai,RCB,DanChristian,2.0,0,21,0,10.5,2,3,0,0,0
+T203043,RCB Vs Mumbai,RCB,HarshalPatel,3.1,0,17,4,5.36,10,1,0,3,0
+T203043,RCB Vs Mumbai,RCB,YuzvendraChahal,4.0,1,11,3,2.75,16,1,0,0,0
+T203043,RCB Vs Mumbai,RCB,GlennMaxwell,4.0,0,23,2,5.75,8,0,1,1,0
+T202406,KKR Vs Super Kings,Super Kings,DeepakChahar,4.0,0,32,0,8.0,8,5,0,1,0
+T202406,KKR Vs Super Kings,Super Kings,SamCurran,4.0,0,56,0,14.0,5,6,3,2,1
+T202406,KKR Vs Super Kings,Super Kings,JoshHazlewood,4.0,0,40,2,10.0,8,5,1,2,0
+T202406,KKR Vs Super Kings,Super Kings,ShardulThakur,4.0,1,20,2,5.0,10,1,0,0,0
+T202406,KKR Vs Super Kings,Super Kings,RavindraJadeja,4.0,0,21,1,5.25,5,0,0,0,0
+T202406,KKR Vs Super Kings,KKR,PrasidhKrishna,4.0,0,41,1,10.25,9,5,2,0,0
+T202406,KKR Vs Super Kings,KKR,LockieFerguson,4.0,0,33,1,8.25,10,3,1,1,1
+T202406,KKR Vs Super Kings,KKR,VarunChakravarthy,4.0,0,22,1,5.5,9,2,0,0,0
+T202406,KKR Vs Super Kings,KKR,SunilNarine,4.0,0,41,3,10.25,7,3,2,0,0
+T202406,KKR Vs Super Kings,KKR,AndreRussell,3.0,0,28,1,9.33,3,2,1,1,0
+T202406,KKR Vs Super Kings,KKR,VenkateshIyer,1.0,0,5,0,5.0,2,0,0,0,0
+T203188,Punjab Kings Vs Sunrisers,Sunrisers,SandeepSharma,4.0,0,20,1,5.0,12,1,1,0,0
+T203188,Punjab Kings Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,34,1,8.5,10,3,1,1,0
+T203188,Punjab Kings Vs Sunrisers,Sunrisers,JasonHolder,4.0,0,19,3,4.75,9,0,0,1,0
+T203188,Punjab Kings Vs Sunrisers,Sunrisers,KhaleelAhmed,3.0,0,22,0,7.33,5,2,0,1,0
+T203188,Punjab Kings Vs Sunrisers,Sunrisers,RashidKhan,4.0,0,17,1,4.25,11,1,0,0,0
+T203188,Punjab Kings Vs Sunrisers,Sunrisers,AbdulSamad,1.0,0,9,1,9.0,1,1,0,0,0
+T203188,Punjab Kings Vs Sunrisers,Punjab Kings,MohammedShami,4.0,1,14,2,3.5,17,0,1,0,0
+T203188,Punjab Kings Vs Sunrisers,Punjab Kings,ArshdeepSingh,4.0,0,22,1,5.5,9,1,0,0,0
+T203188,Punjab Kings Vs Sunrisers,Punjab Kings,NathanEllis,4.0,0,32,0,8.0,10,0,3,1,0
+T203188,Punjab Kings Vs Sunrisers,Punjab Kings,HarpreetBrar,4.0,0,25,0,6.25,6,0,0,1,0
+T203188,Punjab Kings Vs Sunrisers,Punjab Kings,RaviBishnoi,4.0,0,24,3,6.0,10,1,1,1,0
+T202046,Capitals Vs Royals,Royals,MustafizurRahman,4.0,0,22,2,5.5,6,0,0,0,0
+T202046,Capitals Vs Royals,Royals,MahipalLomror,1.0,0,5,0,5.0,4,1,0,0,0
+T202046,Capitals Vs Royals,Royals,ChetanSakariya,4.0,0,33,2,8.25,7,2,1,1,0
+T202046,Capitals Vs Royals,Royals,KartikTyagi,4.0,0,40,1,10.0,9,6,0,5,0
+T202046,Capitals Vs Royals,Royals,TabraizShamsi,4.0,0,34,0,8.5,2,1,1,0,0
+T202046,Capitals Vs Royals,Royals,RahulTewatia,3.0,0,17,1,5.66,6,0,1,0,0
+T202046,Capitals Vs Royals,Capitals,AveshKhan,4.0,0,29,1,7.25,6,0,1,1,0
+T202046,Capitals Vs Royals,Capitals,AnrichNortje,4.0,0,18,2,4.5,12,1,0,0,0
+T202046,Capitals Vs Royals,Capitals,RavichandranAshwin,4.0,0,20,1,5.0,14,1,1,1,0
+T202046,Capitals Vs Royals,Capitals,KagisoRabada,4.0,0,26,1,6.5,13,4,0,2,0
+T202046,Capitals Vs Royals,Capitals,AxarPatel,4.0,0,27,1,6.75,5,2,0,1,0
+T207776,RCB Vs Super Kings,Super Kings,DeepakChahar,4.0,0,35,1,8.75,7,6,0,0,0
+T207776,RCB Vs Super Kings,Super Kings,JoshHazlewood,4.0,0,34,0,8.5,7,1,2,1,0
+T207776,RCB Vs Super Kings,Super Kings,ShardulThakur,4.0,0,29,2,7.25,9,1,2,0,0
+T207776,RCB Vs Super Kings,Super Kings,RavindraJadeja,4.0,0,31,0,7.75,7,2,1,0,0
+T207776,RCB Vs Super Kings,Super Kings,DwayneBravo,4.0,0,24,3,6.0,10,1,1,1,0
+T207776,RCB Vs Super Kings,RCB,MohammedSiraj,3.0,0,23,0,7.66,5,3,0,0,0
+T207776,RCB Vs Super Kings,RCB,NavdeepSaini,2.0,0,25,0,12.5,4,2,2,0,0
+T207776,RCB Vs Super Kings,RCB,WaninduHasaranga,4.0,0,40,0,10.0,7,2,3,0,0
+T207776,RCB Vs Super Kings,RCB,HarshalPatel,3.1,0,25,2,7.89,7,3,0,1,2
+T207776,RCB Vs Super Kings,RCB,YuzvendraChahal,4.0,0,26,1,6.5,10,2,1,1,0
+T207776,RCB Vs Super Kings,RCB,GlennMaxwell,2.0,0,17,1,8.5,3,1,1,0,0
+T202680,Mumbai Vs KKR,KKR,NitishRana,1.0,0,5,0,5.0,4,1,0,0,0
+T202680,Mumbai Vs KKR,KKR,VarunChakravarthy,4.0,0,22,0,5.5,9,2,0,1,0
+T202680,Mumbai Vs KKR,KKR,SunilNarine,4.0,0,20,1,5.0,10,2,0,0,0
+T202680,Mumbai Vs KKR,KKR,LockieFerguson,4.0,0,27,2,6.75,9,2,1,0,0
+T202680,Mumbai Vs KKR,KKR,PrasidhKrishna,4.0,0,43,2,10.75,10,1,3,4,2
+T202680,Mumbai Vs KKR,KKR,AndreRussell,3.0,0,37,0,12.33,4,3,2,1,0
+T202680,Mumbai Vs KKR,Mumbai,TrentBoult,2.0,0,23,0,11.5,4,1,2,0,0
+T202680,Mumbai Vs KKR,Mumbai,AdamMilne,3.0,0,29,0,9.66,6,3,1,1,0
+T202680,Mumbai Vs KKR,Mumbai,JaspritBumrah,4.0,0,43,3,10.75,8,5,1,1,0
+T202680,Mumbai Vs KKR,Mumbai,KrunalPandya,3.0,0,25,0,8.33,7,1,2,0,0
+T202680,Mumbai Vs KKR,Mumbai,RahulChahar,3.0,0,34,0,11.33,6,3,2,0,0
+T202680,Mumbai Vs KKR,Mumbai,RohitSharma,0.1,0,4,0,24.0,0,1,0,0,0
+T204364,Sunrisers Vs Capitals,Capitals,AnrichNortje,4.0,0,12,2,3.0,14,0,0,0,0
+T204364,Sunrisers Vs Capitals,Capitals,AveshKhan,4.0,0,27,0,6.75,13,2,1,2,1
+T204364,Sunrisers Vs Capitals,Capitals,AxarPatel,4.0,0,21,2,5.25,9,2,0,0,0
+T204364,Sunrisers Vs Capitals,Capitals,KagisoRabada,4.0,0,37,3,9.25,13,3,3,0,1
+T204364,Sunrisers Vs Capitals,Capitals,MarcusStoinis,1.1,0,8,0,6.85,1,0,0,0,0
+T204364,Sunrisers Vs Capitals,Capitals,RavichandranAshwin,2.5,0,22,0,7.76,4,2,0,1,1
+T204364,Sunrisers Vs Capitals,Sunrisers,KhaleelAhmed,4.0,0,33,1,8.25,9,3,1,2,0
+T204364,Sunrisers Vs Capitals,Sunrisers,BhuvneshwarKumar,3.0,0,21,0,7.0,8,2,1,0,0
+T204364,Sunrisers Vs Capitals,Sunrisers,JasonHolder,3.5,0,33,0,8.6,9,4,1,1,0
+T204364,Sunrisers Vs Capitals,Sunrisers,RashidKhan,4.0,0,26,1,6.5,9,0,2,1,0
+T204364,Sunrisers Vs Capitals,Sunrisers,SandeepSharma,3.0,0,26,0,8.66,8,4,0,0,0
+T207857,Royals Vs Punjab Kings,Punjab Kings,MohammedShami,4.0,0,21,3,5.25,13,3,0,0,0
+T207857,Royals Vs Punjab Kings,Punjab Kings,IshanPorel,4.0,0,39,1,9.75,10,6,1,2,0
+T207857,Royals Vs Punjab Kings,Punjab Kings,DeepakHooda,2.0,0,37,0,18.5,2,5,2,0,0
+T207857,Royals Vs Punjab Kings,Punjab Kings,ArshdeepSingh,4.0,0,32,5,8.0,11,2,1,3,0
+T207857,Royals Vs Punjab Kings,Punjab Kings,AdilRashid,3.0,0,35,0,11.66,6,1,4,0,0
+T207857,Royals Vs Punjab Kings,Punjab Kings,HarpreetBrar,3.0,0,17,1,5.66,4,1,0,0,0
+T207857,Royals Vs Punjab Kings,Royals,MustafizurRahman,4.0,0,30,0,7.5,7,2,1,0,0
+T207857,Royals Vs Punjab Kings,Royals,ChetanSakariya,3.0,0,31,1,10.33,5,2,2,1,0
+T207857,Royals Vs Punjab Kings,Royals,KartikTyagi,4.0,0,29,2,7.25,12,5,0,0,1
+T207857,Royals Vs Punjab Kings,Royals,ChrisMorris,4.0,0,47,0,11.75,5,2,3,5,0
+T207857,Royals Vs Punjab Kings,Royals,RahulTewatia,3.0,0,23,1,7.66,3,2,0,1,0
+T207857,Royals Vs Punjab Kings,Royals,MahipalLomror,1.0,0,7,0,7.0,0,0,0,0,0
+T207857,Royals Vs Punjab Kings,Royals,RiyanParag,1.0,0,16,0,16.0,0,1,1,0,0
+T204307,RCB Vs KKR,KKR,VarunChakravarthy,4.0,0,13,3,3.25,15,0,0,0,0
+T204307,RCB Vs KKR,KKR,PrasidhKrishna,4.0,0,24,1,6.0,14,3,0,1,2
+T204307,RCB Vs KKR,KKR,LockieFerguson,4.0,0,24,2,6.0,11,3,0,0,1
+T204307,RCB Vs KKR,KKR,SunilNarine,4.0,0,20,0,5.0,12,2,0,0,0
+T204307,RCB Vs KKR,KKR,AndreRussell,3.0,0,9,3,3.0,10,0,0,0,0
+T204307,RCB Vs KKR,RCB,MohammedSiraj,2.0,0,12,0,6.0,8,2,0,1,0
+T204307,RCB Vs KKR,RCB,KyleJamieson,2.0,0,26,0,13.0,4,3,1,2,1
+T204307,RCB Vs KKR,RCB,WaninduHasaranga,2.0,0,20,0,10.0,4,2,1,0,0
+T204307,RCB Vs KKR,RCB,YuzvendraChahal,2.0,0,23,1,11.5,5,5,0,0,0
+T204307,RCB Vs KKR,RCB,HarshalPatel,2.0,0,13,0,6.5,3,1,0,1,0
+T201256,Super Kings Vs Mumbai,Mumbai,TrentBoult,4.0,1,35,2,8.75,13,3,3,0,0
+T201256,Super Kings Vs Mumbai,Mumbai,AdamMilne,4.0,0,21,2,5.25,14,2,1,0,0
+T201256,Super Kings Vs Mumbai,Mumbai,JaspritBumrah,4.0,0,33,2,8.25,11,1,2,2,0
+T201256,Super Kings Vs Mumbai,Mumbai,KieronPollard,2.0,0,15,0,7.5,4,2,0,1,0
+T201256,Super Kings Vs Mumbai,Mumbai,RahulChahar,4.0,0,22,0,5.5,10,1,0,0,0
+T201256,Super Kings Vs Mumbai,Mumbai,KrunalPandya,2.0,0,27,0,13.5,2,2,1,2,0
+T201256,Super Kings Vs Mumbai,Super Kings,DeepakChahar,4.0,0,19,2,4.75,13,2,0,0,0
+T201256,Super Kings Vs Mumbai,Super Kings,JoshHazlewood,4.0,0,34,1,8.5,8,4,1,0,0
+T201256,Super Kings Vs Mumbai,Super Kings,ShardulThakur,4.0,0,29,1,7.25,9,2,1,2,0
+T201256,Super Kings Vs Mumbai,Super Kings,MoeenAli,3.0,0,16,0,5.33,4,0,0,0,0
+T201256,Super Kings Vs Mumbai,Super Kings,DwayneBravo,4.0,0,25,3,6.25,11,3,0,2,0
+T201256,Super Kings Vs Mumbai,Super Kings,RavindraJadeja,1.0,0,13,0,13.0,1,1,1,0,0
+T208407,Punjab Kings Vs Capitals,Capitals,IshantSharma,4.0,1,37,0,9.25,9,2,3,0,0
+T208407,Punjab Kings Vs Capitals,Capitals,MarcusStoinis,1.0,0,6,0,6.0,0,0,0,0,0
+T208407,Punjab Kings Vs Capitals,Capitals,KagisoRabada,4.0,0,36,3,9.0,6,0,3,0,0
+T208407,Punjab Kings Vs Capitals,Capitals,AveshKhan,4.0,0,39,1,9.75,8,5,1,2,0
+T208407,Punjab Kings Vs Capitals,Capitals,LalitYadav,3.0,0,25,0,8.33,2,2,0,0,0
+T208407,Punjab Kings Vs Capitals,Capitals,AxarPatel,4.0,0,21,1,5.25,11,2,0,0,0
+T208407,Punjab Kings Vs Capitals,Punjab Kings,RileyMeredith,3.4,0,35,1,9.54,7,2,2,3,0
+T208407,Punjab Kings Vs Capitals,Punjab Kings,MohammedShami,3.0,0,37,0,12.33,6,5,2,0,0
+T208407,Punjab Kings Vs Capitals,Punjab Kings,RaviBishnoi,4.0,0,42,0,10.5,7,3,3,0,0
+T208407,Punjab Kings Vs Capitals,Punjab Kings,ChrisJordan,2.0,0,21,1,10.5,4,2,1,0,0
+T208407,Punjab Kings Vs Capitals,Punjab Kings,HarpreetBrar,3.0,0,19,1,6.33,4,0,0,0,0
+T208407,Punjab Kings Vs Capitals,Punjab Kings,DeepakHooda,2.0,0,11,0,5.5,3,0,0,0,0
+T209103,Royals Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,37,0,9.25,7,4,1,1,0
+T209103,Royals Vs Sunrisers,Sunrisers,SandeepSharma,4.0,0,50,1,12.5,7,2,4,2,1
+T209103,Royals Vs Sunrisers,Sunrisers,RashidKhan,4.0,0,24,1,6.0,10,3,0,0,0
+T209103,Royals Vs Sunrisers,Sunrisers,KhaleelAhmed,4.0,0,41,0,10.25,8,4,2,0,0
+T209103,Royals Vs Sunrisers,Sunrisers,VijayShankar,3.0,0,42,1,14.0,4,2,3,4,0
+T209103,Royals Vs Sunrisers,Sunrisers,MohammadNabi,1.0,0,21,0,21.0,1,2,2,0,0
+T209103,Royals Vs Sunrisers,Royals,KartikTyagi,4.0,0,32,1,8.0,13,3,2,1,0
+T209103,Royals Vs Sunrisers,Royals,MustafizurRahman,4.0,0,20,3,5.0,12,2,0,2,0
+T209103,Royals Vs Sunrisers,Royals,ChetanSakariya,4.0,0,38,0,9.5,7,3,2,1,0
+T209103,Royals Vs Sunrisers,Royals,ChrisMorris,4.0,0,29,3,7.25,8,3,0,3,0
+T209103,Royals Vs Sunrisers,Royals,RahulTewatia,4.0,0,45,1,11.25,2,2,3,0,0
+T203694,Super Kings Vs Mumbai,Mumbai,TrentBoult,4.0,0,42,1,10.5,10,4,3,1,0
+T203694,Super Kings Vs Mumbai,Mumbai,DhawalKulkarni,4.0,0,48,0,12.0,7,3,4,2,0
+T203694,Super Kings Vs Mumbai,Mumbai,JaspritBumrah,4.0,0,56,1,14.0,5,4,4,2,1
+T203694,Super Kings Vs Mumbai,Mumbai,RahulChahar,4.0,0,32,0,8.0,8,0,3,1,0
+T203694,Super Kings Vs Mumbai,Mumbai,JamesNeesham,2.0,0,26,0,13.0,3,2,2,0,0
+T203694,Super Kings Vs Mumbai,Mumbai,KieronPollard,2.0,0,12,2,6.0,4,1,0,1,0
+T203694,Super Kings Vs Mumbai,Super Kings,DeepakChahar,4.0,0,37,0,9.25,8,4,1,2,0
+T203694,Super Kings Vs Mumbai,Super Kings,SamCurran,4.0,0,34,3,8.5,11,3,2,1,0
+T203694,Super Kings Vs Mumbai,Super Kings,LungiNgidi,4.0,0,62,0,15.5,3,5,5,0,0
+T203694,Super Kings Vs Mumbai,Super Kings,ShardulThakur,4.0,0,56,1,14.0,4,4,3,5,0
+T203694,Super Kings Vs Mumbai,Super Kings,RavindraJadeja,3.0,0,29,1,9.66,5,0,3,0,0
+T203694,Super Kings Vs Mumbai,Super Kings,MoeenAli,1.0,0,1,1,1.0,5,0,0,0,0
+T208245,Punjab Kings Vs RCB,RCB,DanielSams,4.0,0,24,1,6.0,11,1,1,2,0
+T208245,Punjab Kings Vs RCB,RCB,MohammedSiraj,3.0,0,24,0,8.0,7,2,1,1,0
+T208245,Punjab Kings Vs RCB,RCB,KyleJamieson,3.0,0,32,2,10.66,7,5,1,1,0
+T208245,Punjab Kings Vs RCB,RCB,YuzvendraChahal,4.0,0,34,1,8.5,9,1,3,0,0
+T208245,Punjab Kings Vs RCB,RCB,HarshalPatel,4.0,0,53,0,13.25,5,6,3,0,0
+T208245,Punjab Kings Vs RCB,RCB,ShahbazAhmed,2.0,0,11,1,5.5,2,0,0,0,0
+T208245,Punjab Kings Vs RCB,Punjab Kings,RileyMeredith,3.2,0,29,1,8.7,7,2,2,0,0
+T208245,Punjab Kings Vs RCB,Punjab Kings,MohammedShami,3.4,0,28,1,7.63,9,3,1,0,0
+T208245,Punjab Kings Vs RCB,Punjab Kings,RaviBishnoi,4.0,0,17,2,4.25,10,0,0,1,0
+T208245,Punjab Kings Vs RCB,Punjab Kings,HarpreetBrar,4.0,1,19,3,4.75,15,1,1,0,0
+T208245,Punjab Kings Vs RCB,Punjab Kings,ChrisJordan,4.0,0,31,1,7.75,9,3,1,1,0
+T208245,Punjab Kings Vs RCB,Punjab Kings,DeepakHooda,1.0,0,13,0,13.0,1,1,1,0,0
+T201595,KKR Vs Capitals,Capitals,IshantSharma,4.0,0,34,0,8.5,6,3,1,0,0
+T201595,KKR Vs Capitals,Capitals,KagisoRabada,4.0,0,31,0,7.75,10,2,2,1,0
+T201595,KKR Vs Capitals,Capitals,AxarPatel,4.0,0,32,2,8.0,11,1,3,0,0
+T201595,KKR Vs Capitals,Capitals,AveshKhan,4.0,0,31,1,7.75,8,3,1,0,0
+T201595,KKR Vs Capitals,Capitals,LalitYadav,3.0,0,13,2,4.33,6,0,0,0,0
+T201595,KKR Vs Capitals,Capitals,MarcusStoinis,1.0,0,7,1,7.0,3,1,0,0,0
+T201595,KKR Vs Capitals,KKR,ShivamMavi,1.0,0,25,0,25.0,0,6,0,1,0
+T201595,KKR Vs Capitals,KKR,VarunChakravarthy,4.0,0,34,0,8.5,5,2,1,2,0
+T201595,KKR Vs Capitals,KKR,PrasidhKrishna,3.3,0,36,0,10.28,10,5,1,0,1
+T201595,KKR Vs Capitals,KKR,SunilNarine,4.0,0,36,0,9.0,6,2,2,1,0
+T201595,KKR Vs Capitals,KKR,PatCummins,4.0,0,24,3,6.0,15,3,1,0,0
+T209461,Royals Vs Mumbai,Mumbai,TrentBoult,4.0,0,37,1,9.25,7,4,1,0,0
+T209461,Royals Vs Mumbai,Mumbai,JaspritBumrah,4.0,0,15,1,3.75,12,1,0,0,0
+T209461,Royals Vs Mumbai,Mumbai,JayantYadav,3.0,0,37,0,12.33,3,1,3,3,0
+T209461,Royals Vs Mumbai,Mumbai,NathanCoulter-Nile,4.0,0,35,0,8.75,8,4,1,0,1
+T209461,Royals Vs Mumbai,Mumbai,RahulChahar,4.0,0,33,2,8.25,7,2,2,0,0
+T209461,Royals Vs Mumbai,Mumbai,KrunalPandya,1.0,0,12,0,12.0,0,2,0,0,0
+T209461,Royals Vs Mumbai,Royals,ChetanSakariya,3.0,0,18,0,6.0,6,1,0,0,0
+T209461,Royals Vs Mumbai,Royals,JaydevUnadkat,4.0,0,33,0,8.25,7,3,1,0,0
+T209461,Royals Vs Mumbai,Royals,MustafizurRahman,3.3,0,37,1,10.57,6,4,2,0,0
+T209461,Royals Vs Mumbai,Royals,ChrisMorris,4.0,0,33,2,8.25,9,2,2,0,0
+T209461,Royals Vs Mumbai,Royals,RahulTewatia,3.0,0,30,0,10.0,4,3,1,1,0
+T209461,Royals Vs Mumbai,Royals,ShivamDube,1.0,0,6,0,6.0,3,0,0,1,0
+T205094,Sunrisers Vs Super Kings,Super Kings,DeepakChahar,3.0,0,21,0,7.0,7,3,0,1,0
+T205094,Sunrisers Vs Super Kings,Super Kings,SamCurran,4.0,0,30,1,7.5,9,2,1,1,0
+T205094,Sunrisers Vs Super Kings,Super Kings,ShardulThakur,4.0,0,44,0,11.0,4,5,1,1,0
+T205094,Sunrisers Vs Super Kings,Super Kings,MoeenAli,2.0,0,16,0,8.0,3,0,1,0,0
+T205094,Sunrisers Vs Super Kings,Super Kings,LungiNgidi,4.0,0,35,2,8.75,7,3,1,2,0
+T205094,Sunrisers Vs Super Kings,Super Kings,RavindraJadeja,3.0,0,23,0,7.66,6,1,1,1,0
+T205094,Sunrisers Vs Super Kings,Sunrisers,SandeepSharma,3.3,0,24,0,6.85,8,3,0,1,0
+T205094,Sunrisers Vs Super Kings,Sunrisers,KhaleelAhmed,4.0,0,36,0,9.0,7,5,0,1,0
+T205094,Sunrisers Vs Super Kings,Sunrisers,SiddarthKaul,4.0,0,32,0,8.0,8,4,0,0,0
+T205094,Sunrisers Vs Super Kings,Sunrisers,JagadeeshaSuchith,3.0,0,45,0,15.0,2,7,1,0,0
+T205094,Sunrisers Vs Super Kings,Sunrisers,RashidKhan,4.0,0,36,3,9.0,7,6,0,1,0
+T208915,RCB Vs Capitals,Capitals,IshantSharma,4.0,1,26,1,6.5,11,2,1,0,0
+T208915,RCB Vs Capitals,Capitals,KagisoRabada,4.0,0,38,1,9.5,6,4,1,0,0
+T208915,RCB Vs Capitals,Capitals,AveshKhan,4.0,0,24,1,6.0,11,3,0,1,0
+T208915,RCB Vs Capitals,Capitals,AmitMishra,3.0,0,27,1,9.0,2,0,2,0,0
+T208915,RCB Vs Capitals,Capitals,AxarPatel,4.0,0,33,1,8.25,5,0,2,0,0
+T208915,RCB Vs Capitals,Capitals,MarcusStoinis,1.0,0,23,0,23.0,1,0,3,1,0
+T208915,RCB Vs Capitals,RCB,DanielSams,2.0,0,15,0,7.5,4,2,0,0,0
+T208915,RCB Vs Capitals,RCB,MohammedSiraj,4.0,0,44,1,11.0,5,6,1,0,0
+T208915,RCB Vs Capitals,RCB,KyleJamieson,4.0,0,32,1,8.0,11,1,3,0,0
+T208915,RCB Vs Capitals,RCB,WashingtonSundar,4.0,0,28,0,7.0,5,2,0,0,0
+T208915,RCB Vs Capitals,RCB,HarshalPatel,4.0,0,37,2,9.25,5,4,0,2,0
+T208915,RCB Vs Capitals,RCB,YuzvendraChahal,2.0,0,10,0,5.0,5,1,0,0,0
+T209997,Punjab Kings Vs KKR,KKR,ShivamMavi,4.0,0,13,1,3.25,15,1,0,1,0
+T209997,Punjab Kings Vs KKR,KKR,PatCummins,3.0,0,31,2,10.33,9,2,3,1,0
+T209997,Punjab Kings Vs KKR,KKR,SunilNarine,4.0,0,22,2,5.5,10,1,1,0,0
+T209997,Punjab Kings Vs KKR,KKR,PrasidhKrishna,4.0,0,30,3,7.5,12,0,3,2,0
+T209997,Punjab Kings Vs KKR,KKR,AndreRussell,1.0,0,2,0,2.0,4,0,0,0,0
+T209997,Punjab Kings Vs KKR,KKR,VarunChakravarthy,4.0,0,24,1,6.0,10,1,1,0,0
+T209997,Punjab Kings Vs KKR,Punjab Kings,MoisesHenriques,1.0,0,5,1,5.0,4,1,0,0,0
+T209997,Punjab Kings Vs KKR,Punjab Kings,MohammedShami,4.0,0,25,1,6.25,17,4,1,1,0
+T209997,Punjab Kings Vs KKR,Punjab Kings,ArshdeepSingh,2.4,0,27,1,10.12,5,5,0,0,0
+T209997,Punjab Kings Vs KKR,Punjab Kings,RaviBishnoi,4.0,0,19,0,4.75,9,1,0,0,0
+T209997,Punjab Kings Vs KKR,Punjab Kings,ChrisJordan,3.0,0,24,0,8.0,8,4,0,0,0
+T209997,Punjab Kings Vs KKR,Punjab Kings,DeepakHooda,2.0,0,20,1,10.0,3,2,1,0,0
+T202915,Super Kings Vs RCB,RCB,MohammedSiraj,4.0,0,32,0,8.0,9,3,1,0,0
+T202915,Super Kings Vs RCB,RCB,KyleJamieson,3.0,0,31,0,10.33,5,4,1,1,0
+T202915,Super Kings Vs RCB,RCB,YuzvendraChahal,3.0,0,24,1,8.0,8,1,2,0,0
+T202915,Super Kings Vs RCB,RCB,NavdeepSaini,2.0,0,27,0,13.5,1,3,1,0,1
+T202915,Super Kings Vs RCB,RCB,HarshalPatel,4.0,0,51,3,12.75,9,2,5,1,1
+T202915,Super Kings Vs RCB,RCB,DanChristian,2.0,0,12,0,6.0,5,1,0,1,0
+T202915,Super Kings Vs RCB,RCB,WashingtonSundar,2.0,0,13,0,6.5,7,1,1,0,0
+T202915,Super Kings Vs RCB,Super Kings,DeepakChahar,2.0,0,25,0,12.5,4,5,0,2,0
+T202915,Super Kings Vs RCB,Super Kings,SamCurran,4.0,0,35,1,8.75,9,2,2,1,0
+T202915,Super Kings Vs RCB,Super Kings,ShardulThakur,4.0,0,11,1,2.75,17,1,0,0,0
+T202915,Super Kings Vs RCB,Super Kings,RavindraJadeja,4.0,1,13,3,3.25,15,1,0,0,0
+T202915,Super Kings Vs RCB,Super Kings,ImranTahir,4.0,0,16,2,4.0,14,1,0,2,0
+T202915,Super Kings Vs RCB,Super Kings,DwayneBravo,2.0,0,19,0,9.5,4,0,2,0,0
+T205585,KKR Vs Royals,Royals,JaydevUnadkat,4.0,0,25,1,6.25,11,2,1,0,0
+T205585,KKR Vs Royals,Royals,ChetanSakariya,4.0,0,31,1,7.75,8,3,0,4,1
+T205585,KKR Vs Royals,Royals,MustafizurRahman,4.0,0,22,1,5.5,13,3,0,0,0
+T205585,KKR Vs Royals,Royals,ChrisMorris,4.0,0,23,4,5.75,18,0,3,1,0
+T205585,KKR Vs Royals,Royals,RahulTewatia,3.0,0,24,0,8.0,4,1,1,0,0
+T205585,KKR Vs Royals,Royals,ShivamDube,1.0,0,5,0,5.0,2,0,0,0,0
+T205585,KKR Vs Royals,KKR,ShivamMavi,4.0,0,19,1,4.75,17,3,0,3,0
+T205585,KKR Vs Royals,KKR,PatCummins,3.5,0,36,0,9.39,4,3,1,1,0
+T205585,KKR Vs Royals,KKR,VarunChakravarthy,4.0,0,32,2,8.0,8,5,0,0,0
+T205585,KKR Vs Royals,KKR,SunilNarine,4.0,0,20,0,5.0,11,0,1,0,1
+T205585,KKR Vs Royals,KKR,PrasidhKrishna,3.0,0,20,1,6.66,8,2,0,2,0
+T204808,Mumbai Vs Punjab Kings,Punjab Kings,MoisesHenriques,3.0,0,12,0,4.0,9,1,0,0,0
+T204808,Mumbai Vs Punjab Kings,Punjab Kings,DeepakHooda,3.0,0,15,1,5.0,9,0,1,0,0
+T204808,Mumbai Vs Punjab Kings,Punjab Kings,MohammedShami,4.0,0,21,2,5.25,7,1,0,0,0
+T204808,Mumbai Vs Punjab Kings,Punjab Kings,RaviBishnoi,4.0,0,21,2,5.25,10,2,0,0,0
+T204808,Mumbai Vs Punjab Kings,Punjab Kings,FabianAllen,3.0,0,30,0,10.0,2,3,1,0,0
+T204808,Mumbai Vs Punjab Kings,Punjab Kings,ArshdeepSingh,3.0,0,28,1,9.33,7,1,2,2,0
+T204808,Mumbai Vs Punjab Kings,Mumbai,TrentBoult,2.4,0,30,0,11.25,7,3,2,0,1
+T204808,Mumbai Vs Punjab Kings,Mumbai,KrunalPandya,3.0,0,31,0,10.33,7,4,1,3,0
+T204808,Mumbai Vs Punjab Kings,Mumbai,JaspritBumrah,3.0,0,21,0,7.0,9,2,1,0,0
+T204808,Mumbai Vs Punjab Kings,Mumbai,RahulChahar,4.0,0,19,1,4.75,8,1,0,0,0
+T204808,Mumbai Vs Punjab Kings,Mumbai,JayantYadav,4.0,0,20,0,5.0,16,2,1,0,0
+T204808,Mumbai Vs Punjab Kings,Mumbai,KieronPollard,1.0,0,11,0,11.0,1,0,1,0,0
+T201545,Royals Vs RCB,RCB,MohammedSiraj,4.0,0,27,3,6.75,16,4,1,1,0
+T201545,Royals Vs RCB,RCB,KyleJamieson,4.0,0,28,1,7.0,11,2,1,2,0
+T201545,Royals Vs RCB,RCB,KaneRichardson,3.0,0,29,1,9.66,5,5,0,1,0
+T201545,Royals Vs RCB,RCB,YuzvendraChahal,2.0,0,18,0,9.0,5,0,2,1,0
+T201545,Royals Vs RCB,RCB,WashingtonSundar,3.0,0,23,1,7.66,4,1,1,0,0
+T201545,Royals Vs RCB,RCB,HarshalPatel,4.0,0,47,3,11.75,8,6,2,3,0
+T201545,Royals Vs RCB,Royals,ShreyasGopal,3.0,0,35,0,11.66,6,4,2,0,0
+T201545,Royals Vs RCB,Royals,ChetanSakariya,4.0,0,35,0,8.75,7,4,1,1,0
+T201545,Royals Vs RCB,Royals,ChrisMorris,3.0,0,38,0,12.66,2,5,1,0,0
+T201545,Royals Vs RCB,Royals,MustafizurRahman,3.3,0,34,0,9.71,8,2,2,1,0
+T201545,Royals Vs RCB,Royals,RahulTewatia,2.0,0,23,0,11.5,2,1,2,0,0
+T201545,Royals Vs RCB,Royals,RiyanParag,1.0,0,14,0,14.0,0,1,1,0,0
+T202233,Super Kings Vs KKR,KKR,VarunChakravarthy,4.0,0,27,1,6.75,8,2,1,0,0
+T202233,Super Kings Vs KKR,KKR,PatCummins,4.0,0,58,0,14.5,5,4,4,3,0
+T202233,Super Kings Vs KKR,KKR,SunilNarine,4.0,0,34,1,8.5,10,4,1,0,1
+T202233,Super Kings Vs KKR,KKR,PrasidhKrishna,4.0,0,49,0,12.25,10,4,3,1,2
+T202233,Super Kings Vs KKR,KKR,AndreRussell,2.0,0,27,1,13.5,4,4,1,2,0
+T202233,Super Kings Vs KKR,KKR,KamleshNagarkoti,2.0,0,25,0,12.5,2,1,2,0,0
+T202233,Super Kings Vs KKR,Super Kings,DeepakChahar,4.0,0,29,4,7.25,14,3,2,0,0
+T202233,Super Kings Vs KKR,Super Kings,SamCurran,4.0,0,58,1,14.5,10,4,6,1,0
+T202233,Super Kings Vs KKR,Super Kings,LungiNgidi,4.0,0,28,3,7.0,15,2,2,1,0
+T202233,Super Kings Vs KKR,Super Kings,RavindraJadeja,4.0,0,33,0,8.25,7,3,1,0,1
+T202233,Super Kings Vs KKR,Super Kings,ShardulThakur,3.1,0,48,0,15.15,5,4,3,5,0
+T204912,Punjab Kings Vs Sunrisers,Sunrisers,AbhishekSharma,4.0,0,24,2,6.0,10,0,1,1,0
+T204912,Punjab Kings Vs Sunrisers,Sunrisers,BhuvneshwarKumar,3.0,0,16,1,5.33,7,1,0,0,0
+T204912,Punjab Kings Vs Sunrisers,Sunrisers,KhaleelAhmed,4.0,0,21,3,5.25,9,2,0,0,0
+T204912,Punjab Kings Vs Sunrisers,Sunrisers,SiddarthKaul,3.4,0,27,1,7.36,8,2,1,0,1
+T204912,Punjab Kings Vs Sunrisers,Sunrisers,VijayShankar,1.0,0,6,0,6.0,3,1,0,0,0
+T204912,Punjab Kings Vs Sunrisers,Sunrisers,RashidKhan,4.0,0,17,1,4.25,11,1,0,0,0
+T204912,Punjab Kings Vs Sunrisers,Punjab Kings,MohammedShami,2.0,0,16,0,8.0,5,3,0,0,0
+T204912,Punjab Kings Vs Sunrisers,Punjab Kings,FabianAllen,4.0,1,22,1,5.5,13,1,1,1,0
+T204912,Punjab Kings Vs Sunrisers,Punjab Kings,ArshdeepSingh,3.4,0,31,0,8.45,5,1,1,2,0
+T204912,Punjab Kings Vs Sunrisers,Punjab Kings,MoisesHenriques,1.0,0,7,0,7.0,4,0,1,0,0
+T204912,Punjab Kings Vs Sunrisers,Punjab Kings,MuruganAshwin,4.0,0,22,0,5.5,7,0,0,1,0
+T204912,Punjab Kings Vs Sunrisers,Punjab Kings,DeepakHooda,4.0,0,22,0,5.5,12,1,1,0,0
+T207273,Mumbai Vs Capitals,Capitals,MarcusStoinis,3.0,0,20,1,6.66,6,2,0,0,0
+T207273,Mumbai Vs Capitals,Capitals,RavichandranAshwin,4.0,0,31,0,7.75,12,2,2,0,0
+T207273,Mumbai Vs Capitals,Capitals,KagisoRabada,3.0,0,25,1,8.33,7,2,1,0,0
+T207273,Mumbai Vs Capitals,Capitals,AmitMishra,4.0,0,24,4,6.0,11,3,0,0,0
+T207273,Mumbai Vs Capitals,Capitals,AveshKhan,2.0,0,15,2,7.5,5,1,1,0,0
+T207273,Mumbai Vs Capitals,Capitals,LalitYadav,4.0,0,17,1,4.25,7,0,0,0,0
+T207273,Mumbai Vs Capitals,Mumbai,TrentBoult,4.0,0,23,0,5.75,13,4,0,0,0
+T207273,Mumbai Vs Capitals,Mumbai,JayantYadav,4.0,0,25,1,6.25,10,3,0,0,0
+T207273,Mumbai Vs Capitals,Mumbai,JaspritBumrah,4.0,0,32,1,8.0,7,2,0,2,2
+T207273,Mumbai Vs Capitals,Mumbai,KrunalPandya,2.0,0,17,0,8.5,2,2,0,0,0
+T207273,Mumbai Vs Capitals,Mumbai,RahulChahar,4.0,0,29,1,7.25,9,2,1,1,0
+T207273,Mumbai Vs Capitals,Mumbai,KieronPollard,1.1,0,9,1,7.71,3,1,0,0,1
+T209089,Super Kings Vs Royals,Royals,JaydevUnadkat,4.0,0,40,0,10.0,7,6,1,0,0
+T209089,Super Kings Vs Royals,Royals,ChetanSakariya,4.0,0,36,3,9.0,9,1,2,3,0
+T209089,Super Kings Vs Royals,Royals,MustafizurRahman,4.0,0,37,1,9.25,9,1,2,2,1
+T209089,Super Kings Vs Royals,Royals,ChrisMorris,4.0,0,33,2,8.25,11,4,1,2,0
+T209089,Super Kings Vs Royals,Royals,RahulTewatia,3.0,0,21,1,7.0,8,0,2,0,0
+T209089,Super Kings Vs Royals,Royals,RiyanParag,1.0,0,16,0,16.0,2,0,2,1,0
+T209089,Super Kings Vs Royals,Super Kings,DeepakChahar,3.0,0,32,0,10.66,7,4,1,1,0
+T209089,Super Kings Vs Royals,Super Kings,SamCurran,4.0,0,24,2,6.0,14,1,2,0,0
+T209089,Super Kings Vs Royals,Super Kings,ShardulThakur,3.0,0,20,1,6.66,9,3,0,2,0
+T209089,Super Kings Vs Royals,Super Kings,RavindraJadeja,4.0,0,28,2,7.0,9,2,1,0,1
+T209089,Super Kings Vs Royals,Super Kings,DwayneBravo,3.0,0,28,1,9.33,8,0,2,5,0
+T209089,Super Kings Vs Royals,Super Kings,MoeenAli,3.0,0,7,3,2.33,11,0,0,0,0
+T209593,Punjab Kings Vs Capitals,Capitals,ChrisWoakes,4.0,0,42,1,10.5,9,5,2,0,1
+T209593,Punjab Kings Vs Capitals,Capitals,LukmanMeriwala,3.0,0,32,1,10.66,6,4,1,0,1
+T209593,Punjab Kings Vs Capitals,Capitals,RavichandranAshwin,4.0,0,28,0,7.0,7,2,1,0,0
+T209593,Punjab Kings Vs Capitals,Capitals,KagisoRabada,4.0,0,43,1,10.75,8,2,4,0,0
+T209593,Punjab Kings Vs Capitals,Capitals,LalitYadav,1.0,0,11,0,11.0,1,2,0,0,0
+T209593,Punjab Kings Vs Capitals,Capitals,AveshKhan,4.0,0,33,1,8.25,9,2,2,0,0
+T209593,Punjab Kings Vs Capitals,Punjab Kings,ArshdeepSingh,3.0,0,22,1,7.33,3,1,0,0,0
+T209593,Punjab Kings Vs Capitals,Punjab Kings,MohammedShami,4.0,0,53,0,13.25,8,6,3,0,2
+T209593,Punjab Kings Vs Capitals,Punjab Kings,JalajSaxena,3.0,0,27,0,9.0,5,4,0,0,0
+T209593,Punjab Kings Vs Capitals,Punjab Kings,JhyeRichardson,4.0,0,41,2,10.25,8,2,3,1,0
+T209593,Punjab Kings Vs Capitals,Punjab Kings,DeepakHooda,2.0,0,18,0,9.0,1,2,0,0,0
+T209593,Punjab Kings Vs Capitals,Punjab Kings,RileyMeredith,2.2,0,35,1,15.0,4,6,0,1,1
+T202791,RCB Vs KKR,KKR,HarbhajanSingh,4.0,0,38,0,9.5,10,4,2,1,1
+T202791,RCB Vs KKR,KKR,VarunChakravarthy,4.0,0,39,2,9.75,6,3,2,0,1
+T202791,RCB Vs KKR,KKR,ShakibAlHasan,2.0,0,24,0,12.0,2,3,1,0,0
+T202791,RCB Vs KKR,KKR,PatCummins,4.0,0,34,1,8.5,6,3,0,2,0
+T202791,RCB Vs KKR,KKR,PrasidhKrishna,4.0,0,31,1,7.75,10,4,0,0,1
+T202791,RCB Vs KKR,KKR,AndreRussell,2.0,0,38,0,19.0,3,5,2,2,0
+T202791,RCB Vs KKR,RCB,MohammedSiraj,3.0,0,17,0,5.66,11,3,0,1,0
+T202791,RCB Vs KKR,RCB,KyleJamieson,3.0,0,41,3,13.66,7,3,4,1,0
+T202791,RCB Vs KKR,RCB,YuzvendraChahal,4.0,0,34,2,8.5,10,5,1,0,0
+T202791,RCB Vs KKR,RCB,WashingtonSundar,4.0,0,33,1,8.25,7,3,1,1,0
+T202791,RCB Vs KKR,RCB,GlennMaxwell,2.0,0,24,0,12.0,3,0,3,0,0
+T202791,RCB Vs KKR,RCB,HarshalPatel,4.0,0,17,2,4.25,7,0,0,0,0
+T201372,Mumbai Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,45,0,11.25,6,3,3,0,0
+T201372,Mumbai Vs Sunrisers,Sunrisers,KhaleelAhmed,4.0,0,24,1,6.0,12,3,0,1,1
+T201372,Mumbai Vs Sunrisers,Sunrisers,MujeebUrRahman,4.0,0,29,2,7.25,10,1,2,2,0
+T201372,Mumbai Vs Sunrisers,Sunrisers,AbhishekSharma,1.0,0,5,0,5.0,2,0,0,0,0
+T201372,Mumbai Vs Sunrisers,Sunrisers,VijayShankar,3.0,0,19,2,6.33,8,1,1,0,0
+T201372,Mumbai Vs Sunrisers,Sunrisers,RashidKhan,4.0,0,22,0,5.5,11,2,0,1,0
+T201372,Mumbai Vs Sunrisers,Mumbai,TrentBoult,3.4,0,28,3,7.63,12,4,1,0,0
+T201372,Mumbai Vs Sunrisers,Mumbai,JaspritBumrah,4.0,0,14,1,3.5,12,0,0,0,0
+T201372,Mumbai Vs Sunrisers,Mumbai,AdamMilne,3.0,0,33,0,11.0,4,1,3,1,0
+T201372,Mumbai Vs Sunrisers,Mumbai,KrunalPandya,3.0,0,30,1,10.0,8,1,3,0,0
+T201372,Mumbai Vs Sunrisers,Mumbai,RahulChahar,4.0,0,19,3,4.75,13,0,1,1,0
+T201372,Mumbai Vs Sunrisers,Mumbai,KieronPollard,2.0,0,10,0,5.0,5,1,0,0,0
+T205292,Punjab Kings Vs Super Kings,Super Kings,DeepakChahar,4.0,1,13,4,3.25,18,2,0,1,0
+T205292,Punjab Kings Vs Super Kings,Super Kings,SamCurran,3.0,0,12,1,4.0,12,1,0,1,0
+T205292,Punjab Kings Vs Super Kings,Super Kings,ShardulThakur,4.0,0,35,0,8.75,8,5,0,1,0
+T205292,Punjab Kings Vs Super Kings,Super Kings,RavindraJadeja,4.0,0,19,0,4.75,14,1,1,1,0
+T205292,Punjab Kings Vs Super Kings,Super Kings,MoeenAli,3.0,0,17,1,5.66,6,0,1,0,0
+T205292,Punjab Kings Vs Super Kings,Super Kings,DwayneBravo,2.0,0,10,1,5.0,6,1,0,0,0
+T205292,Punjab Kings Vs Super Kings,Punjab Kings,MohammedShami,4.0,0,21,2,5.25,11,2,0,0,0
+T205292,Punjab Kings Vs Super Kings,Punjab Kings,JhyeRichardson,3.0,0,21,0,7.0,11,2,1,0,0
+T205292,Punjab Kings Vs Super Kings,Punjab Kings,ArshdeepSingh,2.0,0,7,1,3.5,8,1,0,0,0
+T205292,Punjab Kings Vs Super Kings,Punjab Kings,RileyMeredith,3.4,0,21,0,5.72,14,4,0,1,0
+T205292,Punjab Kings Vs Super Kings,Punjab Kings,MuruganAshwin,3.0,0,32,1,10.66,5,3,1,1,0
+T203570,Capitals Vs Royals,Royals,ChetanSakariya,4.0,0,33,0,8.25,5,4,0,0,0
+T203570,Capitals Vs Royals,Royals,JaydevUnadkat,4.0,0,15,3,3.75,15,2,0,0,0
+T203570,Capitals Vs Royals,Royals,ChrisMorris,3.0,0,27,1,9.0,7,4,0,1,0
+T203570,Capitals Vs Royals,Royals,MustafizurRahman,4.0,0,29,2,7.25,11,4,0,2,0
+T203570,Capitals Vs Royals,Royals,RiyanParag,2.0,0,16,0,8.0,3,2,0,1,0
+T203570,Capitals Vs Royals,Royals,RahulTewatia,3.0,0,27,0,9.0,6,4,0,0,0
+T203570,Capitals Vs Royals,Capitals,ChrisWoakes,4.0,0,22,2,5.5,13,2,1,0,0
+T203570,Capitals Vs Royals,Capitals,AveshKhan,4.0,0,32,3,8.0,11,3,2,0,0
+T203570,Capitals Vs Royals,Capitals,KagisoRabada,4.0,0,30,2,7.5,12,2,2,0,0
+T203570,Capitals Vs Royals,Capitals,RavichandranAshwin,3.0,0,14,0,4.66,5,0,0,0,0
+T203570,Capitals Vs Royals,Capitals,TomCurran,3.4,0,35,0,9.54,6,2,2,1,0
+T203570,Capitals Vs Royals,Capitals,MarcusStoinis,1.0,0,15,0,15.0,0,3,0,0,0
+T202204,RCB Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,30,1,7.5,10,5,0,1,0
+T202204,RCB Vs Sunrisers,Sunrisers,JasonHolder,4.0,0,30,3,7.5,13,2,1,4,0
+T202204,RCB Vs Sunrisers,Sunrisers,ShahbazNadeem,4.0,0,36,1,9.0,9,2,3,0,0
+T202204,RCB Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,32,1,8.0,7,4,0,1,0
+T202204,RCB Vs Sunrisers,Sunrisers,RashidKhan,4.0,0,18,2,4.5,10,1,0,1,0
+T202204,RCB Vs Sunrisers,RCB,MohammedSiraj,4.0,1,25,2,6.25,14,2,1,1,0
+T202204,RCB Vs Sunrisers,RCB,KyleJamieson,3.0,0,30,1,10.0,9,3,2,1,0
+T202204,RCB Vs Sunrisers,RCB,WashingtonSundar,2.0,0,14,0,7.0,7,1,1,1,0
+T202204,RCB Vs Sunrisers,RCB,YuzvendraChahal,4.0,0,29,0,7.25,9,3,0,1,0
+T202204,RCB Vs Sunrisers,RCB,HarshalPatel,4.0,0,25,2,6.25,10,2,0,0,2
+T202204,RCB Vs Sunrisers,RCB,DanChristian,1.0,0,7,0,7.0,1,0,0,0,0
+T202204,RCB Vs Sunrisers,RCB,ShahbazAhmed,2.0,0,7,3,3.5,6,0,0,0,0
+T209194,Mumbai Vs KKR,KKR,HarbhajanSingh,2.0,0,17,0,8.5,6,3,0,1,0
+T209194,Mumbai Vs KKR,KKR,VarunChakravarthy,4.0,0,27,1,6.75,9,3,0,1,0
+T209194,Mumbai Vs KKR,KKR,ShakibAlHasan,4.0,0,23,1,5.75,4,1,0,0,0
+T209194,Mumbai Vs KKR,KKR,PatCummins,4.0,0,24,2,6.0,12,2,1,0,0
+T209194,Mumbai Vs KKR,KKR,PrasidhKrishna,4.0,0,42,1,10.5,8,5,2,0,0
+T209194,Mumbai Vs KKR,KKR,AndreRussell,2.0,0,15,5,7.5,6,2,0,1,0
+T209194,Mumbai Vs KKR,Mumbai,TrentBoult,4.0,0,27,2,6.75,12,3,1,0,0
+T209194,Mumbai Vs KKR,Mumbai,MarcoJansen,2.0,0,17,0,8.5,5,3,0,0,0
+T209194,Mumbai Vs KKR,Mumbai,JaspritBumrah,4.0,0,28,0,7.0,9,4,0,0,1
+T209194,Mumbai Vs KKR,Mumbai,KrunalPandya,4.0,0,13,1,3.25,13,0,0,1,0
+T209194,Mumbai Vs KKR,Mumbai,KieronPollard,1.0,0,12,0,12.0,2,1,1,0,0
+T209194,Mumbai Vs KKR,Mumbai,RahulChahar,4.0,0,27,4,6.75,11,2,1,0,0
+T209194,Mumbai Vs KKR,Mumbai,RohitSharma,1.0,0,9,0,9.0,0,1,0,0,0
+T207896,Punjab Kings Vs Royals,Royals,ChetanSakariya,4.0,0,31,3,7.75,13,6,0,0,1
+T207896,Punjab Kings Vs Royals,Royals,MustafizurRahman,4.0,0,45,0,11.25,4,4,1,3,1
+T207896,Punjab Kings Vs Royals,Royals,ChrisMorris,4.0,0,41,2,10.25,8,2,3,1,0
+T207896,Punjab Kings Vs Royals,Royals,ShreyasGopal,3.0,0,40,0,13.33,3,3,3,0,0
+T207896,Punjab Kings Vs Royals,Royals,BenStokes,1.0,0,12,0,12.0,2,1,1,0,0
+T207896,Punjab Kings Vs Royals,Royals,RahulTewatia,2.0,0,25,0,12.5,2,1,2,0,0
+T207896,Punjab Kings Vs Royals,Royals,RiyanParag,1.0,0,7,1,7.0,2,1,0,0,0
+T207896,Punjab Kings Vs Royals,Royals,ShivamDube,1.0,0,20,0,20.0,1,0,3,0,0
+T207896,Punjab Kings Vs Royals,Punjab Kings,MohammedShami,4.0,0,33,2,8.25,13,5,1,2,0
+T207896,Punjab Kings Vs Royals,Punjab Kings,JhyeRichardson,4.0,0,55,1,13.75,5,5,3,2,0
+T207896,Punjab Kings Vs Royals,Punjab Kings,ArshdeepSingh,4.0,0,35,3,8.75,9,5,1,0,0
+T207896,Punjab Kings Vs Royals,Punjab Kings,RileyMeredith,4.0,0,49,1,12.25,6,5,3,0,0
+T207896,Punjab Kings Vs Royals,Punjab Kings,MuruganAshwin,4.0,0,43,0,10.75,7,2,3,2,1
+T209178,KKR Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,45,1,11.25,10,6,2,1,0
+T209178,KKR Vs Sunrisers,Sunrisers,SandeepSharma,3.0,0,35,0,11.66,5,5,1,0,0
+T209178,KKR Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,37,1,9.25,7,3,2,1,0
+T209178,KKR Vs Sunrisers,Sunrisers,MohammadNabi,4.0,0,32,2,8.0,9,2,2,0,0
+T209178,KKR Vs Sunrisers,Sunrisers,RashidKhan,4.0,0,24,2,6.0,10,1,0,1,0
+T209178,KKR Vs Sunrisers,Sunrisers,VijayShankar,1.0,0,14,0,14.0,0,1,1,0,0
+T209178,KKR Vs Sunrisers,KKR,HarbhajanSingh,1.0,0,8,0,8.0,3,0,1,0,0
+T209178,KKR Vs Sunrisers,KKR,PrasidhKrishna,4.0,0,35,2,8.75,11,4,0,4,0
+T209178,KKR Vs Sunrisers,KKR,ShakibAlHasan,4.0,0,34,1,8.5,8,1,3,0,0
+T209178,KKR Vs Sunrisers,KKR,PatCummins,4.0,0,30,1,7.5,9,1,2,0,0
+T209178,KKR Vs Sunrisers,KKR,AndreRussell,3.0,0,32,1,10.66,5,2,2,1,0
+T209178,KKR Vs Sunrisers,KKR,VarunChakravarthy,4.0,0,36,0,9.0,6,1,2,0,0
+T206363,Super Kings Vs Capitals,Capitals,ChrisWoakes,3.0,0,18,2,6.0,11,3,0,0,0
+T206363,Super Kings Vs Capitals,Capitals,AveshKhan,4.0,0,23,2,5.75,11,3,0,1,0
+T206363,Super Kings Vs Capitals,Capitals,RavichandranAshwin,4.0,0,47,1,11.75,9,4,4,0,0
+T206363,Super Kings Vs Capitals,Capitals,TomCurran,4.0,0,40,1,10.0,7,4,2,1,0
+T206363,Super Kings Vs Capitals,Capitals,AmitMishra,3.0,0,27,0,9.0,4,0,2,0,0
+T206363,Super Kings Vs Capitals,Capitals,MarcusStoinis,2.0,0,26,0,13.0,4,2,2,0,1
+T206363,Super Kings Vs Capitals,Super Kings,DeepakChahar,4.0,0,36,0,9.0,8,5,1,0,0
+T206363,Super Kings Vs Capitals,Super Kings,SamCurran,2.0,0,24,0,12.0,2,3,1,0,0
+T206363,Super Kings Vs Capitals,Super Kings,ShardulThakur,3.4,0,53,2,14.45,6,11,0,2,0
+T206363,Super Kings Vs Capitals,Super Kings,RavindraJadeja,2.0,0,16,0,8.0,2,0,1,0,0
+T206363,Super Kings Vs Capitals,Super Kings,MoeenAli,3.0,0,33,0,11.0,2,2,2,0,1
+T206363,Super Kings Vs Capitals,Super Kings,DwayneBravo,4.0,0,28,1,7.0,7,3,0,1,0
+T203784,Mumbai Vs RCB,RCB,MohammedSiraj,4.0,0,22,0,5.5,12,2,0,1,0
+T203784,Mumbai Vs RCB,RCB,KyleJamieson,4.0,0,27,1,6.75,13,3,1,0,1
+T203784,Mumbai Vs RCB,RCB,YuzvendraChahal,4.0,0,41,0,10.25,8,3,3,0,0
+T203784,Mumbai Vs RCB,RCB,ShahbazAhmed,1.0,0,14,0,14.0,0,1,1,0,0
+T203784,Mumbai Vs RCB,RCB,HarshalPatel,4.0,0,27,5,6.75,12,2,1,0,1
+T203784,Mumbai Vs RCB,RCB,DanChristian,2.0,0,21,0,10.5,3,3,0,1,0
+T203784,Mumbai Vs RCB,RCB,WashingtonSundar,1.0,0,7,1,7.0,2,1,0,0,0
+T203784,Mumbai Vs RCB,Mumbai,TrentBoult,4.0,0,36,1,9.0,12,4,1,2,0
+T203784,Mumbai Vs RCB,Mumbai,JaspritBumrah,4.0,0,26,2,6.5,10,2,0,0,0
+T203784,Mumbai Vs RCB,Mumbai,MarcoJansen,4.0,0,28,2,7.0,9,2,0,3,1
+T203784,Mumbai Vs RCB,Mumbai,KrunalPandya,4.0,0,25,1,6.25,9,1,1,0,0
+T203784,Mumbai Vs RCB,Mumbai,RahulChahar,4.0,0,43,0,10.75,4,3,2,0,0
+T202715,Royals Vs Titans,Titans,MohammedShami,4.0,0,33,1,8.25,12,4,1,0,0
+T202715,Royals Vs Titans,Titans,YashDayal,3.0,0,18,1,6.0,9,1,1,0,0
+T202715,Royals Vs Titans,Titans,LockieFerguson,3.0,0,22,0,7.33,5,3,0,0,0
+T202715,Royals Vs Titans,Titans,RashidKhan,4.0,0,18,1,4.5,9,1,0,0,0
+T202715,Royals Vs Titans,Titans,HardikPandya,4.0,0,17,3,4.25,14,2,0,0,0
+T202715,Royals Vs Titans,Titans,SaiKishore,2.0,0,20,2,10.0,3,0,2,0,0
+T202715,Royals Vs Titans,Royals,TrentBoult,4.0,1,14,1,3.5,17,1,0,2,0
+T202715,Royals Vs Titans,Royals,PrasidhKrishna,4.0,0,40,1,10.0,13,5,1,2,0
+T202715,Royals Vs Titans,Royals,YuzvendraChahal,4.0,0,20,1,5.0,10,1,0,0,0
+T202715,Royals Vs Titans,Royals,ObedMcCoy,3.1,0,26,0,8.21,5,2,1,0,0
+T202715,Royals Vs Titans,Royals,RavichandranAshwin,3.0,0,32,0,10.66,2,1,2,0,0
+T201109,RCB Vs Royals,Royals,TrentBoult,4.0,0,28,1,7.0,13,3,1,0,0
+T201109,RCB Vs Royals,Royals,PrasidhKrishna,4.0,0,22,3,5.5,17,3,1,1,0
+T201109,RCB Vs Royals,Royals,ObedMcCoy,4.0,0,23,3,5.75,10,2,0,1,0
+T201109,RCB Vs Royals,Royals,RavichandranAshwin,4.0,0,31,1,7.75,5,0,2,1,0
+T201109,RCB Vs Royals,Royals,YuzvendraChahal,4.0,0,45,0,11.25,2,1,3,4,0
+T201109,RCB Vs Royals,RCB,MohammedSiraj,2.0,0,31,0,15.5,5,3,3,0,0
+T201109,RCB Vs Royals,RCB,JoshHazlewood,4.0,0,23,2,5.75,12,3,0,0,0
+T201109,RCB Vs Royals,RCB,GlennMaxwell,3.0,0,17,0,5.66,5,0,0,0,0
+T201109,RCB Vs Royals,RCB,ShahbazAhmed,2.0,0,35,0,17.5,2,3,3,0,0
+T201109,RCB Vs Royals,RCB,HarshalPatel,3.1,0,29,0,9.15,6,2,2,0,0
+T201109,RCB Vs Royals,RCB,WaninduHasaranga,4.0,0,26,1,6.5,11,1,2,0,0
+T207136,RCB Vs Super Giants,Super Giants,MohsinKhan,4.0,0,25,1,6.25,13,1,1,1,0
+T207136,RCB Vs Super Giants,Super Giants,DushmanthaChameera,4.0,0,54,0,13.5,7,8,2,0,1
+T207136,RCB Vs Super Giants,Super Giants,KrunalPandya,4.0,0,39,1,9.75,4,4,1,1,0
+T207136,RCB Vs Super Giants,Super Giants,AveshKhan,4.0,0,44,1,11.0,10,6,1,2,0
+T207136,RCB Vs Super Giants,Super Giants,RaviBishnoi,4.0,0,45,1,11.25,8,2,4,1,0
+T207136,RCB Vs Super Giants,RCB,MohammedSiraj,4.0,0,41,1,10.25,10,1,4,2,0
+T207136,RCB Vs Super Giants,RCB,JoshHazlewood,4.0,0,43,3,10.75,11,3,3,3,0
+T207136,RCB Vs Super Giants,RCB,ShahbazAhmed,4.0,0,35,0,8.75,6,1,2,2,0
+T207136,RCB Vs Super Giants,RCB,WaninduHasaranga,4.0,0,42,1,10.5,5,1,4,0,0
+T207136,RCB Vs Super Giants,RCB,HarshalPatel,4.0,0,25,1,6.25,11,0,1,3,0
+T203302,Royals Vs Titans,Titans,MohammedShami,4.0,0,43,1,10.75,11,6,1,2,0
+T203302,Royals Vs Titans,Titans,YashDayal,4.0,0,46,1,11.5,11,5,2,2,1
+T203302,Royals Vs Titans,Titans,AlzarriJoseph,2.0,0,27,0,13.5,4,3,2,0,0
+T203302,Royals Vs Titans,Titans,RashidKhan,4.0,0,15,0,3.75,10,0,0,0,0
+T203302,Royals Vs Titans,Titans,SaiKishore,4.0,0,43,1,10.75,4,4,2,1,0
+T203302,Royals Vs Titans,Titans,HardikPandya,2.0,0,14,1,7.0,4,1,0,1,0
+T203302,Royals Vs Titans,Royals,TrentBoult,4.0,0,38,1,9.5,8,6,0,0,0
+T203302,Royals Vs Titans,Royals,PrasidhKrishna,3.3,0,40,0,11.42,10,3,3,1,0
+T203302,Royals Vs Titans,Royals,RavichandranAshwin,4.0,0,40,0,10.0,5,4,1,3,0
+T203302,Royals Vs Titans,Royals,YuzvendraChahal,4.0,0,32,0,8.0,5,1,2,0,0
+T203302,Royals Vs Titans,Royals,ObedMcCoy,4.0,0,40,1,10.0,4,5,0,3,1
+T204029,Sunrisers Vs Punjab Kings,Punjab Kings,LiamLivingstone,4.0,0,25,0,6.25,8,1,1,0,0
+T204029,Sunrisers Vs Punjab Kings,Punjab Kings,ArshdeepSingh,4.0,0,25,0,6.25,10,3,0,0,0
+T204029,Sunrisers Vs Punjab Kings,Punjab Kings,KagisoRabada,4.0,0,38,1,9.5,10,4,1,3,0
+T204029,Sunrisers Vs Punjab Kings,Punjab Kings,NathanEllis,4.0,0,40,3,10.0,11,3,3,1,1
+T204029,Sunrisers Vs Punjab Kings,Punjab Kings,HarpreetBrar,4.0,0,26,3,6.5,11,2,1,0,0
+T204029,Sunrisers Vs Punjab Kings,Sunrisers,BhuvneshwarKumar,2.0,0,22,0,11.0,4,3,1,0,0
+T204029,Sunrisers Vs Punjab Kings,Sunrisers,WashingtonSundar,2.0,0,19,1,9.5,4,2,1,0,0
+T204029,Sunrisers Vs Punjab Kings,Sunrisers,FazalhaqFarooqi,4.0,0,32,2,8.0,7,4,0,1,0
+T204029,Sunrisers Vs Punjab Kings,Sunrisers,JagadeeshaSuchith,4.0,0,38,1,9.5,9,2,3,2,0
+T204029,Sunrisers Vs Punjab Kings,Sunrisers,UmranMalik,2.1,0,24,1,11.07,5,2,2,0,0
+T204029,Sunrisers Vs Punjab Kings,Sunrisers,RomarioShepherd,1.0,0,23,0,23.0,1,2,2,1,0
+T205729,Capitals Vs Mumbai,Mumbai,DanielSams,4.0,0,30,1,7.5,10,1,2,1,0
+T205729,Capitals Vs Mumbai,Mumbai,HrithikShokeen,4.0,0,34,0,8.5,11,3,2,2,0
+T205729,Capitals Vs Mumbai,Mumbai,JaspritBumrah,4.0,0,25,3,6.25,11,0,2,0,0
+T205729,Capitals Vs Mumbai,Mumbai,MayankMarkande,4.0,0,26,1,6.5,9,1,1,0,0
+T205729,Capitals Vs Mumbai,Mumbai,RileyMeredith,2.0,0,9,0,4.5,7,1,0,1,0
+T205729,Capitals Vs Mumbai,Mumbai,RamandeepSingh,2.0,0,29,2,14.5,4,2,2,4,0
+T205729,Capitals Vs Mumbai,Capitals,KhaleelAhmed,3.1,0,24,0,7.57,11,3,1,1,1
+T205729,Capitals Vs Mumbai,Capitals,AnrichNortje,4.0,0,37,2,9.25,11,4,2,0,0
+T205729,Capitals Vs Mumbai,Capitals,ShardulThakur,3.0,0,32,2,10.66,8,0,4,2,0
+T205729,Capitals Vs Mumbai,Capitals,MitchellMarsh,2.0,0,7,0,3.5,8,1,0,0,0
+T205729,Capitals Vs Mumbai,Capitals,KuldeepYadav,4.0,0,33,1,8.25,9,1,3,0,0
+T205729,Capitals Vs Mumbai,Capitals,AxarPatel,3.0,0,26,0,8.66,3,0,2,0,0
+T203588,Super Kings Vs Royals,Royals,TrentBoult,4.0,0,44,1,11.0,10,6,2,0,0
+T203588,Super Kings Vs Royals,Royals,PrasidhKrishna,4.0,0,32,0,8.0,12,3,2,0,0
+T203588,Super Kings Vs Royals,Royals,RavichandranAshwin,4.0,0,28,1,7.0,9,2,1,2,0
+T203588,Super Kings Vs Royals,Royals,YuzvendraChahal,4.0,0,26,2,6.5,9,3,0,1,0
+T203588,Super Kings Vs Royals,Royals,ObedMcCoy,4.0,0,20,2,5.0,11,1,0,2,0
+T203588,Super Kings Vs Royals,Super Kings,MukeshChoudhary,4.0,0,41,0,10.25,8,6,1,0,0
+T203588,Super Kings Vs Royals,Super Kings,SimarjeetSingh,3.0,0,18,1,6.0,10,3,0,0,0
+T203588,Super Kings Vs Royals,Super Kings,MitchellSantner,3.0,0,15,1,5.0,7,1,0,0,0
+T203588,Super Kings Vs Royals,Super Kings,MatheeshaPathirana,3.4,0,28,0,7.63,12,3,0,4,0
+T203588,Super Kings Vs Royals,Super Kings,MoeenAli,4.0,0,21,1,5.25,8,0,1,0,0
+T203588,Super Kings Vs Royals,Super Kings,PrashantSolanki,2.0,0,20,2,10.0,6,1,2,0,0
+T201867,Titans Vs RCB,RCB,SiddarthKaul,4.0,0,43,0,10.75,6,5,2,0,0
+T201867,Titans Vs RCB,RCB,ShahbazAhmed,2.0,0,15,0,7.5,5,1,1,0,0
+T201867,Titans Vs RCB,RCB,JoshHazlewood,4.0,0,39,2,9.75,10,3,3,0,0
+T201867,Titans Vs RCB,RCB,GlennMaxwell,4.0,1,28,1,7.0,14,0,3,1,0
+T201867,Titans Vs RCB,RCB,MahipalLomror,1.0,0,11,0,11.0,1,0,1,0,0
+T201867,Titans Vs RCB,RCB,WaninduHasaranga,4.0,0,25,1,6.25,7,2,0,1,0
+T201867,Titans Vs RCB,RCB,HarshalPatel,1.0,0,6,0,6.0,3,0,0,0,0
+T201867,Titans Vs RCB,Titans,MohammedShami,2.0,0,23,0,11.5,6,4,0,1,0
+T201867,Titans Vs RCB,Titans,HardikPandya,3.0,0,35,0,11.66,6,4,2,1,0
+T201867,Titans Vs RCB,Titans,RashidKhan,4.0,0,32,2,8.0,6,1,2,0,0
+T201867,Titans Vs RCB,Titans,YashDayal,4.0,0,35,0,8.75,6,5,0,1,0
+T201867,Titans Vs RCB,Titans,SaiKishore,4.0,0,20,0,5.0,7,0,0,0,0
+T201867,Titans Vs RCB,Titans,LockieFerguson,1.4,0,21,0,12.6,2,4,0,0,0
+T202863,Super Giants Vs KKR,KKR,UmeshYadav,4.0,0,34,0,8.5,7,2,2,0,0
+T202863,Super Giants Vs KKR,KKR,TimSouthee,4.0,0,57,0,14.25,5,2,6,1,0
+T202863,Super Giants Vs KKR,KKR,SunilNarine,4.0,0,27,0,6.75,8,0,2,0,0
+T202863,Super Giants Vs KKR,KKR,VarunChakravarthy,4.0,0,38,0,9.5,9,3,2,0,1
+T202863,Super Giants Vs KKR,KKR,AndreRussell,3.0,0,45,0,15.0,1,5,2,0,0
+T202863,Super Giants Vs KKR,KKR,NitishRana,1.0,0,9,0,9.0,0,1,0,0,0
+T202863,Super Giants Vs KKR,Super Giants,MohsinKhan,4.0,0,20,3,5.0,16,2,1,1,0
+T202863,Super Giants Vs KKR,Super Giants,JasonHolder,4.0,0,45,0,11.25,10,3,4,2,0
+T202863,Super Giants Vs KKR,Super Giants,AveshKhan,4.0,0,60,0,15.0,6,7,3,3,1
+T202863,Super Giants Vs KKR,Super Giants,KrishnappaGowtham,2.0,0,23,1,11.5,4,3,1,0,0
+T202863,Super Giants Vs KKR,Super Giants,RaviBishnoi,4.0,0,34,1,8.5,6,2,2,0,0
+T202863,Super Giants Vs KKR,Super Giants,MarcusStoinis,2.0,0,23,3,11.5,4,1,2,0,0
+T206060,Sunrisers Vs Mumbai,Mumbai,DanielSams,4.0,0,39,1,9.75,8,4,2,0,0
+T206060,Sunrisers Vs Mumbai,Mumbai,RileyMeredith,4.0,0,44,1,11.0,6,1,3,2,0
+T206060,Sunrisers Vs Mumbai,Mumbai,SanjayYadav,2.0,0,23,0,11.5,6,3,1,2,0
+T206060,Sunrisers Vs Mumbai,Mumbai,JaspritBumrah,4.0,0,32,1,8.0,11,4,1,0,0
+T206060,Sunrisers Vs Mumbai,Mumbai,MayankMarkande,3.0,0,31,0,10.33,2,3,1,0,0
+T206060,Sunrisers Vs Mumbai,Mumbai,RamandeepSingh,3.0,0,20,3,6.66,5,2,0,1,0
+T206060,Sunrisers Vs Mumbai,Sunrisers,FazalhaqFarooqi,4.0,0,31,0,7.75,11,2,1,3,0
+T206060,Sunrisers Vs Mumbai,Sunrisers,BhuvneshwarKumar,4.0,1,26,1,6.5,12,1,2,0,0
+T206060,Sunrisers Vs Mumbai,Sunrisers,WashingtonSundar,4.0,0,36,1,9.0,4,3,1,0,0
+T206060,Sunrisers Vs Mumbai,Sunrisers,TNatarajan,4.0,0,60,0,15.0,4,4,5,2,0
+T206060,Sunrisers Vs Mumbai,Sunrisers,UmranMalik,3.0,0,23,3,7.66,12,2,1,3,2
+T206060,Sunrisers Vs Mumbai,Sunrisers,AbhishekSharma,1.0,0,10,0,10.0,1,0,1,0,0
+T209295,Capitals Vs Punjab Kings,Punjab Kings,LiamLivingstone,4.0,0,27,3,6.75,8,1,1,2,0
+T209295,Capitals Vs Punjab Kings,Punjab Kings,KagisoRabada,3.0,0,24,1,8.0,8,1,2,0,0
+T209295,Capitals Vs Punjab Kings,Punjab Kings,HarpreetBrar,3.0,0,29,0,9.66,6,4,1,0,0
+T209295,Capitals Vs Punjab Kings,Punjab Kings,RishiDhawan,2.0,0,17,0,8.5,2,2,0,0,0
+T209295,Capitals Vs Punjab Kings,Punjab Kings,ArshdeepSingh,4.0,0,37,3,9.25,7,3,1,0,1
+T209295,Capitals Vs Punjab Kings,Punjab Kings,RahulChahar,4.0,0,19,0,4.75,14,1,1,0,0
+T209295,Capitals Vs Punjab Kings,Capitals,KhaleelAhmed,4.0,0,43,0,10.75,8,3,3,0,0
+T209295,Capitals Vs Punjab Kings,Capitals,AnrichNortje,4.0,0,29,1,7.25,11,4,0,1,1
+T209295,Capitals Vs Punjab Kings,Capitals,LalitYadav,1.0,0,6,0,6.0,4,1,0,1,0
+T209295,Capitals Vs Punjab Kings,Capitals,ShardulThakur,4.0,0,36,4,9.0,10,3,2,3,0
+T209295,Capitals Vs Punjab Kings,Capitals,AxarPatel,4.0,0,14,2,3.5,14,1,0,0,0
+T209295,Capitals Vs Punjab Kings,Capitals,KuldeepYadav,3.0,0,14,2,4.66,9,1,0,0,0
+T204939,Royals Vs Super Giants,Super Giants,MohsinKhan,4.0,0,43,0,10.75,9,6,1,1,0
+T204939,Royals Vs Super Giants,Super Giants,DushmanthaChameera,3.0,0,35,0,11.66,7,5,1,0,1
+T204939,Royals Vs Super Giants,Super Giants,AveshKhan,3.0,0,20,1,6.66,9,3,0,0,0
+T204939,Royals Vs Super Giants,Super Giants,JasonHolder,2.0,0,12,1,6.0,3,1,0,0,0
+T204939,Royals Vs Super Giants,Super Giants,RaviBishnoi,4.0,0,31,2,7.75,9,4,0,1,0
+T204939,Royals Vs Super Giants,Super Giants,MarcusStoinis,1.0,0,15,0,15.0,2,2,1,0,0
+T204939,Royals Vs Super Giants,Super Giants,AyushBadoni,1.0,0,5,1,5.0,3,0,0,0,0
+T204939,Royals Vs Super Giants,Super Giants,KrunalPandya,2.0,0,16,0,8.0,4,1,1,0,0
+T204939,Royals Vs Super Giants,Royals,TrentBoult,4.0,0,18,2,4.5,14,2,0,0,0
+T204939,Royals Vs Super Giants,Royals,PrasidhKrishna,4.0,0,32,2,8.0,14,2,2,2,0
+T204939,Royals Vs Super Giants,Royals,YuzvendraChahal,4.0,0,42,1,10.5,6,2,3,1,0
+T204939,Royals Vs Super Giants,Royals,RavichandranAshwin,4.0,0,24,1,6.0,7,1,0,1,0
+T204939,Royals Vs Super Giants,Royals,ObedMcCoy,4.0,0,35,2,8.75,7,2,1,4,0
+T204140,Super Kings Vs Titans,Titans,MohammedShami,4.0,0,19,2,4.75,9,0,0,0,0
+T204140,Super Kings Vs Titans,Titans,HardikPandya,2.0,0,8,0,4.0,5,0,0,0,1
+T204140,Super Kings Vs Titans,Titans,YashDayal,3.0,0,27,0,9.0,6,2,1,3,0
+T204140,Super Kings Vs Titans,Titans,RashidKhan,4.0,0,31,1,7.75,6,0,2,0,0
+T204140,Super Kings Vs Titans,Titans,AlzarriJoseph,3.0,0,15,1,5.0,10,2,0,0,0
+T204140,Super Kings Vs Titans,Titans,SaiKishore,4.0,0,31,1,7.75,8,3,1,1,0
+T204140,Super Kings Vs Titans,Super Kings,MukeshChoudhary,3.0,0,28,0,9.33,5,5,0,0,0
+T204140,Super Kings Vs Titans,Super Kings,SimarjeetSingh,3.0,0,26,0,8.66,8,3,1,1,0
+T204140,Super Kings Vs Titans,Super Kings,MitchellSantner,4.0,0,24,0,6.0,11,3,0,0,0
+T204140,Super Kings Vs Titans,Super Kings,PrashantSolanki,4.0,0,18,0,4.5,6,0,0,0,0
+T204140,Super Kings Vs Titans,Super Kings,MatheeshaPathirana,3.1,0,24,2,7.57,8,3,0,3,0
+T204140,Super Kings Vs Titans,Super Kings,MoeenAli,2.0,0,11,1,5.5,4,1,0,0,0
+T209676,KKR Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,27,1,6.75,13,3,0,5,0
+T209676,KKR Vs Sunrisers,Sunrisers,MarcoJansen,4.0,0,30,1,7.5,11,0,3,0,0
+T209676,KKR Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,43,1,10.75,7,1,4,1,0
+T209676,KKR Vs Sunrisers,Sunrisers,WashingtonSundar,4.0,0,40,0,10.0,8,1,4,0,0
+T209676,KKR Vs Sunrisers,Sunrisers,UmranMalik,4.0,0,33,3,8.25,10,5,0,2,0
+T209676,KKR Vs Sunrisers,KKR,UmeshYadav,4.0,0,19,1,4.75,13,1,1,0,0
+T209676,KKR Vs Sunrisers,KKR,TimSouthee,4.0,0,23,2,5.75,9,2,0,0,0
+T209676,KKR Vs Sunrisers,KKR,SunilNarine,4.0,0,34,1,8.5,6,1,2,0,0
+T209676,KKR Vs Sunrisers,KKR,AndreRussell,4.0,0,22,3,5.5,14,3,0,2,0
+T209676,KKR Vs Sunrisers,KKR,VarunChakravarthy,4.0,0,25,1,6.25,13,1,2,1,0
+T203332,Punjab Kings Vs RCB,RCB,GlennMaxwell,2.0,0,17,1,8.5,6,0,2,0,0
+T203332,Punjab Kings Vs RCB,RCB,JoshHazlewood,4.0,0,64,0,16.0,5,7,4,2,0
+T203332,Punjab Kings Vs RCB,RCB,MohammedSiraj,2.0,0,36,0,18.0,3,2,4,0,1
+T203332,Punjab Kings Vs RCB,RCB,WaninduHasaranga,4.0,0,15,2,3.75,12,1,0,0,0
+T203332,Punjab Kings Vs RCB,RCB,ShahbazAhmed,4.0,0,40,1,10.0,5,3,2,0,0
+T203332,Punjab Kings Vs RCB,RCB,HarshalPatel,4.0,0,34,4,8.5,10,3,2,1,0
+T203332,Punjab Kings Vs RCB,Punjab Kings,HarpreetBrar,4.0,0,33,1,8.25,12,3,2,2,0
+T203332,Punjab Kings Vs RCB,Punjab Kings,ArshdeepSingh,4.0,0,27,1,6.75,9,3,0,1,0
+T203332,Punjab Kings Vs RCB,Punjab Kings,KagisoRabada,4.0,0,21,3,5.25,15,2,0,2,0
+T203332,Punjab Kings Vs RCB,Punjab Kings,RishiDhawan,4.0,0,36,2,9.0,4,2,1,0,0
+T203332,Punjab Kings Vs RCB,Punjab Kings,RahulChahar,4.0,0,37,2,9.25,10,3,2,3,0
+T203878,Super Kings Vs Mumbai,Mumbai,DanielSams,4.0,0,16,3,4.0,18,1,0,6,0
+T203878,Super Kings Vs Mumbai,Mumbai,JaspritBumrah,3.0,1,12,1,4.0,13,2,0,0,0
+T203878,Super Kings Vs Mumbai,Mumbai,RileyMeredith,3.0,0,27,2,9.0,11,3,1,1,0
+T203878,Super Kings Vs Mumbai,Mumbai,HrithikShokeen,2.0,0,12,0,6.0,7,0,1,1,0
+T203878,Super Kings Vs Mumbai,Mumbai,KumarKartikeya,3.0,0,22,2,7.33,9,2,1,0,0
+T203878,Super Kings Vs Mumbai,Mumbai,RamandeepSingh,1.0,0,5,1,5.0,4,1,0,0,0
+T203878,Super Kings Vs Mumbai,Super Kings,MukeshChoudhary,4.0,0,23,3,5.75,17,4,0,3,0
+T203878,Super Kings Vs Mumbai,Super Kings,SimarjeetSingh,4.0,0,22,1,5.5,16,3,0,1,0
+T203878,Super Kings Vs Mumbai,Super Kings,DwayneBravo,2.0,0,16,0,8.0,3,1,0,1,0
+T203878,Super Kings Vs Mumbai,Super Kings,MaheeshTheekshana,3.0,0,24,0,8.0,5,3,0,0,0
+T203878,Super Kings Vs Mumbai,Super Kings,MoeenAli,1.5,0,17,1,9.27,4,0,2,0,0
+T201826,Royals Vs Capitals,Capitals,ChetanSakariya,4.0,0,23,2,5.75,9,1,0,3,0
+T201826,Royals Vs Capitals,Capitals,AnrichNortje,4.0,0,39,2,9.75,8,4,2,1,0
+T201826,Royals Vs Capitals,Capitals,ShardulThakur,4.0,0,27,0,6.75,12,4,0,1,0
+T201826,Royals Vs Capitals,Capitals,AxarPatel,2.0,0,25,0,12.5,5,1,3,0,0
+T201826,Royals Vs Capitals,Capitals,MitchellMarsh,3.0,0,25,2,8.33,5,4,0,0,0
+T201826,Royals Vs Capitals,Capitals,KuldeepYadav,3.0,0,20,0,6.66,3,0,1,0,0
+T201826,Royals Vs Capitals,Royals,TrentBoult,4.0,0,32,1,8.0,11,4,1,2,0
+T201826,Royals Vs Capitals,Royals,PrasidhKrishna,3.0,1,20,0,6.66,11,2,1,0,0
+T201826,Royals Vs Capitals,Royals,RavichandranAshwin,4.0,0,32,0,8.0,7,1,2,2,0
+T201826,Royals Vs Capitals,Royals,KuldeepSen,3.1,0,32,0,10.1,6,2,2,0,0
+T201826,Royals Vs Capitals,Royals,YuzvendraChahal,4.0,0,43,1,10.75,6,1,4,1,0
+T207400,Titans Vs Super Giants,Super Giants,MohsinKhan,4.0,0,18,1,4.5,10,1,0,0,0
+T207400,Titans Vs Super Giants,Super Giants,DushmanthaChameera,4.0,0,34,0,8.5,10,6,0,2,0
+T207400,Titans Vs Super Giants,Super Giants,AveshKhan,4.0,0,26,2,6.5,8,3,0,1,0
+T207400,Titans Vs Super Giants,Super Giants,KrunalPandya,4.0,0,24,0,6.0,5,1,0,0,0
+T207400,Titans Vs Super Giants,Super Giants,JasonHolder,4.0,0,41,1,10.25,5,4,1,3,0
+T207400,Titans Vs Super Giants,Titans,MohammedShami,3.0,0,5,1,1.66,14,0,0,1,0
+T207400,Titans Vs Super Giants,Titans,HardikPandya,1.0,0,8,0,8.0,2,1,0,0,0
+T207400,Titans Vs Super Giants,Titans,YashDayal,2.0,0,24,2,12.0,5,4,1,0,0
+T207400,Titans Vs Super Giants,Titans,AlzarriJoseph,2.0,0,14,0,7.0,4,2,0,0,0
+T207400,Titans Vs Super Giants,Titans,RashidKhan,3.5,0,24,4,6.26,11,0,2,2,0
+T207400,Titans Vs Super Giants,Titans,SaiKishore,2.0,0,7,2,3.5,5,0,0,0,0
+T203087,KKR Vs Mumbai,Mumbai,DanielSams,4.0,0,26,1,6.5,13,0,2,3,0
+T203087,KKR Vs Mumbai,Mumbai,MuruganAshwin,4.0,0,35,1,8.75,10,3,2,1,0
+T203087,KKR Vs Mumbai,Mumbai,JaspritBumrah,4.0,1,10,5,2.5,18,1,0,0,0
+T203087,KKR Vs Mumbai,Mumbai,RileyMeredith,3.0,0,35,0,11.66,6,4,1,1,0
+T203087,KKR Vs Mumbai,Mumbai,KumarKartikeya,3.0,0,32,2,10.66,8,2,3,0,0
+T203087,KKR Vs Mumbai,Mumbai,KieronPollard,2.0,0,26,0,13.0,3,2,2,1,0
+T203087,KKR Vs Mumbai,KKR,TimSouthee,3.0,0,10,1,3.33,13,1,0,0,0
+T203087,KKR Vs Mumbai,KKR,PatCummins,4.0,0,22,3,5.5,11,2,0,1,0
+T203087,KKR Vs Mumbai,KKR,AndreRussell,2.3,0,22,2,8.8,6,4,0,0,0
+T203087,KKR Vs Mumbai,KKR,SunilNarine,4.0,0,21,0,5.25,9,0,1,1,0
+T203087,KKR Vs Mumbai,KKR,VarunChakravarthy,3.0,0,22,1,7.33,6,1,1,0,0
+T203087,KKR Vs Mumbai,KKR,VenkateshIyer,1.0,0,8,0,8.0,1,1,0,0,0
+T205352,Super Kings Vs Capitals,Capitals,ShardulThakur,3.0,0,38,0,12.66,5,4,2,2,0
+T205352,Super Kings Vs Capitals,Capitals,KhaleelAhmed,4.0,0,28,2,7.0,10,2,1,3,0
+T205352,Super Kings Vs Capitals,Capitals,AnrichNortje,4.0,0,42,3,10.5,6,5,1,0,1
+T205352,Super Kings Vs Capitals,Capitals,AxarPatel,3.0,0,23,0,7.66,5,0,2,0,0
+T205352,Super Kings Vs Capitals,Capitals,KuldeepYadav,3.0,0,43,0,14.33,4,4,3,2,0
+T205352,Super Kings Vs Capitals,Capitals,MitchellMarsh,3.0,0,34,1,11.33,3,2,1,3,0
+T205352,Super Kings Vs Capitals,Super Kings,MukeshChoudhary,3.0,0,22,2,7.33,10,1,2,0,0
+T205352,Super Kings Vs Capitals,Super Kings,SimarjeetSingh,4.0,0,27,2,6.75,13,3,1,1,0
+T205352,Super Kings Vs Capitals,Super Kings,MaheeshTheekshana,4.0,0,29,1,7.25,13,4,1,0,0
+T205352,Super Kings Vs Capitals,Super Kings,DwayneBravo,2.4,0,24,2,9.0,6,4,0,1,0
+T205352,Super Kings Vs Capitals,Super Kings,MoeenAli,4.0,0,13,3,3.25,16,0,1,0,0
+T207464,RCB Vs Sunrisers,Sunrisers,JagadeeshaSuchith,4.0,0,30,2,7.5,12,1,2,2,0
+T207464,RCB Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,34,0,8.5,7,2,2,0,0
+T207464,RCB Vs Sunrisers,Sunrisers,FazalhaqFarooqi,4.0,0,47,0,11.75,6,4,3,0,0
+T207464,RCB Vs Sunrisers,Sunrisers,KartikTyagi,4.0,0,42,1,10.5,10,4,2,3,1
+T207464,RCB Vs Sunrisers,Sunrisers,UmranMalik,2.0,0,25,0,12.5,4,4,1,0,0
+T207464,RCB Vs Sunrisers,Sunrisers,AbhishekSharma,2.0,0,13,0,6.5,2,1,0,0,0
+T207464,RCB Vs Sunrisers,RCB,GlennMaxwell,2.0,0,13,1,6.5,7,1,1,0,0
+T207464,RCB Vs Sunrisers,RCB,JoshHazlewood,4.0,0,17,2,4.25,13,2,0,0,0
+T207464,RCB Vs Sunrisers,RCB,ShahbazAhmed,2.0,0,20,0,10.0,3,3,0,2,0
+T207464,RCB Vs Sunrisers,RCB,MohammedSiraj,3.0,0,27,0,9.0,7,1,2,1,0
+T207464,RCB Vs Sunrisers,RCB,MahipalLomror,1.0,0,7,0,7.0,2,1,0,0,0
+T207464,RCB Vs Sunrisers,RCB,HarshalPatel,3.2,0,20,1,6.0,9,1,1,1,0
+T207464,RCB Vs Sunrisers,RCB,WaninduHasaranga,4.0,1,18,5,4.5,14,1,1,0,0
+T204710,Super Giants Vs KKR,KKR,TimSouthee,4.0,0,28,1,7.0,12,3,1,0,0
+T204710,Super Giants Vs KKR,KKR,ShivamMavi,4.0,0,50,1,12.5,10,3,5,1,0
+T204710,Super Giants Vs KKR,KKR,SunilNarine,4.0,0,20,1,5.0,12,0,1,0,0
+T204710,Super Giants Vs KKR,KKR,AnukulRoy,3.0,0,27,0,9.0,4,2,1,0,0
+T204710,Super Giants Vs KKR,KKR,HarshitRana,2.0,0,27,0,13.5,4,3,2,0,0
+T204710,Super Giants Vs KKR,KKR,AndreRussell,3.0,0,22,2,7.33,2,0,0,1,0
+T204710,Super Giants Vs KKR,Super Giants,MohsinKhan,3.0,1,6,1,2.0,15,1,0,0,0
+T204710,Super Giants Vs KKR,Super Giants,DushmanthaChameera,3.0,0,14,1,4.66,11,2,0,0,0
+T204710,Super Giants Vs KKR,Super Giants,AveshKhan,3.0,1,19,3,6.33,11,1,1,2,0
+T204710,Super Giants Vs KKR,Super Giants,JasonHolder,2.3,0,31,3,12.4,4,1,3,0,0
+T204710,Super Giants Vs KKR,Super Giants,RaviBishnoi,3.0,0,30,1,10.0,8,3,2,0,0
+T201231,Punjab Kings Vs Royals,Royals,TrentBoult,4.0,1,36,0,9.0,10,5,1,1,0
+T201231,Punjab Kings Vs Royals,Royals,PrasidhKrishna,4.0,0,48,1,12.0,6,7,1,2,1
+T201231,Punjab Kings Vs Royals,Royals,KuldeepSen,4.0,0,42,0,10.5,9,5,2,2,0
+T201231,Punjab Kings Vs Royals,Royals,RavichandranAshwin,4.0,0,32,1,8.0,8,3,1,1,0
+T201231,Punjab Kings Vs Royals,Royals,YuzvendraChahal,4.0,0,28,3,7.0,10,0,2,4,0
+T201231,Punjab Kings Vs Royals,Punjab Kings,SandeepSharma,4.0,0,41,0,10.25,10,7,1,1,0
+T201231,Punjab Kings Vs Royals,Punjab Kings,KagisoRabada,4.0,0,50,1,12.5,7,7,2,1,0
+T201231,Punjab Kings Vs Royals,Punjab Kings,ArshdeepSingh,4.0,0,29,2,7.25,8,4,0,1,0
+T201231,Punjab Kings Vs Royals,Punjab Kings,RishiDhawan,3.0,0,25,1,8.33,5,4,0,0,0
+T201231,Punjab Kings Vs Royals,Punjab Kings,RahulChahar,3.4,0,39,0,10.63,5,2,2,2,0
+T201231,Punjab Kings Vs Royals,Punjab Kings,LiamLivingstone,1.0,0,6,0,6.0,1,0,0,1,0
+T201720,Mumbai Vs Titans,Titans,MohammedShami,4.0,0,42,0,10.5,8,2,3,2,0
+T201720,Mumbai Vs Titans,Titans,AlzarriJoseph,4.0,0,41,1,10.25,9,5,2,0,0
+T201720,Mumbai Vs Titans,Titans,RashidKhan,4.0,0,24,2,6.0,10,2,0,0,0
+T201720,Mumbai Vs Titans,Titans,LockieFerguson,4.0,0,34,1,8.5,12,3,2,0,1
+T201720,Mumbai Vs Titans,Titans,PradeepSangwan,3.0,0,23,1,7.66,6,2,0,2,0
+T201720,Mumbai Vs Titans,Titans,RahulTewatia,1.0,0,11,0,11.0,0,0,1,0,0
+T201720,Mumbai Vs Titans,Mumbai,DanielSams,3.0,0,18,0,6.0,9,3,0,0,0
+T201720,Mumbai Vs Titans,Mumbai,JaspritBumrah,4.0,0,48,0,12.0,7,5,3,0,0
+T201720,Mumbai Vs Titans,Mumbai,MuruganAshwin,4.0,0,29,2,7.25,8,2,1,0,0
+T201720,Mumbai Vs Titans,Mumbai,RileyMeredith,4.0,0,32,0,8.0,9,5,0,1,0
+T201720,Mumbai Vs Titans,Mumbai,KumarKartikeya,3.0,0,29,0,9.66,4,3,1,0,0
+T201720,Mumbai Vs Titans,Mumbai,KieronPollard,2.0,0,13,1,6.5,4,0,1,0,0
+T201248,Capitals Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,1,25,1,6.25,14,3,1,0,0
+T201248,Capitals Vs Sunrisers,Sunrisers,SeanAbbott,4.0,0,47,1,11.75,7,5,2,3,0
+T201248,Capitals Vs Sunrisers,Sunrisers,UmranMalik,4.0,0,52,0,13.0,9,6,2,2,0
+T201248,Capitals Vs Sunrisers,Sunrisers,KartikTyagi,4.0,0,37,0,9.25,10,3,2,1,1
+T201248,Capitals Vs Sunrisers,Sunrisers,ShreyasGopal,3.0,0,34,1,11.33,7,1,4,0,0
+T201248,Capitals Vs Sunrisers,Sunrisers,AidenMarkram,1.0,0,11,0,11.0,0,0,1,0,0
+T201248,Capitals Vs Sunrisers,Capitals,ShardulThakur,4.0,0,44,2,11.0,10,4,2,2,0
+T201248,Capitals Vs Sunrisers,Capitals,KhaleelAhmed,4.0,0,30,3,7.5,14,3,2,0,0
+T201248,Capitals Vs Sunrisers,Capitals,AnrichNortje,4.0,0,35,1,8.75,11,1,3,3,0
+T201248,Capitals Vs Sunrisers,Capitals,MitchellMarsh,4.0,0,36,1,9.0,9,6,0,1,0
+T201248,Capitals Vs Sunrisers,Capitals,KuldeepYadav,4.0,0,40,1,10.0,10,2,4,0,0
+T207511,RCB Vs Super Kings,Super Kings,MukeshChoudhary,3.0,0,30,0,10.0,8,4,1,1,0
+T207511,RCB Vs Super Kings,Super Kings,SimarjeetSingh,2.0,0,21,0,10.5,6,2,1,1,0
+T207511,RCB Vs Super Kings,Super Kings,MaheeshTheekshana,4.0,0,27,3,6.75,8,2,1,0,0
+T207511,RCB Vs Super Kings,Super Kings,RavindraJadeja,4.0,0,20,0,5.0,7,1,0,0,0
+T207511,RCB Vs Super Kings,Super Kings,MoeenAli,4.0,0,28,2,7.0,8,1,1,3,0
+T207511,RCB Vs Super Kings,Super Kings,DwainePretorius,3.0,0,42,1,14.0,4,2,3,2,0
+T207511,RCB Vs Super Kings,RCB,ShahbazAhmed,3.0,0,27,1,9.0,6,3,1,0,0
+T207511,RCB Vs Super Kings,RCB,JoshHazlewood,4.0,0,19,1,4.75,10,1,0,0,0
+T207511,RCB Vs Super Kings,RCB,MohammedSiraj,2.0,0,22,0,11.0,2,4,0,0,0
+T207511,RCB Vs Super Kings,RCB,WaninduHasaranga,3.0,0,31,1,10.33,7,0,4,0,0
+T207511,RCB Vs Super Kings,RCB,GlennMaxwell,4.0,0,22,2,5.5,8,2,0,0,0
+T207511,RCB Vs Super Kings,RCB,HarshalPatel,4.0,0,35,3,8.75,11,2,3,0,0
+T209502,Titans Vs Punjab Kings,Punjab Kings,SandeepSharma,4.0,0,17,0,4.25,15,2,0,1,0
+T209502,Titans Vs Punjab Kings,Punjab Kings,KagisoRabada,4.0,0,33,4,8.25,13,4,1,3,0
+T209502,Titans Vs Punjab Kings,Punjab Kings,ArshdeepSingh,4.0,0,36,1,9.0,5,2,1,1,1
+T209502,Titans Vs Punjab Kings,Punjab Kings,RishiDhawan,4.0,0,26,1,6.5,6,1,0,3,0
+T209502,Titans Vs Punjab Kings,Punjab Kings,LiamLivingstone,2.3,0,15,1,6.0,5,1,0,0,0
+T209502,Titans Vs Punjab Kings,Punjab Kings,RahulChahar,1.3,0,11,0,7.33,3,1,0,0,0
+T209502,Titans Vs Punjab Kings,Titans,MohammedShami,4.0,0,43,1,10.75,12,5,3,0,0
+T209502,Titans Vs Punjab Kings,Titans,PradeepSangwan,2.0,0,23,0,11.5,4,5,0,0,0
+T209502,Titans Vs Punjab Kings,Titans,AlzarriJoseph,3.0,0,25,0,8.33,6,1,1,0,1
+T209502,Titans Vs Punjab Kings,Titans,LockieFerguson,3.0,0,29,1,9.66,9,2,1,3,0
+T209502,Titans Vs Punjab Kings,Titans,RashidKhan,4.0,0,21,0,5.25,9,2,0,0,0
+T201137,Royals Vs KKR,KKR,UmeshYadav,4.0,1,24,1,6.0,17,5,0,1,1
+T201137,Royals Vs KKR,KKR,AnukulRoy,4.0,0,28,1,7.0,7,0,2,0,0
+T201137,Royals Vs KKR,KKR,SunilNarine,4.0,0,19,0,4.75,12,2,0,0,0
+T201137,Royals Vs KKR,KKR,ShivamMavi,4.0,0,33,1,8.25,7,3,0,1,1
+T201137,Royals Vs KKR,KKR,TimSouthee,4.0,0,46,2,11.5,7,3,3,3,0
+T201137,Royals Vs KKR,Royals,TrentBoult,4.0,0,25,1,6.25,9,2,0,2,0
+T201137,Royals Vs KKR,Royals,PrasidhKrishna,4.0,0,37,1,9.25,9,5,0,4,0
+T201137,Royals Vs KKR,Royals,KuldeepSen,3.1,0,28,1,8.84,12,2,2,3,0
+T201137,Royals Vs KKR,Royals,RavichandranAshwin,4.0,0,33,0,8.25,6,3,1,0,0
+T201137,Royals Vs KKR,Royals,YuzvendraChahal,4.0,0,31,0,7.75,6,2,1,0,0
+T206274,Super Kings Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,22,0,5.5,8,1,0,0,0
+T206274,Super Kings Vs Sunrisers,Sunrisers,MarcoJansen,4.0,0,38,0,9.5,12,1,4,0,0
+T206274,Super Kings Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,42,2,10.5,4,4,1,1,0
+T206274,Super Kings Vs Sunrisers,Sunrisers,AidenMarkram,3.0,0,36,0,12.0,3,2,3,0,0
+T206274,Super Kings Vs Sunrisers,Sunrisers,UmranMalik,4.0,0,48,0,12.0,8,6,2,2,0
+T206274,Super Kings Vs Sunrisers,Sunrisers,ShashankSingh,1.0,0,10,0,10.0,0,1,0,0,0
+T206274,Super Kings Vs Sunrisers,Super Kings,MukeshChoudhary,4.0,0,46,4,11.5,9,4,3,1,0
+T206274,Super Kings Vs Sunrisers,Super Kings,SimarjeetSingh,2.0,0,24,0,12.0,4,3,1,0,1
+T206274,Super Kings Vs Sunrisers,Super Kings,MitchellSantner,3.0,0,36,1,12.0,4,2,3,0,0
+T206274,Super Kings Vs Sunrisers,Super Kings,MaheeshTheekshana,4.0,0,26,0,6.5,6,0,1,0,0
+T206274,Super Kings Vs Sunrisers,Super Kings,RavindraJadeja,3.0,0,15,0,5.0,8,0,1,0,0
+T206274,Super Kings Vs Sunrisers,Super Kings,DwainePretorius,4.0,0,40,1,10.0,5,2,2,1,0
+T208561,Super Giants Vs Capitals,Capitals,MustafizurRahman,4.0,0,37,0,9.25,6,3,1,2,0
+T208561,Super Giants Vs Capitals,Capitals,ChetanSakariya,4.0,0,44,0,11.0,4,2,3,2,0
+T208561,Super Giants Vs Capitals,Capitals,AxarPatel,4.0,0,25,0,6.25,9,1,1,2,0
+T208561,Super Giants Vs Capitals,Capitals,LalitYadav,1.0,0,16,0,16.0,1,2,1,0,0
+T208561,Super Giants Vs Capitals,Capitals,ShardulThakur,4.0,0,40,3,10.0,7,3,1,6,0
+T208561,Super Giants Vs Capitals,Capitals,KuldeepYadav,3.0,0,29,0,9.66,3,3,1,0,0
+T208561,Super Giants Vs Capitals,Super Giants,MohsinKhan,4.0,0,16,4,4.0,15,1,0,1,0
+T208561,Super Giants Vs Capitals,Super Giants,DushmanthaChameera,4.0,0,44,1,11.0,6,5,2,0,0
+T208561,Super Giants Vs Capitals,Super Giants,KrunalPandya,1.0,0,19,0,19.0,1,3,1,0,0
+T208561,Super Giants Vs Capitals,Super Giants,JasonHolder,4.0,0,45,0,11.25,6,4,2,1,0
+T208561,Super Giants Vs Capitals,Super Giants,RaviBishnoi,4.0,0,28,1,7.0,10,2,1,0,0
+T208561,Super Giants Vs Capitals,Super Giants,KrishnappaGowtham,2.0,0,23,1,11.5,3,1,2,0,0
+T208561,Super Giants Vs Capitals,Super Giants,MarcusStoinis,1.0,0,14,0,14.0,3,0,2,1,0
+T204259,Royals Vs Mumbai,Mumbai,DanielSams,4.0,0,32,1,8.0,10,4,0,2,0
+T204259,Royals Vs Mumbai,Mumbai,JaspritBumrah,4.0,0,27,0,6.75,11,3,0,0,1
+T204259,Royals Vs Mumbai,Mumbai,HrithikShokeen,3.0,0,47,2,15.66,9,2,6,0,0
+T204259,Royals Vs Mumbai,Mumbai,RileyMeredith,4.0,0,24,2,6.0,13,1,1,4,0
+T204259,Royals Vs Mumbai,Mumbai,KumarKartikeya,4.0,0,19,1,4.75,9,1,0,0,0
+T204259,Royals Vs Mumbai,Mumbai,KieronPollard,1.0,0,8,0,8.0,1,1,0,0,0
+T204259,Royals Vs Mumbai,Royals,TrentBoult,3.0,0,26,1,8.66,9,2,1,2,0
+T204259,Royals Vs Mumbai,Royals,PrasidhKrishna,4.0,0,29,1,7.25,11,4,0,1,0
+T204259,Royals Vs Mumbai,Royals,RavichandranAshwin,4.0,0,21,1,5.25,9,0,1,0,0
+T204259,Royals Vs Mumbai,Royals,DarylMitchell,1.0,0,20,0,20.0,0,3,1,0,0
+T204259,Royals Vs Mumbai,Royals,YuzvendraChahal,4.0,0,33,1,8.25,9,0,3,0,0
+T204259,Royals Vs Mumbai,Royals,KuldeepSen,3.2,0,29,1,8.7,7,3,1,1,0
+T208841,RCB Vs Titans,Titans,MohammedShami,4.0,0,39,1,9.75,9,3,2,1,0
+T208841,RCB Vs Titans,Titans,PradeepSangwan,4.0,0,19,2,4.75,12,2,0,0,0
+T208841,RCB Vs Titans,Titans,AlzarriJoseph,4.0,0,42,1,10.5,9,5,2,1,0
+T208841,RCB Vs Titans,Titans,RashidKhan,4.0,0,29,1,7.25,4,1,1,0,0
+T208841,RCB Vs Titans,Titans,LockieFerguson,4.0,0,36,1,9.0,10,5,1,0,0
+T208841,RCB Vs Titans,RCB,GlennMaxwell,1.0,0,10,0,10.0,2,2,0,0,0
+T208841,RCB Vs Titans,RCB,MohammedSiraj,4.0,0,35,0,8.75,11,6,0,2,0
+T208841,RCB Vs Titans,RCB,JoshHazlewood,3.3,0,36,0,10.28,5,4,1,1,0
+T208841,RCB Vs Titans,RCB,ShahbazAhmed,3.0,0,26,2,8.66,4,2,1,0,1
+T208841,RCB Vs Titans,RCB,HarshalPatel,4.0,0,35,0,8.75,3,2,1,1,0
+T208841,RCB Vs Titans,RCB,WaninduHasaranga,4.0,0,28,2,7.0,9,2,1,0,0
+T207116,Super Giants Vs Punjab Kings,Punjab Kings,ArshdeepSingh,4.0,0,23,0,5.75,8,2,0,0,0
+T207116,Super Giants Vs Punjab Kings,Punjab Kings,SandeepSharma,4.0,0,18,1,4.5,14,2,0,2,0
+T207116,Super Giants Vs Punjab Kings,Punjab Kings,KagisoRabada,4.0,0,38,4,9.5,12,1,4,1,0
+T207116,Super Giants Vs Punjab Kings,Punjab Kings,RishiDhawan,2.0,0,13,0,6.5,6,0,1,0,0
+T207116,Super Giants Vs Punjab Kings,Punjab Kings,LiamLivingstone,2.0,0,23,0,11.5,1,1,1,1,0
+T207116,Super Giants Vs Punjab Kings,Punjab Kings,RahulChahar,4.0,0,30,2,7.5,10,2,2,0,0
+T207116,Super Giants Vs Punjab Kings,Super Giants,MohsinKhan,4.0,1,24,3,6.0,14,2,1,2,0
+T207116,Super Giants Vs Punjab Kings,Super Giants,DushmanthaChameera,4.0,0,17,2,4.25,17,1,1,2,0
+T207116,Super Giants Vs Punjab Kings,Super Giants,JasonHolder,1.0,0,8,0,8.0,1,1,0,0,0
+T207116,Super Giants Vs Punjab Kings,Super Giants,AveshKhan,3.0,0,26,0,8.66,10,4,1,1,0
+T207116,Super Giants Vs Punjab Kings,Super Giants,RaviBishnoi,4.0,0,41,1,10.25,10,4,2,2,1
+T207116,Super Giants Vs Punjab Kings,Super Giants,KrunalPandya,4.0,1,11,2,2.75,15,0,0,1,0
+T209582,KKR Vs Capitals,Capitals,MustafizurRahman,4.0,0,18,3,4.5,14,2,0,1,0
+T209582,KKR Vs Capitals,Capitals,ChetanSakariya,3.0,0,17,1,5.66,8,2,0,0,0
+T209582,KKR Vs Capitals,Capitals,ShardulThakur,3.0,0,32,0,10.66,2,2,1,2,0
+T209582,KKR Vs Capitals,Capitals,AxarPatel,4.0,0,28,1,7.0,5,3,0,0,0
+T209582,KKR Vs Capitals,Capitals,KuldeepYadav,3.0,0,14,4,4.66,8,1,0,0,0
+T209582,KKR Vs Capitals,Capitals,LalitYadav,3.0,0,32,0,10.66,3,0,3,0,1
+T209582,KKR Vs Capitals,KKR,UmeshYadav,4.0,0,24,3,6.0,13,3,0,0,0
+T209582,KKR Vs Capitals,KKR,HarshitRana,3.0,0,24,1,8.0,8,2,1,0,1
+T209582,KKR Vs Capitals,KKR,TimSouthee,4.0,0,31,0,7.75,6,2,1,1,0
+T209582,KKR Vs Capitals,KKR,SunilNarine,4.0,0,19,1,4.75,13,2,0,1,0
+T209582,KKR Vs Capitals,KKR,NitishRana,1.0,0,14,0,14.0,1,3,0,0,0
+T209582,KKR Vs Capitals,KKR,AndreRussell,1.0,0,14,0,14.0,1,1,1,0,0
+T209582,KKR Vs Capitals,KKR,VenkateshIyer,1.0,0,14,0,14.0,0,1,1,0,0
+T209582,KKR Vs Capitals,KKR,ShreyasIyer,1.0,0,7,0,7.0,4,0,1,0,0
+T209115,Sunrisers Vs Titans,Titans,MohammedShami,4.0,0,39,3,9.75,14,3,2,2,0
+T209115,Sunrisers Vs Titans,Titans,YashDayal,4.0,0,24,1,6.0,8,2,0,1,0
+T209115,Sunrisers Vs Titans,Titans,AlzarriJoseph,4.0,0,35,1,8.75,8,3,1,1,0
+T209115,Sunrisers Vs Titans,Titans,RashidKhan,4.0,0,45,0,11.25,2,2,3,0,0
+T209115,Sunrisers Vs Titans,Titans,LockieFerguson,4.0,0,52,0,13.0,6,2,5,2,0
+T209115,Sunrisers Vs Titans,Sunrisers,BhuvneshwarKumar,4.0,0,33,0,8.25,7,3,1,0,0
+T209115,Sunrisers Vs Titans,Sunrisers,MarcoJansen,4.0,0,63,0,15.75,4,4,5,2,0
+T209115,Sunrisers Vs Titans,Sunrisers,TNatarajan,4.0,0,43,0,10.75,7,6,1,1,0
+T209115,Sunrisers Vs Titans,Sunrisers,WashingtonSundar,4.0,0,34,0,8.5,4,2,1,1,0
+T209115,Sunrisers Vs Titans,Sunrisers,UmranMalik,4.0,0,25,5,6.25,12,4,0,1,0
+T205212,Royals Vs RCB,RCB,ShahbazAhmed,3.0,0,35,0,11.66,4,1,3,2,0
+T205212,Royals Vs RCB,RCB,MohammedSiraj,4.0,0,30,2,7.5,12,4,1,0,0
+T205212,Royals Vs RCB,RCB,JoshHazlewood,4.0,1,19,2,4.75,16,2,1,0,0
+T205212,Royals Vs RCB,RCB,WaninduHasaranga,4.0,0,23,2,5.75,11,1,1,1,0
+T205212,Royals Vs RCB,RCB,HarshalPatel,4.0,0,33,1,8.25,6,1,2,0,0
+T205212,Royals Vs RCB,RCB,GlennMaxwell,1.0,0,4,0,4.0,2,0,0,0,0
+T205212,Royals Vs RCB,Royals,TrentBoult,3.0,0,20,0,6.66,10,4,0,0,0
+T205212,Royals Vs RCB,Royals,PrasidhKrishna,4.0,0,23,2,5.75,16,2,1,3,0
+T205212,Royals Vs RCB,Royals,RavichandranAshwin,4.0,0,17,3,4.25,14,0,1,1,0
+T205212,Royals Vs RCB,Royals,KuldeepSen,3.3,0,20,4,5.71,11,1,1,0,0
+T205212,Royals Vs RCB,Royals,DarylMitchell,1.0,0,7,0,7.0,1,0,0,1,0
+T205212,Royals Vs RCB,Royals,YuzvendraChahal,4.0,0,23,0,5.75,15,2,1,1,0
+T207611,Punjab Kings Vs Super Kings,Super Kings,MukeshChoudhary,4.0,0,36,0,9.0,6,4,0,3,0
+T207611,Punjab Kings Vs Super Kings,Super Kings,MaheeshTheekshana,4.0,0,32,1,8.0,6,2,1,2,0
+T207611,Punjab Kings Vs Super Kings,Super Kings,MitchellSantner,2.0,0,8,0,4.0,7,1,0,0,0
+T207611,Punjab Kings Vs Super Kings,Super Kings,RavindraJadeja,2.0,0,18,0,9.0,1,0,1,2,0
+T207611,Punjab Kings Vs Super Kings,Super Kings,DwainePretorius,4.0,0,50,0,12.5,4,4,3,2,0
+T207611,Punjab Kings Vs Super Kings,Super Kings,DwayneBravo,4.0,0,42,2,10.5,5,4,1,2,2
+T207611,Punjab Kings Vs Super Kings,Punjab Kings,KagisoRabada,4.0,0,23,2,5.75,13,4,0,0,0
+T207611,Punjab Kings Vs Super Kings,Punjab Kings,SandeepSharma,4.0,0,40,1,10.0,11,3,3,2,0
+T207611,Punjab Kings Vs Super Kings,Punjab Kings,RishiDhawan,4.0,0,39,2,9.75,10,2,3,2,0
+T207611,Punjab Kings Vs Super Kings,Punjab Kings,ArshdeepSingh,4.0,0,23,1,5.75,9,2,0,1,0
+T207611,Punjab Kings Vs Super Kings,Punjab Kings,RahulChahar,3.0,0,30,0,10.0,4,3,1,1,0
+T207611,Punjab Kings Vs Super Kings,Punjab Kings,LiamLivingstone,1.0,0,12,0,12.0,2,1,1,0,0
+T208801,Super Giants Vs Mumbai,Mumbai,DanielSams,4.0,0,40,1,10.0,9,2,2,4,0
+T208801,Super Giants Vs Mumbai,Mumbai,HrithikShokeen,2.0,0,11,0,5.5,5,1,0,0,0
+T208801,Super Giants Vs Mumbai,Mumbai,JaspritBumrah,4.0,0,31,1,7.75,9,3,1,0,0
+T208801,Super Giants Vs Mumbai,Mumbai,RileyMeredith,4.0,0,40,2,10.0,10,3,3,1,0
+T208801,Super Giants Vs Mumbai,Mumbai,JaydevUnadkat,4.0,0,36,0,9.0,5,4,1,0,0
+T208801,Super Giants Vs Mumbai,Mumbai,KieronPollard,2.0,0,8,2,4.0,5,0,0,0,0
+T208801,Super Giants Vs Mumbai,Super Giants,MohsinKhan,4.0,0,27,1,6.75,11,1,1,2,0
+T208801,Super Giants Vs Mumbai,Super Giants,DushmanthaChameera,4.0,0,14,0,3.5,15,1,0,2,0
+T208801,Super Giants Vs Mumbai,Super Giants,JasonHolder,4.0,0,36,1,9.0,8,4,1,2,0
+T208801,Super Giants Vs Mumbai,Super Giants,KrunalPandya,4.0,0,19,3,4.75,10,1,0,1,0
+T208801,Super Giants Vs Mumbai,Super Giants,RaviBishnoi,3.0,0,28,1,9.33,7,1,2,1,0
+T208801,Super Giants Vs Mumbai,Super Giants,AyushBadoni,1.0,0,6,1,6.0,1,0,0,0,0
+T208774,RCB Vs Sunrisers,Sunrisers,BhuvneshwarKumar,2.1,0,8,1,3.69,8,1,0,0,0
+T208774,RCB Vs Sunrisers,Sunrisers,MarcoJansen,4.0,0,25,3,6.25,14,4,0,3,0
+T208774,RCB Vs Sunrisers,Sunrisers,TNatarajan,3.0,0,10,3,3.33,13,0,0,1,0
+T208774,RCB Vs Sunrisers,Sunrisers,JagadeeshaSuchith,3.0,0,12,2,4.0,12,0,0,2,0
+T208774,RCB Vs Sunrisers,Sunrisers,UmranMalik,4.0,0,13,1,3.25,19,1,0,1,1
+T208774,RCB Vs Sunrisers,RCB,MohammedSiraj,2.0,0,15,0,7.5,6,1,1,1,0
+T208774,RCB Vs Sunrisers,RCB,JoshHazlewood,3.0,0,31,0,10.33,7,6,0,0,0
+T208774,RCB Vs Sunrisers,RCB,HarshalPatel,2.0,0,18,1,9.0,5,2,1,0,0
+T208774,RCB Vs Sunrisers,RCB,WaninduHasaranga,1.0,0,7,0,7.0,2,1,0,0,0
+T208514,Titans Vs KKR,KKR,UmeshYadav,4.0,0,31,1,7.75,10,3,1,0,0
+T208514,Titans Vs KKR,KKR,TimSouthee,4.0,0,24,3,6.0,11,2,0,2,0
+T208514,Titans Vs KKR,KKR,ShivamMavi,4.0,0,36,1,9.0,6,2,1,3,0
+T208514,Titans Vs KKR,KKR,SunilNarine,4.0,0,31,0,7.75,7,1,2,0,0
+T208514,Titans Vs KKR,KKR,VarunChakravarthy,3.0,0,26,0,8.66,5,1,1,2,0
+T208514,Titans Vs KKR,KKR,AndreRussell,1.0,0,5,4,5.0,4,1,0,0,0
+T208514,Titans Vs KKR,Titans,MohammedShami,4.0,0,20,2,5.0,16,2,1,1,0
+T208514,Titans Vs KKR,Titans,YashDayal,4.0,0,42,2,10.5,10,3,3,2,1
+T208514,Titans Vs KKR,Titans,AlzarriJoseph,4.0,0,31,1,7.75,12,2,2,1,0
+T208514,Titans Vs KKR,Titans,LockieFerguson,4.0,0,33,1,8.25,13,2,3,1,0
+T208514,Titans Vs KKR,Titans,RashidKhan,4.0,0,22,2,5.5,11,2,0,0,0
+T206421,Royals Vs Capitals,Capitals,KhaleelAhmed,4.0,0,47,1,11.75,12,4,4,1,0
+T206421,Royals Vs Capitals,Capitals,ShardulThakur,3.0,1,29,0,9.66,8,2,2,2,0
+T206421,Royals Vs Capitals,Capitals,LalitYadav,4.0,0,41,0,10.25,7,3,3,0,0
+T206421,Royals Vs Capitals,Capitals,MustafizurRahman,4.0,0,43,1,10.75,6,6,1,0,0
+T206421,Royals Vs Capitals,Capitals,KuldeepYadav,3.0,0,40,0,13.33,3,3,3,1,0
+T206421,Royals Vs Capitals,Capitals,AxarPatel,2.0,0,21,0,10.5,5,3,1,0,0
+T206421,Royals Vs Capitals,Royals,TrentBoult,4.0,0,47,0,11.75,10,4,4,1,0
+T206421,Royals Vs Capitals,Royals,PrasidhKrishna,4.0,1,22,3,5.5,14,4,0,0,0
+T206421,Royals Vs Capitals,Royals,ObedMcCoy,3.0,0,52,1,17.33,5,5,4,2,1
+T206421,Royals Vs Capitals,Royals,RavichandranAshwin,4.0,0,32,2,8.0,4,3,0,1,0
+T206421,Royals Vs Capitals,Royals,YuzvendraChahal,4.0,0,28,1,7.0,8,0,2,1,0
+T206421,Royals Vs Capitals,Royals,RiyanParag,1.0,0,22,0,22.0,0,1,2,2,0
+T202326,Mumbai Vs Super Kings,Super Kings,MukeshChoudhary,3.0,0,19,3,6.33,12,3,0,1,0
+T202326,Mumbai Vs Super Kings,Super Kings,MitchellSantner,3.0,0,16,1,5.33,9,2,0,0,0
+T202326,Mumbai Vs Super Kings,Super Kings,MaheeshTheekshana,4.0,0,35,1,8.75,4,1,2,0,0
+T202326,Mumbai Vs Super Kings,Super Kings,RavindraJadeja,4.0,0,30,0,7.5,8,2,1,0,0
+T202326,Mumbai Vs Super Kings,Super Kings,DwainePretorius,2.0,0,17,0,8.5,4,0,1,0,0
+T202326,Mumbai Vs Super Kings,Super Kings,DwayneBravo,4.0,0,36,2,9.0,9,4,1,2,0
+T202326,Mumbai Vs Super Kings,Mumbai,DanielSams,4.0,0,30,4,7.5,12,2,2,1,0
+T202326,Mumbai Vs Super Kings,Mumbai,JaspritBumrah,4.0,0,29,0,7.25,9,2,1,2,0
+T202326,Mumbai Vs Super Kings,Mumbai,RileyMeredith,4.0,0,25,1,6.25,14,2,1,2,0
+T202326,Mumbai Vs Super Kings,Mumbai,JaydevUnadkat,4.0,0,48,2,12.0,5,4,3,1,0
+T202326,Mumbai Vs Super Kings,Mumbai,HrithikShokeen,4.0,0,23,0,5.75,11,1,1,1,0
+T203741,Punjab Kings Vs Capitals,Capitals,ShardulThakur,2.0,0,20,0,10.0,5,4,0,0,0
+T203741,Punjab Kings Vs Capitals,Capitals,KhaleelAhmed,4.0,0,21,2,5.25,13,2,0,1,0
+T203741,Punjab Kings Vs Capitals,Capitals,LalitYadav,2.0,0,11,2,5.5,8,2,0,0,0
+T203741,Punjab Kings Vs Capitals,Capitals,MustafizurRahman,4.0,0,28,1,7.0,14,4,1,0,0
+T203741,Punjab Kings Vs Capitals,Capitals,AxarPatel,4.0,0,10,2,2.5,14,0,0,0,0
+T203741,Punjab Kings Vs Capitals,Capitals,KuldeepYadav,4.0,0,24,2,6.0,9,3,0,0,0
+T203741,Punjab Kings Vs Capitals,Punjab Kings,VaibhavArora,2.0,0,31,0,15.5,2,5,1,0,0
+T203741,Punjab Kings Vs Capitals,Punjab Kings,KagisoRabada,3.0,0,35,0,11.66,5,5,1,1,0
+T203741,Punjab Kings Vs Capitals,Punjab Kings,ArshdeepSingh,1.0,0,17,0,17.0,1,3,0,3,0
+T203741,Punjab Kings Vs Capitals,Punjab Kings,NathanEllis,2.0,0,15,0,7.5,5,2,0,2,0
+T203741,Punjab Kings Vs Capitals,Punjab Kings,RahulChahar,2.3,0,21,1,8.4,4,3,0,0,0
+T204535,RCB Vs Super Giants,Super Giants,DushmanthaChameera,3.0,0,31,2,10.33,7,4,1,1,0
+T204535,RCB Vs Super Giants,Super Giants,AveshKhan,4.0,0,33,0,8.25,7,2,1,1,0
+T204535,RCB Vs Super Giants,Super Giants,KrunalPandya,4.0,0,29,1,7.25,6,2,1,0,0
+T204535,RCB Vs Super Giants,Super Giants,RaviBishnoi,4.0,0,47,0,11.75,5,4,2,1,1
+T204535,RCB Vs Super Giants,Super Giants,JasonHolder,4.0,0,25,2,6.25,8,2,0,2,0
+T204535,RCB Vs Super Giants,Super Giants,MarcusStoinis,1.0,0,14,0,14.0,0,2,0,1,0
+T204535,RCB Vs Super Giants,RCB,MohammedSiraj,4.0,0,31,1,7.75,12,6,0,1,0
+T204535,RCB Vs Super Giants,RCB,GlennMaxwell,2.0,0,11,1,5.5,6,1,0,1,0
+T204535,RCB Vs Super Giants,RCB,JoshHazlewood,4.0,0,25,4,6.25,10,1,1,2,0
+T204535,RCB Vs Super Giants,RCB,ShahbazAhmed,4.0,0,25,0,6.25,10,1,1,0,0
+T204535,RCB Vs Super Giants,RCB,HarshalPatel,4.0,0,47,2,11.75,7,4,2,3,0
+T204535,RCB Vs Super Giants,RCB,WaninduHasaranga,2.0,0,20,0,10.0,5,1,2,0,0
+T206892,Royals Vs KKR,KKR,UmeshYadav,4.0,0,44,0,11.0,11,3,3,0,1
+T206892,Royals Vs KKR,KKR,ShivamMavi,4.0,0,34,1,8.5,10,4,1,0,0
+T206892,Royals Vs KKR,KKR,VarunChakravarthy,2.0,0,30,0,15.0,1,1,2,1,0
+T206892,Royals Vs KKR,KKR,PatCummins,4.0,0,50,1,12.5,4,7,1,2,0
+T206892,Royals Vs KKR,KKR,SunilNarine,4.0,0,21,2,5.25,11,0,1,2,0
+T206892,Royals Vs KKR,KKR,AndreRussell,2.0,0,29,1,14.5,3,3,2,1,0
+T206892,Royals Vs KKR,Royals,TrentBoult,4.0,0,48,0,12.0,7,5,3,0,0
+T206892,Royals Vs KKR,Royals,PrasidhKrishna,4.0,0,43,1,10.75,5,6,0,5,0
+T206892,Royals Vs KKR,Royals,ObedMcCoy,3.4,0,41,2,11.18,6,2,2,4,0
+T206892,Royals Vs KKR,Royals,RavichandranAshwin,4.0,0,38,1,9.5,8,1,3,0,0
+T206892,Royals Vs KKR,Royals,YuzvendraChahal,4.0,0,40,5,10.0,7,4,1,4,0
+T206030,Super Kings Vs Titans,Titans,MohammedShami,4.0,0,20,1,5.0,13,2,0,2,0
+T206030,Super Kings Vs Titans,Titans,YashDayal,4.0,0,40,1,10.0,8,3,2,1,1
+T206030,Super Kings Vs Titans,Titans,AlzarriJoseph,4.0,0,34,2,8.5,10,1,3,1,0
+T206030,Super Kings Vs Titans,Titans,LockieFerguson,4.0,0,46,0,11.5,5,4,3,0,0
+T206030,Super Kings Vs Titans,Titans,RashidKhan,4.0,0,29,0,7.25,5,1,1,0,0
+T206030,Super Kings Vs Titans,Super Kings,MukeshChoudhary,3.0,0,18,1,6.0,10,3,0,1,0
+T206030,Super Kings Vs Titans,Super Kings,MaheeshTheekshana,4.0,0,24,2,6.0,8,1,1,0,0
+T206030,Super Kings Vs Titans,Super Kings,ChrisJordan,3.5,0,58,0,15.13,4,5,4,0,1
+T206030,Super Kings Vs Titans,Super Kings,RavindraJadeja,3.0,0,25,1,8.33,6,1,2,0,0
+T206030,Super Kings Vs Titans,Super Kings,MoeenAli,2.0,0,17,0,8.5,3,1,1,0,0
+T206030,Super Kings Vs Titans,Super Kings,DwayneBravo,4.0,1,23,3,5.75,12,1,1,0,0
+T208958,Punjab Kings Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,22,3,5.5,13,1,1,0,0
+T208958,Punjab Kings Vs Sunrisers,Sunrisers,MarcoJansen,4.0,0,35,0,8.75,11,5,1,1,0
+T208958,Punjab Kings Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,38,1,9.5,8,3,1,4,0
+T208958,Punjab Kings Vs Sunrisers,Sunrisers,JagadeeshaSuchith,4.0,0,28,1,7.0,10,1,2,1,0
+T208958,Punjab Kings Vs Sunrisers,Sunrisers,UmranMalik,4.0,1,28,4,7.0,15,3,2,0,0
+T208958,Punjab Kings Vs Sunrisers,Punjab Kings,VaibhavArora,3.5,0,35,0,9.13,9,5,1,0,0
+T208958,Punjab Kings Vs Sunrisers,Punjab Kings,KagisoRabada,4.0,0,29,1,7.25,9,3,0,0,0
+T208958,Punjab Kings Vs Sunrisers,Punjab Kings,ArshdeepSingh,4.0,0,32,0,8.0,7,3,0,2,0
+T208958,Punjab Kings Vs Sunrisers,Punjab Kings,RahulChahar,4.0,0,28,2,7.0,7,1,0,1,0
+T208958,Punjab Kings Vs Sunrisers,Punjab Kings,OdeanSmith,1.0,0,8,0,8.0,3,0,1,0,0
+T208958,Punjab Kings Vs Sunrisers,Punjab Kings,LiamLivingstone,2.0,0,19,0,9.5,3,0,2,0,0
+T205793,RCB Vs Capitals,Capitals,MustafizurRahman,4.0,0,48,0,12.0,8,7,2,1,0
+T205793,RCB Vs Capitals,Capitals,ShardulThakur,4.0,0,27,1,6.75,14,3,1,1,0
+T205793,RCB Vs Capitals,Capitals,KhaleelAhmed,4.0,0,36,1,9.0,9,3,2,0,0
+T205793,RCB Vs Capitals,Capitals,AxarPatel,4.0,0,29,1,7.25,7,3,0,1,0
+T205793,RCB Vs Capitals,Capitals,KuldeepYadav,4.0,0,46,1,11.5,7,3,3,3,0
+T205793,RCB Vs Capitals,RCB,GlennMaxwell,2.0,0,14,0,7.0,4,0,1,0,0
+T205793,RCB Vs Capitals,RCB,MohammedSiraj,4.0,0,31,2,7.75,10,1,2,0,0
+T205793,RCB Vs Capitals,RCB,JoshHazlewood,4.0,0,28,3,7.0,12,3,1,1,0
+T205793,RCB Vs Capitals,RCB,ShahbazAhmed,2.0,0,19,0,9.5,3,1,1,2,0
+T205793,RCB Vs Capitals,RCB,HarshalPatel,4.0,0,40,0,10.0,5,3,2,1,0
+T205793,RCB Vs Capitals,RCB,WaninduHasaranga,4.0,0,40,1,10.0,9,3,3,0,0
+T204555,Super Giants Vs Mumbai,Mumbai,TilakVarma,1.0,0,7,0,7.0,2,1,0,0,0
+T204555,Super Giants Vs Mumbai,Mumbai,JaydevUnadkat,4.0,0,32,2,8.0,8,3,1,1,0
+T204555,Super Giants Vs Mumbai,Mumbai,MuruganAshwin,4.0,0,33,1,8.25,8,2,2,0,0
+T204555,Super Giants Vs Mumbai,Mumbai,JaspritBumrah,4.0,0,24,0,6.0,9,1,0,2,0
+T204555,Super Giants Vs Mumbai,Mumbai,TymalMills,3.0,0,54,0,18.0,3,9,2,1,0
+T204555,Super Giants Vs Mumbai,Mumbai,FabianAllen,4.0,0,46,1,11.5,6,4,3,0,0
+T204555,Super Giants Vs Mumbai,Super Giants,JasonHolder,4.0,0,34,1,8.5,7,2,1,2,0
+T204555,Super Giants Vs Mumbai,Super Giants,DushmanthaChameera,4.0,0,48,1,12.0,11,3,4,1,0
+T204555,Super Giants Vs Mumbai,Super Giants,AveshKhan,4.0,0,30,3,7.5,14,6,0,1,0
+T204555,Super Giants Vs Mumbai,Super Giants,RaviBishnoi,4.0,0,34,1,8.5,4,4,0,1,0
+T204555,Super Giants Vs Mumbai,Super Giants,MarcusStoinis,2.0,0,13,1,6.5,4,1,0,0,0
+T204555,Super Giants Vs Mumbai,Super Giants,KrunalPandya,2.0,0,16,0,8.0,2,2,0,0,0
+T208105,KKR Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,37,1,9.25,13,4,2,1,0
+T208105,KKR Vs Sunrisers,Sunrisers,MarcoJansen,4.0,0,26,1,6.5,12,2,1,1,0
+T208105,KKR Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,37,3,9.25,11,4,2,0,0
+T208105,KKR Vs Sunrisers,Sunrisers,UmranMalik,4.0,0,27,2,6.75,15,1,2,0,0
+T208105,KKR Vs Sunrisers,Sunrisers,ShashankSingh,1.0,0,10,0,10.0,1,1,0,1,0
+T208105,KKR Vs Sunrisers,Sunrisers,JagadeeshaSuchith,3.0,0,32,1,10.66,6,3,2,0,0
+T208105,KKR Vs Sunrisers,KKR,UmeshYadav,4.0,0,31,0,7.75,10,5,0,1,0
+T208105,KKR Vs Sunrisers,KKR,PatCummins,3.5,0,40,1,10.43,8,3,2,2,0
+T208105,KKR Vs Sunrisers,KKR,AndreRussell,2.0,0,20,2,10.0,6,1,2,1,0
+T208105,KKR Vs Sunrisers,KKR,AmanHakimKhan,1.0,0,13,0,13.0,1,1,1,0,0
+T208105,KKR Vs Sunrisers,KKR,VarunChakravarthy,3.0,0,45,0,15.0,2,3,4,0,0
+T208105,KKR Vs Sunrisers,KKR,SunilNarine,4.0,0,23,0,5.75,8,0,1,0,0
+T207043,Titans Vs Royals,Royals,JamesNeesham,3.0,0,29,0,9.66,5,5,0,0,0
+T207043,Titans Vs Royals,Royals,PrasidhKrishna,4.0,0,35,0,8.75,11,5,1,1,1
+T207043,Titans Vs Royals,Royals,KuldeepSen,4.0,0,51,1,12.75,6,9,1,0,0
+T207043,Titans Vs Royals,Royals,YuzvendraChahal,4.0,0,32,1,8.0,6,1,2,1,0
+T207043,Titans Vs Royals,Royals,RiyanParag,1.0,0,12,1,12.0,2,1,1,0,0
+T207043,Titans Vs Royals,Royals,RavichandranAshwin,4.0,0,33,0,8.25,9,1,2,1,0
+T207043,Titans Vs Royals,Titans,MohammedShami,4.0,0,39,1,9.75,6,4,1,0,0
+T207043,Titans Vs Royals,Titans,YashDayal,4.0,0,40,3,10.0,13,6,2,0,0
+T207043,Titans Vs Royals,Titans,RashidKhan,4.0,0,24,0,6.0,11,1,1,0,0
+T207043,Titans Vs Royals,Titans,LockieFerguson,4.0,0,23,3,5.75,12,0,2,0,0
+T207043,Titans Vs Royals,Titans,RahulTewatia,1.0,0,9,0,9.0,2,0,1,0,0
+T207043,Titans Vs Royals,Titans,HardikPandya,2.3,0,18,1,7.2,4,1,0,2,0
+T207043,Titans Vs Royals,Titans,VijayShankar,0.3,0,1,0,2.0,2,0,0,0,0
+T208002,Punjab Kings Vs Mumbai,Mumbai,BasilThampi,4.0,0,47,2,11.75,7,3,3,2,0
+T208002,Punjab Kings Vs Mumbai,Mumbai,JaydevUnadkat,4.0,0,44,1,11.0,8,3,3,1,0
+T208002,Punjab Kings Vs Mumbai,Mumbai,JaspritBumrah,4.0,0,28,1,7.0,6,2,0,2,0
+T208002,Punjab Kings Vs Mumbai,Mumbai,MuruganAshwin,4.0,0,34,1,8.5,7,2,2,0,0
+T208002,Punjab Kings Vs Mumbai,Mumbai,TymalMills,4.0,0,37,0,9.25,6,4,1,2,0
+T208002,Punjab Kings Vs Mumbai,Punjab Kings,VaibhavArora,4.0,0,43,1,10.75,9,2,4,2,0
+T208002,Punjab Kings Vs Mumbai,Punjab Kings,KagisoRabada,4.0,0,29,2,7.25,15,3,2,0,0
+T208002,Punjab Kings Vs Mumbai,Punjab Kings,ArshdeepSingh,4.0,0,29,0,7.25,11,2,1,0,1
+T208002,Punjab Kings Vs Mumbai,Punjab Kings,OdeanSmith,3.0,0,30,4,10.0,9,1,3,2,0
+T208002,Punjab Kings Vs Mumbai,Punjab Kings,LiamLivingstone,1.0,0,11,0,11.0,1,2,0,0,0
+T208002,Punjab Kings Vs Mumbai,Punjab Kings,RahulChahar,4.0,0,44,0,11.0,6,2,4,0,0
+T203601,Super Kings Vs RCB,RCB,MohammedSiraj,4.0,0,37,0,9.25,11,4,2,0,1
+T203601,Super Kings Vs RCB,RCB,JoshHazlewood,4.0,0,33,1,8.25,12,1,3,1,0
+T203601,Super Kings Vs RCB,RCB,AkashDeep,4.0,0,58,0,14.5,6,5,4,4,0
+T203601,Super Kings Vs RCB,RCB,GlennMaxwell,3.0,0,29,0,9.66,9,0,4,0,0
+T203601,Super Kings Vs RCB,RCB,ShahbazAhmed,2.0,0,18,0,9.0,1,0,1,0,0
+T203601,Super Kings Vs RCB,RCB,WaninduHasaranga,3.0,0,35,2,11.66,6,2,3,1,0
+T203601,Super Kings Vs RCB,Super Kings,MoeenAli,3.0,0,19,0,6.33,8,3,0,0,0
+T203601,Super Kings Vs RCB,Super Kings,MukeshChoudhary,3.0,0,40,1,13.33,4,2,2,2,0
+T203601,Super Kings Vs RCB,Super Kings,MaheeshTheekshana,4.0,0,33,4,8.25,10,1,3,0,0
+T203601,Super Kings Vs RCB,Super Kings,RavindraJadeja,4.0,0,39,3,9.75,10,4,2,0,0
+T203601,Super Kings Vs RCB,Super Kings,ChrisJordan,2.0,0,20,0,10.0,2,3,0,0,0
+T203601,Super Kings Vs RCB,Super Kings,DwayneBravo,4.0,0,42,1,10.5,6,4,0,6,1
+T208211,Titans Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,37,2,9.25,10,3,0,4,0
+T208211,Titans Vs Sunrisers,Sunrisers,MarcoJansen,4.0,0,27,1,6.75,8,3,0,2,0
+T208211,Titans Vs Sunrisers,Sunrisers,WashingtonSundar,3.0,0,14,0,4.66,7,1,0,0,0
+T208211,Titans Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,34,2,8.5,8,4,1,1,0
+T208211,Titans Vs Sunrisers,Sunrisers,UmranMalik,4.0,0,39,1,9.75,8,5,0,1,0
+T208211,Titans Vs Sunrisers,Sunrisers,AidenMarkram,1.0,0,9,0,9.0,2,0,1,0,0
+T208211,Titans Vs Sunrisers,Titans,MohammedShami,4.0,0,32,0,8.0,8,3,1,0,0
+T208211,Titans Vs Sunrisers,Titans,HardikPandya,4.0,0,27,1,6.75,10,0,2,0,0
+T208211,Titans Vs Sunrisers,Titans,LockieFerguson,4.0,0,46,0,11.5,9,6,2,2,0
+T208211,Titans Vs Sunrisers,Titans,RashidKhan,4.0,0,28,1,7.0,6,2,0,0,0
+T208211,Titans Vs Sunrisers,Titans,DarshanNalkande,2.1,0,22,0,10.15,4,1,1,1,0
+T208211,Titans Vs Sunrisers,Titans,RahulTewatia,1.0,0,10,0,10.0,1,0,1,0,0
+T207999,Royals Vs Super Giants,Super Giants,DushmanthaChameera,4.0,0,22,0,5.5,14,2,0,2,0
+T207999,Royals Vs Super Giants,Super Giants,JasonHolder,4.0,0,50,2,12.5,9,3,5,0,0
+T207999,Royals Vs Super Giants,Super Giants,RaviBishnoi,4.0,0,29,0,7.25,7,3,0,3,0
+T207999,Royals Vs Super Giants,Super Giants,AveshKhan,4.0,0,31,1,7.75,9,1,2,1,0
+T207999,Royals Vs Super Giants,Super Giants,KrishnappaGowtham,4.0,0,30,2,7.5,11,0,3,0,0
+T207999,Royals Vs Super Giants,Royals,TrentBoult,4.0,0,30,2,7.5,12,4,0,1,0
+T207999,Royals Vs Super Giants,Royals,PrasidhKrishna,4.0,0,35,1,8.75,13,4,2,1,0
+T207999,Royals Vs Super Giants,Royals,RavichandranAshwin,4.0,0,20,0,5.0,5,0,0,0,0
+T207999,Royals Vs Super Giants,Royals,KuldeepSen,4.0,0,35,1,8.75,8,2,2,0,0
+T207999,Royals Vs Super Giants,Royals,YuzvendraChahal,4.0,0,41,4,10.25,7,3,2,2,0
+T208705,Capitals Vs KKR,KKR,UmeshYadav,4.0,0,48,1,12.0,8,5,3,0,1
+T208705,Capitals Vs KKR,KKR,RasikhSalam,1.0,0,10,0,10.0,2,2,0,0,0
+T208705,Capitals Vs KKR,KKR,PatCummins,4.0,0,51,0,12.75,5,4,3,2,0
+T208705,Capitals Vs KKR,KKR,VarunChakravarthy,4.0,0,44,1,11.0,8,3,3,0,2
+T208705,Capitals Vs KKR,KKR,SunilNarine,4.0,0,21,2,5.25,12,3,0,0,0
+T208705,Capitals Vs KKR,KKR,AndreRussell,2.0,0,16,1,8.0,3,0,1,0,0
+T208705,Capitals Vs KKR,KKR,VenkateshIyer,1.0,0,14,0,14.0,0,1,1,0,0
+T208705,Capitals Vs KKR,Capitals,MustafizurRahman,4.0,0,21,0,5.25,13,2,0,0,0
+T208705,Capitals Vs KKR,Capitals,ShardulThakur,2.4,0,30,2,11.25,5,3,2,0,0
+T208705,Capitals Vs KKR,Capitals,KhaleelAhmed,4.0,0,25,3,6.25,13,4,0,0,0
+T208705,Capitals Vs KKR,Capitals,AxarPatel,3.0,0,32,0,10.66,4,2,2,0,0
+T208705,Capitals Vs KKR,Capitals,KuldeepYadav,4.0,0,35,4,8.75,8,2,2,2,0
+T208705,Capitals Vs KKR,Capitals,RovmanPowell,1.0,0,17,0,17.0,0,1,1,1,0
+T208705,Capitals Vs KKR,Capitals,LalitYadav,1.0,0,8,1,8.0,3,0,1,0,0
+T204746,Mumbai Vs RCB,RCB,DavidWilley,2.0,0,8,0,4.0,8,1,0,0,0
+T204746,Mumbai Vs RCB,RCB,MohammedSiraj,4.0,0,51,0,12.75,10,3,4,1,1
+T204746,Mumbai Vs RCB,RCB,WaninduHasaranga,4.0,0,28,2,7.0,10,3,1,0,0
+T204746,Mumbai Vs RCB,RCB,AkashDeep,4.0,1,20,1,5.0,14,3,0,0,0
+T204746,Mumbai Vs RCB,RCB,HarshalPatel,4.0,0,23,2,5.75,14,2,1,0,0
+T204746,Mumbai Vs RCB,RCB,ShahbazAhmed,2.0,0,19,0,9.5,4,2,1,0,0
+T204746,Mumbai Vs RCB,Mumbai,BasilThampi,4.0,1,29,0,7.25,11,3,1,1,0
+T204746,Mumbai Vs RCB,Mumbai,JaydevUnadkat,4.0,0,30,1,7.5,10,0,3,0,0
+T204746,Mumbai Vs RCB,Mumbai,JaspritBumrah,4.0,0,31,0,7.75,8,1,1,0,0
+T204746,Mumbai Vs RCB,Mumbai,MuruganAshwin,3.0,0,26,0,8.66,8,3,1,1,0
+T204746,Mumbai Vs RCB,Mumbai,KieronPollard,3.0,0,24,0,8.0,3,1,1,1,0
+T204746,Mumbai Vs RCB,Mumbai,DewaldBrevis,0.3,0,8,1,16.0,1,2,0,0,0
+T209199,Super Kings Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,36,1,9.0,9,3,0,4,0
+T209199,Super Kings Vs Sunrisers,Sunrisers,MarcoJansen,4.0,0,30,1,7.5,11,4,0,0,0
+T209199,Super Kings Vs Sunrisers,Sunrisers,WashingtonSundar,4.0,0,21,2,5.25,7,1,0,0,0
+T209199,Super Kings Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,30,2,7.5,6,2,1,1,0
+T209199,Super Kings Vs Sunrisers,Sunrisers,UmranMalik,3.0,0,29,0,9.66,8,4,1,0,0
+T209199,Super Kings Vs Sunrisers,Sunrisers,AidenMarkram,1.0,0,8,1,8.0,3,0,1,0,0
+T209199,Super Kings Vs Sunrisers,Super Kings,MukeshChoudhary,4.0,0,30,1,7.5,11,2,2,0,0
+T209199,Super Kings Vs Sunrisers,Super Kings,MaheeshTheekshana,4.0,0,31,0,7.75,8,3,1,0,0
+T209199,Super Kings Vs Sunrisers,Super Kings,ChrisJordan,3.0,0,34,0,11.33,5,3,2,0,1
+T209199,Super Kings Vs Sunrisers,Super Kings,RavindraJadeja,3.0,0,21,0,7.0,4,1,0,0,0
+T209199,Super Kings Vs Sunrisers,Super Kings,MoeenAli,1.0,0,10,0,10.0,1,0,1,0,0
+T209199,Super Kings Vs Sunrisers,Super Kings,DwayneBravo,2.4,0,29,1,10.87,4,4,0,3,0
+T202634,Punjab Kings Vs Titans,Titans,MohammedShami,4.0,0,36,1,9.0,11,4,2,0,0
+T202634,Punjab Kings Vs Titans,Titans,HardikPandya,4.0,0,36,1,9.0,10,4,1,1,0
+T202634,Punjab Kings Vs Titans,Titans,LockieFerguson,4.0,0,33,1,8.25,10,5,0,1,0
+T202634,Punjab Kings Vs Titans,Titans,RashidKhan,4.0,0,22,3,5.5,10,0,1,0,0
+T202634,Punjab Kings Vs Titans,Titans,DarshanNalkande,3.0,0,37,2,12.33,4,4,2,1,0
+T202634,Punjab Kings Vs Titans,Titans,RahulTewatia,1.0,0,24,0,24.0,0,1,3,0,0
+T202634,Punjab Kings Vs Titans,Punjab Kings,VaibhavArora,4.0,0,34,0,8.5,5,5,0,0,0
+T202634,Punjab Kings Vs Titans,Punjab Kings,ArshdeepSingh,4.0,0,31,0,7.75,10,5,0,1,0
+T202634,Punjab Kings Vs Titans,Punjab Kings,KagisoRabada,4.0,0,35,2,8.75,7,5,0,0,1
+T202634,Punjab Kings Vs Titans,Punjab Kings,RahulChahar,4.0,0,41,1,10.25,6,3,1,1,0
+T202634,Punjab Kings Vs Titans,Punjab Kings,OdeanSmith,3.0,0,35,0,11.66,5,2,3,1,0
+T202634,Punjab Kings Vs Titans,Punjab Kings,LiamLivingstone,1.0,0,12,0,12.0,1,2,0,0,0
+T204296,Capitals Vs Super Giants,Super Giants,JasonHolder,4.0,0,30,0,7.5,8,1,1,3,0
+T204296,Capitals Vs Super Giants,Super Giants,KrishnappaGowtham,4.0,1,23,1,5.75,15,3,1,0,0
+T204296,Capitals Vs Super Giants,Super Giants,AveshKhan,3.0,0,32,0,10.66,5,6,0,0,0
+T204296,Capitals Vs Super Giants,Super Giants,RaviBishnoi,4.0,0,22,2,5.5,12,3,0,0,0
+T204296,Capitals Vs Super Giants,Super Giants,AndrewTye,3.0,0,28,0,9.33,8,2,2,1,0
+T204296,Capitals Vs Super Giants,Super Giants,KrunalPandya,2.0,0,12,0,6.0,2,0,0,0,0
+T204296,Capitals Vs Super Giants,Capitals,MustafizurRahman,4.0,0,26,0,6.5,8,0,1,2,0
+T204296,Capitals Vs Super Giants,Capitals,LalitYadav,4.0,0,21,1,5.25,10,1,0,0,0
+T204296,Capitals Vs Super Giants,Capitals,ShardulThakur,3.4,0,29,1,7.9,9,3,1,0,0
+T204296,Capitals Vs Super Giants,Capitals,AnrichNortje,2.2,0,35,0,15.0,2,3,2,0,2
+T204296,Capitals Vs Super Giants,Capitals,AxarPatel,2.0,0,11,0,5.5,5,1,0,0,0
+T204296,Capitals Vs Super Giants,Capitals,KuldeepYadav,3.4,0,31,2,8.45,6,3,1,0,0
+T207856,Mumbai Vs KKR,KKR,UmeshYadav,4.0,0,25,1,6.25,12,2,1,0,0
+T207856,Mumbai Vs KKR,KKR,RasikhSalam,3.0,0,18,0,6.0,6,2,0,0,0
+T207856,Mumbai Vs KKR,KKR,PatCummins,4.0,0,49,2,12.25,9,2,5,1,0
+T207856,Mumbai Vs KKR,KKR,SunilNarine,4.0,0,26,0,6.5,8,1,1,0,0
+T207856,Mumbai Vs KKR,KKR,VarunChakravarthy,4.0,0,32,1,8.0,8,2,2,0,0
+T207856,Mumbai Vs KKR,KKR,AndreRussell,1.0,0,9,0,9.0,3,2,0,0,0
+T207856,Mumbai Vs KKR,Mumbai,BasilThampi,3.0,0,15,0,5.0,11,1,1,0,0
+T207856,Mumbai Vs KKR,Mumbai,DanielSams,3.0,0,50,1,16.66,4,4,4,0,1
+T207856,Mumbai Vs KKR,Mumbai,JaspritBumrah,3.0,0,26,0,8.66,7,3,1,0,0
+T207856,Mumbai Vs KKR,Mumbai,TymalMills,3.0,0,38,2,12.66,5,4,2,0,0
+T207856,Mumbai Vs KKR,Mumbai,TilakVarma,1.0,0,6,0,6.0,3,1,0,0,0
+T207856,Mumbai Vs KKR,Mumbai,MuruganAshwin,3.0,0,25,2,8.33,8,0,3,0,0
+T203456,Royals Vs RCB,RCB,MohammedSiraj,4.0,0,43,0,10.75,8,1,4,2,0
+T203456,Royals Vs RCB,RCB,DavidWilley,4.0,0,29,1,7.25,8,2,1,0,0
+T203456,Royals Vs RCB,RCB,AkashDeep,4.0,0,44,0,11.0,6,0,4,0,1
+T203456,Royals Vs RCB,RCB,WaninduHasaranga,4.0,0,32,1,8.0,10,2,2,0,0
+T203456,Royals Vs RCB,RCB,HarshalPatel,4.0,0,18,1,4.5,11,1,0,2,0
+T203456,Royals Vs RCB,Royals,TrentBoult,4.0,0,34,2,8.5,9,4,1,0,0
+T203456,Royals Vs RCB,Royals,PrasidhKrishna,4.0,0,40,0,10.0,9,6,1,2,0
+T203456,Royals Vs RCB,Royals,RavichandranAshwin,4.0,0,39,0,9.75,10,5,1,3,1
+T203456,Royals Vs RCB,Royals,YuzvendraChahal,4.0,0,15,2,3.75,12,1,0,0,0
+T203456,Royals Vs RCB,Royals,NavdeepSaini,3.0,0,36,1,12.0,2,4,1,1,0
+T203456,Royals Vs RCB,Royals,YashasviJaiswal,0.1,0,6,0,36.0,0,0,1,0,0
+T204825,Super Giants Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,25,0,6.25,7,1,0,0,0
+T204825,Super Giants Vs Sunrisers,Sunrisers,WashingtonSundar,4.0,0,28,2,7.0,10,3,1,0,0
+T204825,Super Giants Vs Sunrisers,Sunrisers,RomarioShepherd,4.0,0,42,2,10.5,10,3,3,1,0
+T204825,Super Giants Vs Sunrisers,Sunrisers,UmranMalik,3.0,0,39,0,13.0,4,5,2,0,0
+T204825,Super Giants Vs Sunrisers,Sunrisers,AbdulSamad,1.0,0,8,0,8.0,1,1,0,0,0
+T204825,Super Giants Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,26,2,6.5,6,1,0,0,0
+T204825,Super Giants Vs Sunrisers,Super Giants,JasonHolder,4.0,0,34,3,8.5,8,3,1,2,0
+T204825,Super Giants Vs Sunrisers,Super Giants,KrunalPandya,4.0,0,27,2,6.75,8,0,2,0,0
+T204825,Super Giants Vs Sunrisers,Super Giants,AveshKhan,4.0,0,24,4,6.0,15,2,1,1,0
+T204825,Super Giants Vs Sunrisers,Super Giants,AndrewTye,4.0,0,39,0,9.75,6,5,1,1,0
+T204825,Super Giants Vs Sunrisers,Super Giants,RaviBishnoi,4.0,0,29,0,7.25,5,2,0,1,1
+T206118,Punjab Kings Vs Super Kings,Super Kings,MukeshChoudhary,4.0,0,52,1,13.0,11,5,4,3,0
+T206118,Punjab Kings Vs Super Kings,Super Kings,ChrisJordan,4.0,0,23,2,5.75,12,0,1,1,0
+T206118,Punjab Kings Vs Super Kings,Super Kings,DwayneBravo,3.0,0,32,1,10.66,8,3,2,2,0
+T206118,Punjab Kings Vs Super Kings,Super Kings,RavindraJadeja,4.0,0,34,1,8.5,10,2,2,3,0
+T206118,Punjab Kings Vs Super Kings,Super Kings,DwainePretorius,4.0,0,30,2,7.5,11,2,1,4,0
+T206118,Punjab Kings Vs Super Kings,Super Kings,MoeenAli,1.0,0,8,0,8.0,3,0,1,0,0
+T206118,Punjab Kings Vs Super Kings,Punjab Kings,VaibhavArora,4.0,0,21,2,5.25,14,3,0,1,0
+T206118,Punjab Kings Vs Super Kings,Punjab Kings,KagisoRabada,3.0,0,28,1,9.33,11,2,2,0,2
+T206118,Punjab Kings Vs Super Kings,Punjab Kings,ArshdeepSingh,2.0,0,13,1,6.5,5,2,0,0,0
+T206118,Punjab Kings Vs Super Kings,Punjab Kings,OdeanSmith,2.0,0,14,1,7.0,6,1,1,0,0
+T206118,Punjab Kings Vs Super Kings,Punjab Kings,RahulChahar,4.0,0,25,3,6.25,9,1,1,0,0
+T206118,Punjab Kings Vs Super Kings,Punjab Kings,LiamLivingstone,3.0,0,25,2,8.33,7,2,1,1,0
+T205181,Titans Vs Capitals,Capitals,MustafizurRahman,4.0,0,23,3,5.75,7,1,0,1,0
+T205181,Titans Vs Capitals,Capitals,ShardulThakur,4.0,0,42,0,10.5,6,4,1,2,1
+T205181,Titans Vs Capitals,Capitals,KhaleelAhmed,4.0,0,34,2,8.5,7,5,0,0,0
+T205181,Titans Vs Capitals,Capitals,AxarPatel,4.0,0,37,0,9.25,7,1,3,0,0
+T205181,Titans Vs Capitals,Capitals,KuldeepYadav,4.0,0,32,1,8.0,10,3,1,0,0
+T205181,Titans Vs Capitals,Titans,MohammedShami,4.0,0,30,2,7.5,10,5,0,0,0
+T205181,Titans Vs Capitals,Titans,HardikPandya,4.0,0,22,1,5.5,11,2,0,0,0
+T205181,Titans Vs Capitals,Titans,LockieFerguson,4.0,0,28,4,7.0,12,5,0,1,0
+T205181,Titans Vs Capitals,Titans,RashidKhan,4.0,0,30,1,7.5,9,1,1,1,0
+T205181,Titans Vs Capitals,Titans,VarunAaron,1.0,0,7,0,7.0,2,1,0,0,0
+T205181,Titans Vs Capitals,Titans,VijayShankar,1.0,0,14,0,14.0,2,3,0,1,0
+T205181,Titans Vs Capitals,Titans,RahulTewatia,2.0,0,22,0,11.0,3,1,2,0,0
+T209847,Royals Vs Mumbai,Mumbai,JaspritBumrah,4.0,0,17,3,4.25,16,3,0,0,0
+T209847,Royals Vs Mumbai,Mumbai,DanielSams,4.0,0,32,0,8.0,10,2,2,2,0
+T209847,Royals Vs Mumbai,Mumbai,BasilThampi,1.0,0,26,0,26.0,1,2,3,0,0
+T209847,Royals Vs Mumbai,Mumbai,MuruganAshwin,3.0,0,32,0,10.66,6,2,2,3,0
+T209847,Royals Vs Mumbai,Mumbai,TymalMills,4.0,0,35,3,8.75,10,3,2,0,0
+T209847,Royals Vs Mumbai,Mumbai,KieronPollard,4.0,0,46,1,11.5,5,5,2,1,0
+T209847,Royals Vs Mumbai,Royals,TrentBoult,4.0,0,29,1,7.25,11,3,1,1,0
+T209847,Royals Vs Mumbai,Royals,PrasidhKrishna,4.0,0,37,1,9.25,13,4,1,5,1
+T209847,Royals Vs Mumbai,Royals,NavdeepSaini,3.0,0,36,2,12.0,8,4,2,1,1
+T209847,Royals Vs Mumbai,Royals,RavichandranAshwin,4.0,0,30,1,7.5,6,0,2,0,0
+T209847,Royals Vs Mumbai,Royals,YuzvendraChahal,4.0,0,26,2,6.5,11,2,1,1,0
+T209847,Royals Vs Mumbai,Royals,RiyanParag,1.0,0,11,0,11.0,1,0,1,0,0
+T203227,Punjab Kings Vs KKR,KKR,UmeshYadav,4.0,1,23,4,5.75,13,2,1,0,1
+T203227,Punjab Kings Vs KKR,KKR,TimSouthee,4.0,0,36,2,9.0,14,5,2,0,1
+T203227,Punjab Kings Vs KKR,KKR,ShivamMavi,2.0,0,39,1,19.5,4,3,4,2,0
+T203227,Punjab Kings Vs KKR,KKR,VarunChakravarthy,4.0,0,14,0,3.5,14,0,0,2,0
+T203227,Punjab Kings Vs KKR,KKR,SunilNarine,4.0,0,23,1,5.75,13,1,1,2,0
+T203227,Punjab Kings Vs KKR,KKR,AndreRussell,0.2,0,0,1,0.0,2,0,0,0,0
+T203227,Punjab Kings Vs KKR,Punjab Kings,ArshdeepSingh,3.0,0,32,0,10.66,9,5,1,0,1
+T203227,Punjab Kings Vs KKR,Punjab Kings,KagisoRabada,3.0,0,23,1,7.66,8,3,0,1,0
+T203227,Punjab Kings Vs KKR,Punjab Kings,OdeanSmith,2.0,0,39,1,19.5,4,3,4,0,1
+T203227,Punjab Kings Vs KKR,Punjab Kings,RahulChahar,4.0,1,13,2,3.25,13,0,0,1,0
+T203227,Punjab Kings Vs KKR,Punjab Kings,HarpreetBrar,2.0,0,20,0,10.0,4,0,2,1,0
+T203227,Punjab Kings Vs KKR,Punjab Kings,LiamLivingstone,0.3,0,13,0,26.0,0,0,2,0,0
+T207058,Super Kings Vs Super Giants,Super Giants,AveshKhan,4.0,0,38,2,9.5,12,5,2,0,0
+T207058,Super Kings Vs Super Giants,Super Giants,DushmanthaChameera,4.0,0,49,0,12.25,6,6,2,1,0
+T207058,Super Kings Vs Super Giants,Super Giants,AndrewTye,4.0,0,40,2,10.0,10,6,1,1,0
+T207058,Super Kings Vs Super Giants,Super Giants,KrunalPandya,3.0,0,36,0,12.0,3,3,2,1,0
+T207058,Super Kings Vs Super Giants,Super Giants,RaviBishnoi,4.0,0,24,2,6.0,11,3,0,0,0
+T207058,Super Kings Vs Super Giants,Super Giants,DeepakHooda,1.0,0,12,0,12.0,2,1,1,0,0
+T207058,Super Kings Vs Super Giants,Super Kings,MukeshChoudhary,3.3,0,39,0,11.14,8,4,2,3,0
+T207058,Super Kings Vs Super Giants,Super Kings,TusharDeshpande,4.0,0,40,1,10.0,9,6,1,1,0
+T207058,Super Kings Vs Super Giants,Super Kings,DwayneBravo,4.0,0,35,1,8.75,6,2,1,3,0
+T207058,Super Kings Vs Super Giants,Super Kings,RavindraJadeja,2.0,0,21,0,10.5,3,2,1,0,0
+T207058,Super Kings Vs Super Giants,Super Kings,MoeenAli,1.0,0,14,0,14.0,1,1,1,0,0
+T207058,Super Kings Vs Super Giants,Super Kings,DwainePretorius,4.0,0,31,2,7.75,9,1,1,3,0
+T207058,Super Kings Vs Super Giants,Super Kings,ShivamDube,1.0,0,25,0,25.0,0,2,2,2,0
+T203578,KKR Vs RCB,RCB,DavidWilley,2.0,0,7,0,3.5,6,0,0,0,0
+T203578,KKR Vs RCB,RCB,MohammedSiraj,4.0,0,25,1,6.25,13,4,0,0,0
+T203578,KKR Vs RCB,RCB,AkashDeep,3.5,0,45,3,11.73,10,5,3,0,1
+T203578,KKR Vs RCB,RCB,WaninduHasaranga,4.0,0,20,4,5.0,15,0,2,0,0
+T203578,KKR Vs RCB,RCB,HarshalPatel,4.0,2,11,2,2.75,19,2,0,0,0
+T203578,KKR Vs RCB,RCB,ShahbazAhmed,1.0,0,16,0,16.0,2,0,2,1,0
+T203578,KKR Vs RCB,KKR,UmeshYadav,4.0,0,16,2,4.0,14,2,0,0,0
+T203578,KKR Vs RCB,KKR,TimSouthee,4.0,0,20,3,5.0,16,2,0,2,0
+T203578,KKR Vs RCB,KKR,AndreRussell,2.2,0,36,0,15.42,6,2,3,1,1
+T203578,KKR Vs RCB,KKR,SunilNarine,4.0,0,12,1,3.0,13,0,0,0,0
+T203578,KKR Vs RCB,KKR,VarunChakravarthy,4.0,0,33,1,8.25,11,3,2,1,0
+T203578,KKR Vs RCB,KKR,VenkateshIyer,1.0,0,10,0,10.0,2,2,0,0,0
+T205314,Royals Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,29,1,7.25,14,2,2,1,2
+T205314,Royals Vs Sunrisers,Sunrisers,RomarioShepherd,4.0,0,33,1,8.25,12,3,2,1,0
+T205314,Royals Vs Sunrisers,Sunrisers,UmranMalik,4.0,0,39,2,9.75,12,4,2,2,1
+T205314,Royals Vs Sunrisers,Sunrisers,WashingtonSundar,3.0,0,47,0,15.66,3,1,5,0,1
+T205314,Royals Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,43,2,10.75,8,5,2,2,0
+T205314,Royals Vs Sunrisers,Sunrisers,AbhishekSharma,1.0,0,15,0,15.0,1,1,1,0,0
+T205314,Royals Vs Sunrisers,Royals,TrentBoult,4.0,1,23,2,5.75,16,2,1,3,0
+T205314,Royals Vs Sunrisers,Royals,PrasidhKrishna,4.0,1,16,2,4.0,16,1,1,0,0
+T205314,Royals Vs Sunrisers,Royals,NathanCoulter-Nile,3.0,0,48,0,16.0,4,5,3,1,1
+T205314,Royals Vs Sunrisers,Royals,RavichandranAshwin,4.0,0,21,0,5.25,8,1,0,0,0
+T205314,Royals Vs Sunrisers,Royals,YuzvendraChahal,4.0,0,22,3,5.5,8,1,0,0,0
+T205314,Royals Vs Sunrisers,Royals,RiyanParag,1.0,0,14,0,14.0,0,1,1,0,0
+T202349,Super Giants Vs Titans,Titans,MohammedShami,4.0,0,25,3,6.25,13,4,0,0,0
+T202349,Super Giants Vs Titans,Titans,VarunAaron,4.0,0,45,2,11.25,5,6,1,3,0
+T202349,Super Giants Vs Titans,Titans,LockieFerguson,4.0,0,24,0,6.0,11,1,1,1,0
+T202349,Super Giants Vs Titans,Titans,HardikPandya,4.0,0,37,0,9.25,10,6,1,0,0
+T202349,Super Giants Vs Titans,Titans,RashidKhan,4.0,0,27,1,6.75,8,0,2,0,0
+T202349,Super Giants Vs Titans,Super Giants,DushmanthaChameera,3.0,0,22,2,7.33,11,4,0,1,0
+T202349,Super Giants Vs Titans,Super Giants,AveshKhan,3.4,0,33,1,9.0,10,5,1,0,0
+T202349,Super Giants Vs Titans,Super Giants,MohsinKhan,2.0,0,18,0,9.0,4,3,0,0,0
+T202349,Super Giants Vs Titans,Super Giants,RaviBishnoi,4.0,0,34,0,8.5,11,3,2,2,0
+T202349,Super Giants Vs Titans,Super Giants,KrunalPandya,4.0,0,17,1,4.25,12,1,0,0,0
+T202349,Super Giants Vs Titans,Super Giants,DeepakHooda,3.0,0,31,1,10.33,3,2,2,0,0
+T208141,RCB Vs Punjab Kings,Punjab Kings,SandeepSharma,4.0,0,37,0,9.25,10,4,2,0,0
+T208141,RCB Vs Punjab Kings,Punjab Kings,ArshdeepSingh,4.0,0,31,1,7.75,11,0,2,3,0
+T208141,RCB Vs Punjab Kings,Punjab Kings,OdeanSmith,4.0,0,52,0,13.0,9,5,4,1,0
+T208141,RCB Vs Punjab Kings,Punjab Kings,RahulChahar,4.0,0,22,1,5.5,8,0,0,1,0
+T208141,RCB Vs Punjab Kings,Punjab Kings,HarpreetBrar,3.0,0,38,0,12.66,5,0,4,1,0
+T208141,RCB Vs Punjab Kings,Punjab Kings,LiamLivingstone,1.0,0,14,0,14.0,1,0,1,1,0
+T208141,RCB Vs Punjab Kings,RCB,DavidWilley,3.0,0,28,0,9.33,5,3,1,0,0
+T208141,RCB Vs Punjab Kings,RCB,MohammedSiraj,4.0,0,59,2,14.75,9,3,4,6,0
+T208141,RCB Vs Punjab Kings,RCB,ShahbazAhmed,1.0,0,6,0,6.0,3,1,0,0,0
+T208141,RCB Vs Punjab Kings,RCB,AkashDeep,3.0,0,38,1,12.66,4,2,3,0,0
+T208141,RCB Vs Punjab Kings,RCB,WaninduHasaranga,4.0,0,40,1,10.0,10,1,4,1,0
+T208141,RCB Vs Punjab Kings,RCB,HarshalPatel,4.0,0,36,1,9.0,10,1,2,5,0
+T205838,Mumbai Vs Capitals,Capitals,ShardulThakur,4.0,0,47,0,11.75,8,3,4,1,0
+T205838,Mumbai Vs Capitals,Capitals,KhaleelAhmed,4.0,0,27,2,6.75,13,5,0,0,0
+T205838,Mumbai Vs Capitals,Capitals,AxarPatel,4.0,0,40,0,10.0,3,4,1,0,0
+T205838,Mumbai Vs Capitals,Capitals,KamleshNagarkoti,2.0,0,29,0,14.5,4,5,1,1,0
+T205838,Mumbai Vs Capitals,Capitals,KuldeepYadav,4.0,0,18,3,4.5,8,0,0,0,0
+T205838,Mumbai Vs Capitals,Capitals,LalitYadav,2.0,0,15,0,7.5,2,1,0,0,0
+T205838,Mumbai Vs Capitals,Mumbai,DanielSams,4.0,0,57,0,14.25,4,6,3,2,0
+T205838,Mumbai Vs Capitals,Mumbai,JaspritBumrah,3.2,0,43,0,12.9,4,7,1,0,0
+T205838,Mumbai Vs Capitals,Mumbai,BasilThampi,4.0,0,35,3,8.75,11,2,2,3,0
+T205838,Mumbai Vs Capitals,Mumbai,MuruganAshwin,4.0,0,14,2,3.5,14,1,0,0,0
+T205838,Mumbai Vs Capitals,Mumbai,TymalMills,3.0,0,26,1,8.66,6,2,1,2,0
+T201512,Super Kings Vs KKR,KKR,UmeshYadav,4.0,0,20,2,5.0,15,1,1,2,1
+T201512,Super Kings Vs KKR,KKR,ShivamMavi,4.0,0,35,0,8.75,12,3,2,1,1
+T201512,Super Kings Vs KKR,KKR,VarunChakravarthy,4.0,0,23,1,5.75,11,1,1,1,0
+T201512,Super Kings Vs KKR,KKR,SunilNarine,4.0,0,15,0,3.75,10,0,0,0,0
+T201512,Super Kings Vs KKR,KKR,AndreRussell,4.0,0,38,1,9.5,7,5,1,0,0
+T201512,Super Kings Vs KKR,Super Kings,TusharDeshpande,3.0,0,23,0,7.66,9,4,0,0,0
+T201512,Super Kings Vs KKR,Super Kings,AdamMilne,2.3,0,19,0,7.6,9,2,1,0,0
+T201512,Super Kings Vs KKR,Super Kings,MitchellSantner,4.0,0,31,1,7.75,5,1,1,0,0
+T201512,Super Kings Vs KKR,Super Kings,DwayneBravo,4.0,0,20,3,5.0,11,2,0,0,0
+T201512,Super Kings Vs KKR,Super Kings,ShivamDube,1.0,0,11,0,11.0,1,2,0,0,0
+T201512,Super Kings Vs KKR,Super Kings,RavindraJadeja,4.0,0,25,0,6.25,8,1,1,0,0
+T208201,Titans Vs Super Kings,Super Kings,DeepakChahar,4.0,0,38,1,9.5,5,3,1,0,0
+T208201,Titans Vs Super Kings,Super Kings,TusharDeshpande,4.0,0,56,0,14.0,4,7,3,0,0
+T208201,Titans Vs Super Kings,Super Kings,MaheeshTheekshana,4.0,0,36,0,9.0,8,3,2,0,0
+T208201,Titans Vs Super Kings,Super Kings,RavindraJadeja,4.0,0,38,1,9.5,3,3,1,0,0
+T208201,Titans Vs Super Kings,Super Kings,MatheeshaPathirana,4.0,0,44,2,11.0,7,4,2,2,0
+T208201,Titans Vs Super Kings,Titans,MohammedShami,3.0,0,29,0,9.66,5,4,0,0,0
+T208201,Titans Vs Super Kings,Titans,HardikPandya,1.0,0,14,0,14.0,1,1,1,1,0
+T208201,Titans Vs Super Kings,Titans,RashidKhan,3.0,0,44,0,14.66,2,4,3,0,0
+T208201,Titans Vs Super Kings,Titans,NoorAhmad,3.0,0,17,2,5.66,6,0,0,3,0
+T208201,Titans Vs Super Kings,Titans,JoshLittle,2.0,0,30,0,15.0,1,0,3,0,0
+T208201,Titans Vs Super Kings,Titans,MohitSharma,3.0,0,36,3,12.0,4,2,3,0,0
+T203496,Titans Vs Mumbai,Mumbai,JasonBehrendorff,4.0,0,28,0,7.0,8,4,0,0,0
+T203496,Titans Vs Mumbai,Mumbai,CameronGreen,3.0,0,35,0,11.66,4,3,2,0,0
+T203496,Titans Vs Mumbai,Mumbai,AkashMadhwal,4.0,0,52,1,13.0,7,3,4,0,2
+T203496,Titans Vs Mumbai,Mumbai,ChrisJordan,4.0,0,56,0,14.0,6,6,3,4,0
+T203496,Titans Vs Mumbai,Mumbai,PiyushChawla,3.0,0,45,1,15.0,0,2,3,1,0
+T203496,Titans Vs Mumbai,Mumbai,KumarKartikeya,2.0,0,15,0,7.5,2,0,1,0,0
+T203496,Titans Vs Mumbai,Titans,MohammedShami,3.0,0,41,2,13.66,6,6,2,0,0
+T203496,Titans Vs Mumbai,Titans,HardikPandya,2.0,0,24,0,12.0,4,3,1,1,0
+T203496,Titans Vs Mumbai,Titans,RashidKhan,4.0,0,33,2,8.25,8,5,0,1,0
+T203496,Titans Vs Mumbai,Titans,NoorAhmad,4.0,0,35,0,8.75,8,1,2,1,1
+T203496,Titans Vs Mumbai,Titans,JoshLittle,3.0,0,26,1,8.66,6,2,1,1,0
+T203496,Titans Vs Mumbai,Titans,MohitSharma,2.2,0,10,5,4.28,9,0,1,0,0
+T203571,Mumbai Vs Super Giants,Super Giants,KrunalPandya,4.0,0,38,0,9.5,7,5,1,0,0
+T203571,Mumbai Vs Super Giants,Super Giants,KrishnappaGowtham,1.0,0,8,0,8.0,4,2,0,0,0
+T203571,Mumbai Vs Super Giants,Super Giants,Naveen-ul-Haq,4.0,0,38,4,9.5,10,3,2,3,0
+T203571,Mumbai Vs Super Giants,Super Giants,YashThakur,4.0,0,34,3,8.5,12,3,2,2,0
+T203571,Mumbai Vs Super Giants,Super Giants,MohsinKhan,3.0,0,24,1,8.0,9,1,2,0,0
+T203571,Mumbai Vs Super Giants,Super Giants,RaviBishnoi,4.0,0,30,0,7.5,4,1,1,1,0
+T203571,Mumbai Vs Super Giants,Mumbai,JasonBehrendorff,3.0,0,21,0,7.0,7,3,0,0,0
+T203571,Mumbai Vs Super Giants,Mumbai,AkashMadhwal,3.3,0,5,5,1.42,17,0,0,0,0
+T203571,Mumbai Vs Super Giants,Mumbai,ChrisJordan,2.0,1,7,1,3.5,9,1,0,0,0
+T203571,Mumbai Vs Super Giants,Mumbai,CameronGreen,3.0,0,15,0,5.0,7,1,0,0,0
+T203571,Mumbai Vs Super Giants,Mumbai,HrithikShokeen,1.0,0,18,0,18.0,1,2,1,1,0
+T203571,Mumbai Vs Super Giants,Mumbai,PiyushChawla,4.0,0,28,1,7.0,9,2,1,2,0
+T206084,Super Kings Vs Titans,Titans,MohammedShami,4.0,0,28,2,7.0,10,2,1,0,1
+T206084,Super Kings Vs Titans,Titans,DarshanNalkande,4.0,0,44,1,11.0,9,4,2,0,1
+T206084,Super Kings Vs Titans,Titans,RashidKhan,4.0,0,37,1,9.25,5,2,1,0,0
+T206084,Super Kings Vs Titans,Titans,NoorAhmad,4.0,0,29,1,7.25,6,3,0,0,0
+T206084,Super Kings Vs Titans,Titans,MohitSharma,4.0,0,31,2,7.75,4,3,0,0,0
+T206084,Super Kings Vs Titans,Super Kings,DeepakChahar,4.0,0,29,2,7.25,10,2,1,3,0
+T206084,Super Kings Vs Titans,Super Kings,TusharDeshpande,4.0,0,43,1,10.75,11,6,2,2,0
+T206084,Super Kings Vs Titans,Super Kings,MaheeshTheekshana,4.0,0,28,2,7.0,8,1,1,0,0
+T206084,Super Kings Vs Titans,Super Kings,RavindraJadeja,4.0,0,18,2,4.5,12,2,0,0,0
+T206084,Super Kings Vs Titans,Super Kings,MatheeshaPathirana,4.0,0,37,2,9.25,9,2,1,7,0
+T201605,RCB Vs Titans,Titans,MohammedShami,4.0,0,39,1,9.75,9,7,0,1,0
+T201605,RCB Vs Titans,Titans,YashDayal,4.0,0,39,1,9.75,7,5,1,0,0
+T201605,RCB Vs Titans,Titans,RashidKhan,4.0,0,24,1,6.0,5,1,0,0,0
+T201605,RCB Vs Titans,Titans,NoorAhmad,4.0,0,39,2,9.75,6,4,1,2,0
+T201605,RCB Vs Titans,Titans,MohitSharma,4.0,0,54,0,13.5,2,8,1,2,0
+T201605,RCB Vs Titans,RCB,MohammedSiraj,4.0,0,32,2,8.0,11,2,2,2,0
+T201605,RCB Vs Titans,RCB,WayneParnell,3.1,0,42,0,13.26,7,6,2,1,1
+T201605,RCB Vs Titans,RCB,VijaykumarVyshak,4.0,0,40,1,10.0,6,2,2,2,0
+T201605,RCB Vs Titans,RCB,HimanshuSharma,3.0,0,28,0,9.33,4,3,1,0,0
+T201605,RCB Vs Titans,RCB,HarshalPatel,4.0,0,29,1,7.25,11,2,1,2,0
+T201605,RCB Vs Titans,RCB,MichaelBracewell,1.0,0,16,0,16.0,2,0,2,0,0
+T206817,Sunrisers Vs Mumbai,Mumbai,JasonBehrendorff,3.0,0,36,0,12.0,7,4,2,3,0
+T206817,Sunrisers Vs Mumbai,Mumbai,CameronGreen,1.0,0,2,0,2.0,4,0,0,0,0
+T206817,Sunrisers Vs Mumbai,Mumbai,ChrisJordan,4.0,0,42,1,10.5,6,5,1,1,0
+T206817,Sunrisers Vs Mumbai,Mumbai,AkashMadhwal,4.0,0,37,4,9.25,7,4,1,0,1
+T206817,Sunrisers Vs Mumbai,Mumbai,PiyushChawla,4.0,0,39,0,9.75,4,3,2,0,0
+T206817,Sunrisers Vs Mumbai,Mumbai,KumarKartikeya,4.0,0,39,0,9.75,6,4,1,1,0
+T206817,Sunrisers Vs Mumbai,Sunrisers,BhuvneshwarKumar,4.0,0,26,1,6.5,8,3,0,0,0
+T206817,Sunrisers Vs Mumbai,Sunrisers,NitishKumarReddy,3.0,0,35,0,11.66,7,1,4,0,0
+T206817,Sunrisers Vs Mumbai,Sunrisers,MayankDagar,4.0,0,37,1,9.25,9,4,2,0,0
+T206817,Sunrisers Vs Mumbai,Sunrisers,KartikTyagi,2.5,0,41,0,14.47,4,6,1,0,3
+T206817,Sunrisers Vs Mumbai,Sunrisers,UmranMalik,3.0,0,41,0,13.66,3,7,1,0,0
+T206817,Sunrisers Vs Mumbai,Sunrisers,VivrantSharma,1.0,0,19,0,19.0,1,0,2,1,1
+T206817,Sunrisers Vs Mumbai,Sunrisers,AidenMarkram,0.1,0,1,0,6.0,0,0,0,0,0
+T203370,Super Giants Vs KKR,KKR,HarshitRana,3.0,0,21,1,7.0,11,3,1,0,0
+T203370,Super Giants Vs KKR,KKR,VaibhavArora,4.0,0,30,2,7.5,9,1,1,3,1
+T203370,Super Giants Vs KKR,KKR,VarunChakravarthy,4.0,0,38,1,9.5,10,4,2,0,0
+T203370,Super Giants Vs KKR,KKR,NitishRana,1.0,0,3,0,3.0,4,0,0,0,0
+T203370,Super Giants Vs KKR,KKR,ShardulThakur,2.0,0,27,2,13.5,3,0,3,1,1
+T203370,Super Giants Vs KKR,KKR,SunilNarine,4.0,0,28,2,7.0,8,2,1,1,0
+T203370,Super Giants Vs KKR,KKR,SuyashSharma,1.0,0,12,0,12.0,2,1,1,0,0
+T203370,Super Giants Vs KKR,KKR,AndreRussell,1.0,0,12,0,12.0,2,1,1,0,0
+T203370,Super Giants Vs KKR,Super Giants,MohsinKhan,1.0,0,15,0,15.0,2,2,1,0,0
+T203370,Super Giants Vs KKR,Super Giants,Naveen-ul-Haq,4.0,0,46,0,11.5,8,6,2,0,0
+T203370,Super Giants Vs KKR,Super Giants,KrunalPandya,4.0,0,30,1,7.5,9,5,0,0,0
+T203370,Super Giants Vs KKR,Super Giants,KrishnappaGowtham,4.0,0,26,1,6.5,9,2,0,2,0
+T203370,Super Giants Vs KKR,Super Giants,RaviBishnoi,4.0,0,23,2,5.75,10,1,1,0,0
+T203370,Super Giants Vs KKR,Super Giants,YashThakur,3.0,0,31,2,10.33,9,1,3,3,0
+T206925,Super Kings Vs Capitals,Capitals,KhaleelAhmed,4.0,0,45,1,11.25,9,4,3,2,1
+T206925,Super Kings Vs Capitals,Capitals,LalitYadav,2.0,0,32,0,16.0,1,3,2,2,0
+T206925,Super Kings Vs Capitals,Capitals,AxarPatel,3.0,0,32,0,10.66,3,0,3,0,0
+T206925,Super Kings Vs Capitals,Capitals,AnrichNortje,4.0,0,43,1,10.75,8,4,3,0,0
+T206925,Super Kings Vs Capitals,Capitals,ChetanSakariya,4.0,0,36,1,9.0,9,5,0,3,1
+T206925,Super Kings Vs Capitals,Capitals,KuldeepYadav,3.0,0,34,0,11.33,2,1,3,0,0
+T206925,Super Kings Vs Capitals,Super Kings,DeepakChahar,4.0,0,22,3,5.5,14,2,1,0,0
+T206925,Super Kings Vs Capitals,Super Kings,TusharDeshpande,4.0,0,26,1,6.5,12,4,0,1,0
+T206925,Super Kings Vs Capitals,Super Kings,MaheeshTheekshana,4.0,1,23,2,5.75,11,1,1,0,0
+T206925,Super Kings Vs Capitals,Super Kings,RavindraJadeja,4.0,0,50,1,12.5,4,3,4,1,0
+T206925,Super Kings Vs Capitals,Super Kings,MatheeshaPathirana,4.0,0,22,2,5.5,11,1,0,5,0
+T205037,Punjab Kings Vs Royals,Royals,TrentBoult,4.0,0,35,1,8.75,12,3,2,1,0
+T205037,Punjab Kings Vs Royals,Royals,SandeepSharma,4.0,0,46,0,11.5,6,3,3,2,1
+T205037,Punjab Kings Vs Royals,Royals,NavdeepSaini,4.0,0,40,3,10.0,9,6,1,1,0
+T205037,Punjab Kings Vs Royals,Royals,AdamZampa,4.0,0,26,1,6.5,6,2,0,0,0
+T205037,Punjab Kings Vs Royals,Royals,YuzvendraChahal,4.0,0,40,0,10.0,9,3,3,1,0
+T205037,Punjab Kings Vs Royals,Punjab Kings,SamCurran,4.0,0,46,1,11.5,9,8,1,2,0
+T205037,Punjab Kings Vs Royals,Punjab Kings,KagisoRabada,4.0,0,40,2,10.0,12,2,4,1,1
+T205037,Punjab Kings Vs Royals,Punjab Kings,ArshdeepSingh,4.0,0,40,1,10.0,11,4,2,3,0
+T205037,Punjab Kings Vs Royals,Punjab Kings,NathanEllis,4.0,0,34,1,8.5,8,3,1,1,0
+T205037,Punjab Kings Vs Royals,Punjab Kings,RahulChahar,3.4,0,28,1,7.63,5,1,1,0,0
+T202467,Sunrisers Vs RCB,RCB,MohammedSiraj,4.0,0,17,1,4.25,16,2,0,2,0
+T202467,Sunrisers Vs RCB,RCB,WayneParnell,4.0,0,35,0,8.75,5,3,1,0,0
+T202467,Sunrisers Vs RCB,RCB,MichaelBracewell,2.0,0,13,2,6.5,5,2,0,0,0
+T202467,Sunrisers Vs RCB,RCB,ShahbazAhmed,3.0,0,38,1,12.66,4,4,2,0,0
+T202467,Sunrisers Vs RCB,RCB,HarshalPatel,4.0,0,37,1,9.25,4,3,1,1,0
+T202467,Sunrisers Vs RCB,RCB,KarnSharma,3.0,0,45,0,15.0,0,1,4,1,0
+T202467,Sunrisers Vs RCB,Sunrisers,BhuvneshwarKumar,4.0,0,48,1,12.0,10,7,2,1,0
+T202467,Sunrisers Vs RCB,Sunrisers,AbhishekSharma,3.0,0,28,0,9.33,5,3,1,1,0
+T202467,Sunrisers Vs RCB,Sunrisers,TNatarajan,4.0,0,34,1,8.5,6,3,1,1,0
+T202467,Sunrisers Vs RCB,Sunrisers,KartikTyagi,1.2,0,21,0,15.75,1,4,0,1,0
+T202467,Sunrisers Vs RCB,Sunrisers,NitishKumarReddy,2.0,0,19,0,9.5,3,1,1,0,1
+T202467,Sunrisers Vs RCB,Sunrisers,MayankDagar,4.0,0,25,0,6.25,8,1,1,0,0
+T202467,Sunrisers Vs RCB,Sunrisers,GlennPhillips,1.0,0,10,0,10.0,1,1,0,0,0
+T201082,Capitals Vs Punjab Kings,Punjab Kings,SamCurran,4.0,0,36,2,9.0,9,4,1,1,0
+T201082,Capitals Vs Punjab Kings,Punjab Kings,KagisoRabada,3.0,0,36,0,12.0,8,2,4,0,0
+T201082,Capitals Vs Punjab Kings,Punjab Kings,ArshdeepSingh,2.0,0,21,0,10.5,4,2,1,2,0
+T201082,Capitals Vs Punjab Kings,Punjab Kings,NathanEllis,4.0,0,46,0,11.5,6,5,2,0,0
+T201082,Capitals Vs Punjab Kings,Punjab Kings,RahulChahar,4.0,0,35,0,8.75,7,4,1,0,0
+T201082,Capitals Vs Punjab Kings,Punjab Kings,HarpreetBrar,3.0,0,39,0,13.0,2,3,2,2,0
+T201082,Capitals Vs Punjab Kings,Capitals,KhaleelAhmed,3.0,1,20,1,6.66,14,1,2,0,1
+T201082,Capitals Vs Punjab Kings,Capitals,IshantSharma,3.0,0,36,2,12.0,10,5,2,0,1
+T201082,Capitals Vs Punjab Kings,Capitals,AnrichNortje,4.0,0,36,2,9.0,11,2,3,0,0
+T201082,Capitals Vs Punjab Kings,Capitals,MukeshKumar,4.0,0,52,0,13.0,8,3,5,1,0
+T201082,Capitals Vs Punjab Kings,Capitals,AxarPatel,3.0,0,27,1,9.0,3,4,0,0,0
+T201082,Capitals Vs Punjab Kings,Capitals,KuldeepYadav,3.0,0,21,0,7.0,4,0,1,1,0
+T208249,Super Giants Vs Mumbai,Mumbai,JasonBehrendorff,4.0,0,30,2,7.5,9,0,2,1,0
+T208249,Super Giants Vs Mumbai,Mumbai,ChrisJordan,4.0,0,50,0,12.5,7,3,4,2,0
+T208249,Super Giants Vs Mumbai,Mumbai,HrithikShokeen,3.0,0,20,0,6.66,9,1,1,0,0
+T208249,Super Giants Vs Mumbai,Mumbai,PiyushChawla,3.0,0,26,1,8.66,5,0,2,0,0
+T208249,Super Giants Vs Mumbai,Mumbai,AkashMadhwal,4.0,0,30,0,7.5,7,1,1,2,0
+T208249,Super Giants Vs Mumbai,Mumbai,CameronGreen,2.0,0,16,0,8.0,5,1,1,0,0
+T208249,Super Giants Vs Mumbai,Super Giants,KrunalPandya,4.0,0,27,0,6.75,10,4,0,0,0
+T208249,Super Giants Vs Mumbai,Super Giants,MohsinKhan,3.0,0,26,1,8.66,8,1,2,2,0
+T208249,Super Giants Vs Mumbai,Super Giants,Naveen-ul-Haq,4.0,0,37,0,9.25,8,1,3,0,1
+T208249,Super Giants Vs Mumbai,Super Giants,YashThakur,4.0,0,40,2,10.0,9,2,2,5,1
+T208249,Super Giants Vs Mumbai,Super Giants,SwapnilSingh,1.0,0,11,0,11.0,1,2,0,0,0
+T208249,Super Giants Vs Mumbai,Super Giants,RaviBishnoi,4.0,0,26,2,6.5,9,2,0,1,0
+T208692,Titans Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,30,5,7.5,11,4,0,0,0
+T208692,Titans Vs Sunrisers,Sunrisers,MarcoJansen,4.0,0,39,1,9.75,11,3,1,4,2
+T208692,Titans Vs Sunrisers,Sunrisers,FazalhaqFarooqi,3.0,0,31,1,10.33,3,4,0,1,0
+T208692,Titans Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,34,1,8.5,4,4,0,0,0
+T208692,Titans Vs Sunrisers,Sunrisers,AidenMarkram,1.0,0,13,0,13.0,0,2,0,0,0
+T208692,Titans Vs Sunrisers,Sunrisers,MayankMarkande,3.0,0,27,0,9.0,3,4,0,0,0
+T208692,Titans Vs Sunrisers,Sunrisers,AbhishekSharma,1.0,0,13,0,13.0,2,1,1,1,0
+T208692,Titans Vs Sunrisers,Titans,MohammedShami,4.0,0,21,4,5.25,13,1,1,0,0
+T208692,Titans Vs Sunrisers,Titans,YashDayal,4.0,0,31,1,7.75,11,4,0,4,0
+T208692,Titans Vs Sunrisers,Titans,RashidKhan,4.0,0,28,0,7.0,6,1,1,0,0
+T208692,Titans Vs Sunrisers,Titans,MohitSharma,4.0,0,28,4,7.0,12,3,1,0,0
+T208692,Titans Vs Sunrisers,Titans,NoorAhmad,2.5,0,35,0,12.35,3,3,2,1,0
+T208692,Titans Vs Sunrisers,Titans,RahulTewatia,1.1,0,7,0,6.0,3,1,0,0,0
+T206211,Super Kings Vs KKR,KKR,VaibhavArora,4.0,0,30,1,7.5,7,2,0,1,1
+T206211,Super Kings Vs KKR,KKR,HarshitRana,2.0,0,19,0,9.5,5,2,1,0,0
+T206211,Super Kings Vs KKR,KKR,VarunChakravarthy,4.0,0,36,2,9.0,5,2,1,1,0
+T206211,Super Kings Vs KKR,KKR,SunilNarine,4.0,0,15,2,3.75,10,0,0,0,0
+T206211,Super Kings Vs KKR,KKR,ShardulThakur,3.0,0,15,1,5.0,7,1,0,1,0
+T206211,Super Kings Vs KKR,KKR,SuyashSharma,3.0,0,29,0,9.66,6,0,3,0,1
+T206211,Super Kings Vs KKR,Super Kings,DeepakChahar,3.0,0,27,3,9.0,7,3,1,2,0
+T206211,Super Kings Vs KKR,Super Kings,TusharDeshpande,3.3,0,25,0,7.14,11,2,1,2,0
+T206211,Super Kings Vs KKR,Super Kings,MoeenAli,4.0,0,31,0,7.75,8,5,0,0,0
+T206211,Super Kings Vs KKR,Super Kings,MaheeshTheekshana,3.0,0,22,0,7.33,3,2,0,0,0
+T206211,Super Kings Vs KKR,Super Kings,MatheeshaPathirana,3.0,0,23,0,7.66,8,1,0,2,1
+T206211,Super Kings Vs KKR,Super Kings,RavindraJadeja,2.0,0,18,0,9.0,4,0,2,0,0
+T204453,RCB Vs Royals,Royals,SandeepSharma,4.0,0,34,1,8.5,4,4,0,1,0
+T204453,RCB Vs Royals,Royals,AdamZampa,4.0,0,25,2,6.25,10,2,1,0,0
+T204453,RCB Vs Royals,Royals,YuzvendraChahal,4.0,0,37,0,9.25,4,3,1,1,0
+T204453,RCB Vs Royals,Royals,RavichandranAshwin,4.0,0,33,0,8.25,5,1,2,1,0
+T204453,RCB Vs Royals,Royals,KMAsif,4.0,0,42,2,10.5,8,2,3,1,0
+T204453,RCB Vs Royals,RCB,MohammedSiraj,2.0,0,10,1,5.0,9,2,0,1,0
+T204453,RCB Vs Royals,RCB,WayneParnell,3.0,0,10,3,3.33,12,1,0,1,0
+T204453,RCB Vs Royals,RCB,MichaelBracewell,3.0,0,16,2,5.33,10,1,1,0,0
+T204453,RCB Vs Royals,RCB,KarnSharma,1.3,0,19,2,12.66,5,0,3,0,0
+T204453,RCB Vs Royals,RCB,GlennMaxwell,1.0,0,3,1,3.0,4,0,0,0,0
+T208032,Punjab Kings Vs Capitals,Capitals,KhaleelAhmed,4.0,0,36,0,9.0,11,4,1,3,0
+T208032,Punjab Kings Vs Capitals,Capitals,IshantSharma,3.0,0,27,2,9.0,8,4,1,0,0
+T208032,Punjab Kings Vs Capitals,Capitals,AxarPatel,4.0,0,27,1,6.75,12,1,1,2,0
+T208032,Punjab Kings Vs Capitals,Capitals,PraveenDubey,3.0,0,19,1,6.33,8,1,1,1,0
+T208032,Punjab Kings Vs Capitals,Capitals,KuldeepYadav,4.0,0,32,1,8.0,9,2,2,0,0
+T208032,Punjab Kings Vs Capitals,Capitals,MitchellMarsh,1.0,0,21,0,21.0,0,1,2,1,0
+T208032,Punjab Kings Vs Capitals,Capitals,MukeshKumar,1.0,0,3,1,3.0,3,0,0,0,0
+T208032,Punjab Kings Vs Capitals,Punjab Kings,RishiDhawan,1.0,0,10,0,10.0,2,2,0,0,0
+T208032,Punjab Kings Vs Capitals,Punjab Kings,SamCurran,2.0,0,18,0,9.0,4,3,0,0,0
+T208032,Punjab Kings Vs Capitals,Punjab Kings,HarpreetBrar,4.0,0,30,4,7.5,11,5,0,1,0
+T208032,Punjab Kings Vs Capitals,Punjab Kings,NathanEllis,4.0,0,26,2,6.5,6,2,0,1,0
+T208032,Punjab Kings Vs Capitals,Punjab Kings,ArshdeepSingh,4.0,0,32,0,8.0,8,2,2,0,0
+T208032,Punjab Kings Vs Capitals,Punjab Kings,RahulChahar,4.0,0,16,2,4.0,18,3,0,1,0
+T208032,Punjab Kings Vs Capitals,Punjab Kings,SikandarRaza,1.0,0,3,0,3.0,3,0,0,0,0
+T204737,Sunrisers Vs Super Giants,Super Giants,YudhvirSingh,3.0,0,24,1,8.0,8,4,0,1,0
+T204737,Sunrisers Vs Super Giants,Super Giants,KyleMayers,1.0,0,11,0,11.0,3,2,0,0,1
+T204737,Sunrisers Vs Super Giants,Super Giants,KrunalPandya,4.0,0,24,2,6.0,12,2,1,0,0
+T204737,Sunrisers Vs Super Giants,Super Giants,AveshKhan,2.0,0,30,1,15.0,2,5,1,0,0
+T204737,Sunrisers Vs Super Giants,Super Giants,YashThakur,4.0,0,28,1,7.0,11,1,2,0,0
+T204737,Sunrisers Vs Super Giants,Super Giants,AmitMishra,4.0,0,40,1,10.0,8,2,3,1,0
+T204737,Sunrisers Vs Super Giants,Super Giants,RaviBishnoi,2.0,0,23,0,11.5,1,2,1,0,0
+T204737,Sunrisers Vs Super Giants,Sunrisers,BhuvneshwarKumar,4.0,0,30,0,7.5,8,3,1,0,0
+T204737,Sunrisers Vs Super Giants,Sunrisers,FazalhaqFarooqi,3.2,0,32,0,9.6,8,5,0,4,0
+T204737,Sunrisers Vs Super Giants,Sunrisers,GlennPhillips,2.0,0,10,1,5.0,5,1,0,0,0
+T204737,Sunrisers Vs Super Giants,Sunrisers,TNatarajan,4.0,0,31,0,7.75,8,1,2,0,0
+T204737,Sunrisers Vs Super Giants,Sunrisers,MayankMarkande,3.0,0,39,1,13.0,2,4,2,0,0
+T204737,Sunrisers Vs Super Giants,Sunrisers,AbhishekSharma,3.0,0,42,1,14.0,6,1,5,1,0
+T203656,Mumbai Vs Titans,Titans,MohammedShami,4.0,0,53,0,13.25,9,5,4,0,0
+T203656,Mumbai Vs Titans,Titans,MohitSharma,4.0,0,43,1,10.75,10,6,2,0,0
+T203656,Mumbai Vs Titans,Titans,RashidKhan,4.0,0,30,4,7.5,10,5,0,0,0
+T203656,Mumbai Vs Titans,Titans,NoorAhmad,4.0,0,38,0,9.5,7,4,1,0,0
+T203656,Mumbai Vs Titans,Titans,AlzarriJoseph,4.0,0,52,0,13.0,5,2,5,0,0
+T203656,Mumbai Vs Titans,Mumbai,JasonBehrendorff,4.0,0,37,1,9.25,8,5,1,1,0
+T203656,Mumbai Vs Titans,Mumbai,AkashMadhwal,4.0,0,31,3,7.75,11,4,1,0,0
+T203656,Mumbai Vs Titans,Mumbai,ChrisJordan,4.0,0,34,0,8.5,9,3,2,0,0
+T203656,Mumbai Vs Titans,Mumbai,PiyushChawla,4.0,0,36,2,9.0,7,4,1,0,0
+T203656,Mumbai Vs Titans,Mumbai,KumarKartikeya,3.0,0,37,2,12.33,8,0,5,2,0
+T203656,Mumbai Vs Titans,Mumbai,CameronGreen,1.0,0,13,0,13.0,3,0,2,0,0
+T205338,KKR Vs Royals,Royals,TrentBoult,3.0,0,15,2,5.0,13,2,0,0,0
+T205338,KKR Vs Royals,Royals,SandeepSharma,4.0,0,34,1,8.5,12,2,3,0,0
+T205338,KKR Vs Royals,Royals,RavichandranAshwin,4.0,0,32,0,8.0,6,1,2,0,0
+T205338,KKR Vs Royals,Royals,JoeRoot,2.0,0,14,0,7.0,2,1,0,0,0
+T205338,KKR Vs Royals,Royals,YuzvendraChahal,4.0,0,25,4,6.25,11,2,1,0,0
+T205338,KKR Vs Royals,Royals,KMAsif,3.0,0,27,1,9.0,4,0,2,1,0
+T205338,KKR Vs Royals,KKR,NitishRana,1.0,0,26,0,26.0,0,3,2,0,0
+T205338,KKR Vs Royals,KKR,HarshitRana,2.0,0,22,0,11.0,6,2,1,2,0
+T205338,KKR Vs Royals,KKR,ShardulThakur,1.1,0,18,0,15.42,1,4,0,0,0
+T205338,KKR Vs Royals,KKR,VarunChakravarthy,3.0,0,28,0,9.33,10,3,2,1,0
+T205338,KKR Vs Royals,KKR,SunilNarine,2.0,0,13,0,6.5,5,0,1,0,0
+T205338,KKR Vs Royals,KKR,SuyashSharma,3.0,0,22,0,7.33,7,2,1,0,0
+T205338,KKR Vs Royals,KKR,AnukulRoy,1.0,0,20,0,20.0,1,0,3,0,0
+T209224,Super Kings Vs Capitals,Capitals,KhaleelAhmed,4.0,0,32,1,8.0,9,1,2,2,0
+T209224,Super Kings Vs Capitals,Capitals,IshantSharma,2.0,0,23,0,11.5,4,4,0,2,0
+T209224,Super Kings Vs Capitals,Capitals,LalitYadav,3.0,0,34,1,11.33,6,2,3,0,0
+T209224,Super Kings Vs Capitals,Capitals,AxarPatel,4.0,0,27,2,6.75,8,2,1,0,0
+T209224,Super Kings Vs Capitals,Capitals,KuldeepYadav,4.0,0,28,1,7.0,6,0,1,3,0
+T209224,Super Kings Vs Capitals,Capitals,MitchellMarsh,3.0,0,18,3,6.0,7,1,0,3,0
+T209224,Super Kings Vs Capitals,Super Kings,DeepakChahar,3.0,0,28,2,9.33,10,3,2,1,0
+T209224,Super Kings Vs Capitals,Super Kings,TusharDeshpande,3.0,0,18,0,6.0,9,1,1,0,0
+T209224,Super Kings Vs Capitals,Super Kings,MaheeshTheekshana,2.0,0,16,0,8.0,2,0,1,0,0
+T209224,Super Kings Vs Capitals,Super Kings,RavindraJadeja,4.0,0,19,1,4.75,10,1,0,0,0
+T209224,Super Kings Vs Capitals,Super Kings,MoeenAli,4.0,0,16,0,4.0,13,0,1,0,0
+T209224,Super Kings Vs Capitals,Super Kings,MatheeshaPathirana,4.0,0,37,3,9.25,11,5,1,4,0
+T205430,RCB Vs Mumbai,Mumbai,JasonBehrendorff,4.0,0,36,3,9.0,9,5,1,0,0
+T205430,RCB Vs Mumbai,Mumbai,PiyushChawla,4.0,0,41,0,10.25,8,5,2,0,0
+T205430,RCB Vs Mumbai,Mumbai,CameronGreen,2.0,0,15,1,7.5,6,3,0,0,0
+T205430,RCB Vs Mumbai,Mumbai,ChrisJordan,4.0,0,48,1,12.0,7,4,3,1,0
+T205430,RCB Vs Mumbai,Mumbai,KumarKartikeya,4.0,0,35,1,8.75,6,3,1,1,0
+T205430,RCB Vs Mumbai,Mumbai,AkashMadhwal,2.0,0,23,0,11.5,1,1,1,0,1
+T205430,RCB Vs Mumbai,RCB,MohammedSiraj,3.0,0,31,0,10.33,10,2,3,1,0
+T205430,RCB Vs Mumbai,RCB,JoshHazlewood,3.0,0,32,0,10.66,7,5,1,1,0
+T205430,RCB Vs Mumbai,RCB,WaninduHasaranga,4.0,0,53,2,13.25,5,2,5,1,0
+T205430,RCB Vs Mumbai,RCB,VijaykumarVyshak,3.0,0,37,2,12.33,7,2,3,1,1
+T205430,RCB Vs Mumbai,RCB,HarshalPatel,3.3,0,41,0,11.71,3,5,1,1,1
+T201181,Punjab Kings Vs KKR,KKR,VaibhavArora,3.0,0,32,0,10.66,8,7,0,1,0
+T201181,Punjab Kings Vs KKR,KKR,HarshitRana,3.0,0,33,2,11.0,9,4,2,0,1
+T201181,Punjab Kings Vs KKR,KKR,AndreRussell,1.0,0,19,0,19.0,1,4,0,0,1
+T201181,Punjab Kings Vs KKR,KKR,VarunChakravarthy,4.0,0,26,3,6.5,11,2,1,1,0
+T201181,Punjab Kings Vs KKR,KKR,SuyashSharma,4.0,0,26,1,6.5,12,1,2,1,0
+T201181,Punjab Kings Vs KKR,KKR,SunilNarine,4.0,0,29,0,7.25,9,2,1,1,0
+T201181,Punjab Kings Vs KKR,KKR,NitishRana,1.0,0,7,1,7.0,3,1,0,0,0
+T201181,Punjab Kings Vs KKR,Punjab Kings,RishiDhawan,2.0,0,15,0,7.5,5,2,0,0,0
+T201181,Punjab Kings Vs KKR,Punjab Kings,ArshdeepSingh,4.0,0,39,0,9.75,10,6,1,1,0
+T201181,Punjab Kings Vs KKR,Punjab Kings,NathanEllis,4.0,0,29,1,7.25,7,2,1,0,0
+T201181,Punjab Kings Vs KKR,Punjab Kings,SamCurran,3.0,0,44,0,14.66,5,5,3,1,0
+T201181,Punjab Kings Vs KKR,Punjab Kings,LiamLivingstone,2.0,0,27,0,13.5,2,4,1,0,0
+T201181,Punjab Kings Vs KKR,Punjab Kings,HarpreetBrar,1.0,0,4,1,4.0,2,0,0,0,0
+T201181,Punjab Kings Vs KKR,Punjab Kings,RahulChahar,4.0,0,23,2,5.75,8,1,0,1,0
+T201576,Royals Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,44,1,11.0,7,6,1,2,0
+T201576,Royals Vs Sunrisers,Sunrisers,MarcoJansen,4.0,0,44,1,11.0,5,6,1,1,0
+T201576,Royals Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,36,0,9.0,8,4,1,1,0
+T201576,Royals Vs Sunrisers,Sunrisers,MayankMarkande,4.0,0,51,0,12.75,7,1,6,0,0
+T201576,Royals Vs Sunrisers,Sunrisers,AbhishekSharma,2.0,0,15,0,7.5,5,1,1,0,0
+T201576,Royals Vs Sunrisers,Sunrisers,VivrantSharma,2.0,0,18,0,9.0,4,1,1,1,0
+T201576,Royals Vs Sunrisers,Royals,SandeepSharma,4.0,0,48,0,12.0,5,5,2,0,1
+T201576,Royals Vs Sunrisers,Royals,KuldipYadav,4.0,0,50,1,12.5,5,2,4,0,0
+T201576,Royals Vs Sunrisers,Royals,RavichandranAshwin,4.0,0,35,1,8.75,5,2,1,3,0
+T201576,Royals Vs Sunrisers,Royals,YuzvendraChahal,4.0,0,29,4,7.25,11,3,1,0,0
+T201576,Royals Vs Sunrisers,Royals,MuruganAshwin,3.0,0,42,0,14.0,3,2,4,0,0
+T201576,Royals Vs Sunrisers,Royals,ObedMcCoy,1.0,0,13,0,13.0,2,1,1,1,0
+T201503,Titans Vs Super Giants,Super Giants,MohsinKhan,3.0,0,42,1,14.0,4,5,2,2,0
+T201503,Titans Vs Super Giants,Super Giants,AveshKhan,4.0,0,34,1,8.5,8,2,2,0,0
+T201503,Titans Vs Super Giants,Super Giants,KrunalPandya,4.0,0,38,0,9.5,5,2,2,0,0
+T201503,Titans Vs Super Giants,Super Giants,YashThakur,4.0,0,48,0,12.0,4,2,4,1,0
+T201503,Titans Vs Super Giants,Super Giants,RaviBishnoi,2.0,0,21,0,10.5,2,0,2,1,0
+T201503,Titans Vs Super Giants,Super Giants,KyleMayers,1.0,0,16,0,16.0,1,3,0,0,1
+T201503,Titans Vs Super Giants,Super Giants,SwapnilSingh,1.0,0,7,0,7.0,1,0,0,0,0
+T201503,Titans Vs Super Giants,Super Giants,MarcusStoinis,1.0,0,20,0,20.0,0,1,2,0,0
+T201503,Titans Vs Super Giants,Titans,MohammedShami,4.0,0,37,1,9.25,9,3,2,1,0
+T201503,Titans Vs Super Giants,Titans,HardikPandya,3.0,0,37,0,12.33,6,6,1,2,0
+T201503,Titans Vs Super Giants,Titans,RashidKhan,4.0,0,34,1,8.5,6,1,2,0,0
+T201503,Titans Vs Super Giants,Titans,NoorAhmad,4.0,0,26,1,6.5,11,4,0,1,0
+T201503,Titans Vs Super Giants,Titans,MohitSharma,4.0,0,29,4,7.25,9,1,2,1,0
+T201503,Titans Vs Super Giants,Titans,AlzarriJoseph,1.0,0,5,0,5.0,4,1,0,0,0
+T208517,RCB Vs Capitals,Capitals,KhaleelAhmed,4.0,0,45,1,11.25,7,3,3,1,0
+T208517,RCB Vs Capitals,Capitals,AxarPatel,3.0,0,17,0,5.66,7,2,0,0,0
+T208517,RCB Vs Capitals,Capitals,IshantSharma,3.0,0,29,0,9.66,5,4,0,2,0
+T208517,RCB Vs Capitals,Capitals,MukeshKumar,3.0,0,30,1,10.0,6,5,0,1,0
+T208517,RCB Vs Capitals,Capitals,MitchellMarsh,3.0,0,21,2,7.0,3,0,1,1,0
+T208517,RCB Vs Capitals,Capitals,KuldeepYadav,4.0,0,37,0,9.25,5,2,2,0,0
+T208517,RCB Vs Capitals,RCB,MohammedSiraj,2.0,0,28,0,14.0,4,3,2,1,0
+T208517,RCB Vs Capitals,RCB,GlennMaxwell,1.4,0,14,0,8.4,4,1,1,0,0
+T208517,RCB Vs Capitals,RCB,JoshHazlewood,3.0,0,29,1,9.66,9,2,2,0,1
+T208517,RCB Vs Capitals,RCB,WaninduHasaranga,4.0,0,32,0,8.0,9,2,2,0,0
+T208517,RCB Vs Capitals,RCB,KarnSharma,3.0,0,33,1,11.0,4,4,1,0,0
+T208517,RCB Vs Capitals,RCB,MahipalLomror,1.0,0,13,0,13.0,1,1,1,0,0
+T208517,RCB Vs Capitals,RCB,HarshalPatel,2.0,0,32,1,16.0,4,2,3,1,0
+T204004,Mumbai Vs Super Kings,Super Kings,DeepakChahar,3.0,0,18,2,6.0,10,3,0,0,0
+T204004,Mumbai Vs Super Kings,Super Kings,TusharDeshpande,4.0,0,26,2,6.5,9,2,0,1,0
+T204004,Mumbai Vs Super Kings,Super Kings,RavindraJadeja,4.0,0,37,1,9.25,5,5,0,1,0
+T204004,Mumbai Vs Super Kings,Super Kings,MoeenAli,1.0,0,10,0,10.0,2,2,0,0,0
+T204004,Mumbai Vs Super Kings,Super Kings,MaheeshTheekshana,4.0,0,28,0,7.0,11,3,1,0,0
+T204004,Mumbai Vs Super Kings,Super Kings,MatheeshaPathirana,4.0,0,15,3,3.75,12,0,0,0,0
+T204004,Mumbai Vs Super Kings,Mumbai,CameronGreen,1.0,0,10,0,10.0,4,2,0,1,1
+T204004,Mumbai Vs Super Kings,Mumbai,JofraArcher,4.0,0,24,0,6.0,11,3,0,1,0
+T204004,Mumbai Vs Super Kings,Mumbai,ArshadKhan,1.4,0,28,0,16.8,3,2,3,0,0
+T204004,Mumbai Vs Super Kings,Mumbai,PiyushChawla,4.0,0,25,2,6.25,8,1,1,0,0
+T204004,Mumbai Vs Super Kings,Mumbai,RaghavGoyal,4.0,0,33,0,8.25,7,1,2,0,0
+T204004,Mumbai Vs Super Kings,Mumbai,TristanStubbs,2.0,0,14,1,7.0,3,0,1,0,0
+T204004,Mumbai Vs Super Kings,Mumbai,AkashMadhwal,1.0,0,4,1,4.0,2,0,0,0,0
+T206195,Royals Vs Titans,Titans,MohammedShami,4.0,0,27,1,6.75,13,2,1,2,0
+T206195,Royals Vs Titans,Titans,HardikPandya,2.0,0,22,1,11.0,4,3,1,0,0
+T206195,Royals Vs Titans,Titans,RashidKhan,4.0,0,14,3,3.5,13,0,0,2,0
+T206195,Royals Vs Titans,Titans,JoshLittle,4.0,0,24,1,6.0,7,2,0,0,0
+T206195,Royals Vs Titans,Titans,NoorAhmad,3.0,0,25,2,8.33,7,2,1,3,0
+T206195,Royals Vs Titans,Titans,MohitSharma,0.5,0,5,0,6.0,0,0,0,0,0
+T206195,Royals Vs Titans,Royals,TrentBoult,3.0,0,28,0,9.33,8,6,0,0,0
+T206195,Royals Vs Titans,Royals,SandeepSharma,3.0,0,19,0,6.33,9,3,0,0,1
+T206195,Royals Vs Titans,Royals,AdamZampa,3.0,0,40,0,13.33,3,3,3,0,0
+T206195,Royals Vs Titans,Royals,YuzvendraChahal,3.5,0,22,1,5.73,7,1,0,0,0
+T206195,Royals Vs Titans,Royals,RavichandranAshwin,1.0,0,8,0,8.0,1,1,0,0,0
+T208611,KKR Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,33,1,8.25,12,6,0,1,0
+T208611,KKR Vs Sunrisers,Sunrisers,MarcoJansen,3.0,0,24,2,8.0,7,3,0,0,1
+T208611,KKR Vs Sunrisers,Sunrisers,KartikTyagi,2.0,0,30,1,15.0,5,3,2,2,1
+T208611,KKR Vs Sunrisers,Sunrisers,AidenMarkram,3.0,0,24,1,8.0,5,2,1,0,0
+T208611,KKR Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,30,2,7.5,9,1,1,2,0
+T208611,KKR Vs Sunrisers,Sunrisers,MayankMarkande,4.0,0,29,1,7.25,8,1,2,0,0
+T208611,KKR Vs Sunrisers,KKR,HarshitRana,4.0,0,27,1,6.75,13,1,2,2,0
+T208611,KKR Vs Sunrisers,KKR,VaibhavArora,3.0,0,32,2,10.66,6,5,0,1,2
+T208611,KKR Vs Sunrisers,KKR,ShardulThakur,3.0,0,23,2,7.66,6,3,0,0,0
+T208611,KKR Vs Sunrisers,KKR,AndreRussell,1.0,0,15,1,15.0,4,2,1,0,1
+T208611,KKR Vs Sunrisers,KKR,AnukulRoy,3.0,0,26,1,8.66,6,1,2,1,0
+T208611,KKR Vs Sunrisers,KKR,SunilNarine,2.0,0,16,0,8.0,1,1,0,0,0
+T208611,KKR Vs Sunrisers,KKR,VarunChakravarthy,4.0,0,20,1,5.0,12,2,0,0,0
+T205138,Punjab Kings Vs Mumbai,Mumbai,CameronGreen,2.0,0,15,0,7.5,7,2,0,0,0
+T205138,Punjab Kings Vs Mumbai,Mumbai,ArshadKhan,4.0,0,48,1,12.0,9,7,2,1,0
+T205138,Punjab Kings Vs Mumbai,Mumbai,JofraArcher,4.0,0,56,0,14.0,4,4,3,2,1
+T205138,Punjab Kings Vs Mumbai,Mumbai,PiyushChawla,4.0,0,29,2,7.25,7,4,0,0,0
+T205138,Punjab Kings Vs Mumbai,Mumbai,KumarKartikeya,3.0,0,24,0,8.0,3,0,1,3,0
+T205138,Punjab Kings Vs Mumbai,Mumbai,AkashMadhwal,3.0,0,37,0,12.33,1,3,1,0,1
+T205138,Punjab Kings Vs Mumbai,Punjab Kings,RishiDhawan,3.0,0,20,1,6.66,11,1,2,0,0
+T205138,Punjab Kings Vs Mumbai,Punjab Kings,ArshdeepSingh,3.5,0,66,1,17.21,4,8,4,2,0
+T205138,Punjab Kings Vs Mumbai,Punjab Kings,SamCurran,3.0,0,41,0,13.66,3,5,2,1,0
+T205138,Punjab Kings Vs Mumbai,Punjab Kings,NathanEllis,4.0,0,34,2,8.5,4,3,0,0,0
+T205138,Punjab Kings Vs Mumbai,Punjab Kings,RahulChahar,3.0,0,30,0,10.0,5,5,0,0,0
+T205138,Punjab Kings Vs Mumbai,Punjab Kings,HarpreetBrar,2.0,0,21,0,10.5,1,1,1,0,0
+T203464,Capitals Vs Titans,Titans,MohammedShami,4.0,0,11,4,2.75,19,1,0,0,0
+T203464,Capitals Vs Titans,Titans,HardikPandya,1.0,0,10,0,10.0,3,2,0,0,1
+T203464,Capitals Vs Titans,Titans,JoshLittle,3.0,0,27,0,9.0,6,4,0,0,0
+T203464,Capitals Vs Titans,Titans,RashidKhan,4.0,0,28,1,7.0,12,0,3,1,0
+T203464,Capitals Vs Titans,Titans,NoorAhmad,4.0,0,20,0,5.0,11,1,0,2,0
+T203464,Capitals Vs Titans,Titans,MohitSharma,4.0,0,33,2,8.25,7,1,2,0,0
+T203464,Capitals Vs Titans,Capitals,KhaleelAhmed,4.0,1,24,2,6.0,12,4,0,0,0
+T203464,Capitals Vs Titans,Capitals,IshantSharma,4.0,0,23,2,5.75,12,2,0,1,0
+T203464,Capitals Vs Titans,Capitals,AnrichNortje,4.0,0,39,1,9.75,11,2,3,2,0
+T203464,Capitals Vs Titans,Capitals,KuldeepYadav,4.0,0,15,1,3.75,9,0,0,0,0
+T203464,Capitals Vs Titans,Capitals,AxarPatel,4.0,0,24,0,6.0,10,1,1,1,0
+T203494,RCB Vs Super Giants,Super Giants,KrunalPandya,4.0,0,21,0,5.25,8,1,0,0,0
+T203494,RCB Vs Super Giants,Super Giants,MarcusStoinis,1.0,0,11,0,11.0,0,1,0,0,0
+T203494,RCB Vs Super Giants,Super Giants,Naveen-ul-Haq,4.0,0,30,3,7.5,8,3,1,0,0
+T203494,RCB Vs Super Giants,Super Giants,RaviBishnoi,4.0,0,21,2,5.25,7,0,0,0,0
+T203494,RCB Vs Super Giants,Super Giants,AmitMishra,3.0,0,21,2,7.0,4,0,1,0,0
+T203494,RCB Vs Super Giants,Super Giants,YashThakur,2.0,0,12,0,6.0,6,1,0,2,0
+T203494,RCB Vs Super Giants,Super Giants,KrishnappaGowtham,2.0,0,10,1,5.0,5,0,0,0,0
+T203494,RCB Vs Super Giants,RCB,MohammedSiraj,3.0,0,24,1,8.0,11,4,0,3,1
+T203494,RCB Vs Super Giants,RCB,JoshHazlewood,3.0,0,15,2,5.0,13,1,1,0,1
+T203494,RCB Vs Super Giants,RCB,GlennMaxwell,1.0,0,3,1,3.0,3,0,0,0,0
+T203494,RCB Vs Super Giants,RCB,WaninduHasaranga,4.0,0,20,1,5.0,14,0,2,0,0
+T203494,RCB Vs Super Giants,RCB,KarnSharma,4.0,0,20,2,5.0,12,1,1,0,0
+T203494,RCB Vs Super Giants,RCB,HarshalPatel,3.5,0,20,1,5.21,9,2,0,0,0
+T203494,RCB Vs Super Giants,RCB,MahipalLomror,1.0,0,4,0,4.0,2,0,0,0,0
+T204100,Royals Vs Mumbai,Mumbai,CameronGreen,3.0,0,31,0,10.33,10,2,2,4,0
+T204100,Royals Vs Mumbai,Mumbai,JofraArcher,4.0,0,35,1,8.75,16,2,3,3,1
+T204100,Royals Vs Mumbai,Mumbai,RileyMeredith,4.0,0,51,1,12.75,7,9,1,2,0
+T204100,Royals Vs Mumbai,Mumbai,PiyushChawla,4.0,0,34,2,8.5,11,2,3,0,0
+T204100,Royals Vs Mumbai,Mumbai,KumarKartikeya,2.0,0,14,0,7.0,6,1,1,0,0
+T204100,Royals Vs Mumbai,Mumbai,ArshadKhan,3.0,0,39,3,13.0,5,4,2,3,0
+T204100,Royals Vs Mumbai,Royals,TrentBoult,4.0,0,43,1,10.75,8,7,0,2,0
+T204100,Royals Vs Mumbai,Royals,SandeepSharma,4.0,0,35,1,8.75,5,3,1,2,0
+T204100,Royals Vs Mumbai,Royals,RavichandranAshwin,4.0,0,27,2,6.75,8,0,2,1,0
+T204100,Royals Vs Mumbai,Royals,YuzvendraChahal,3.0,0,32,0,10.66,5,3,2,0,0
+T204100,Royals Vs Mumbai,Royals,JasonHolder,3.3,0,55,0,15.71,4,5,4,2,0
+T204100,Royals Vs Mumbai,Royals,KuldeepSen,1.0,0,20,0,20.0,2,3,1,0,1
+T204443,Super Kings Vs Punjab Kings,Punjab Kings,ArshdeepSingh,4.0,0,37,1,9.25,8,5,0,3,0
+T204443,Super Kings Vs Punjab Kings,Punjab Kings,KagisoRabada,4.0,0,34,0,8.5,8,4,1,1,0
+T204443,Super Kings Vs Punjab Kings,Punjab Kings,SamCurran,4.0,0,46,1,11.5,7,5,2,3,0
+T204443,Super Kings Vs Punjab Kings,Punjab Kings,RahulChahar,4.0,0,35,1,8.75,7,2,2,0,0
+T204443,Super Kings Vs Punjab Kings,Punjab Kings,SikandarRaza,3.0,0,31,1,10.33,6,4,1,0,0
+T204443,Super Kings Vs Punjab Kings,Punjab Kings,LiamLivingstone,1.0,0,16,0,16.0,0,3,0,0,0
+T204443,Super Kings Vs Punjab Kings,Super Kings,AkashSingh,3.0,0,35,0,11.66,4,3,2,1,0
+T204443,Super Kings Vs Punjab Kings,Super Kings,TusharDeshpande,4.0,0,49,3,12.25,10,3,4,2,0
+T204443,Super Kings Vs Punjab Kings,Super Kings,MaheeshTheekshana,4.0,0,36,0,9.0,5,4,0,1,0
+T204443,Super Kings Vs Punjab Kings,Super Kings,RavindraJadeja,4.0,0,32,2,8.0,8,1,2,0,0
+T204443,Super Kings Vs Punjab Kings,Super Kings,MoeenAli,1.0,0,10,0,10.0,2,0,1,0,0
+T204443,Super Kings Vs Punjab Kings,Super Kings,MatheeshaPathirana,4.0,0,32,1,8.0,6,2,0,1,0
+T207344,Sunrisers Vs Capitals,Capitals,IshantSharma,3.0,0,31,1,10.33,9,7,0,0,0
+T207344,Sunrisers Vs Capitals,Capitals,AnrichNortje,4.0,0,44,0,11.0,4,4,1,2,0
+T207344,Sunrisers Vs Capitals,Capitals,MukeshKumar,2.0,0,38,0,19.0,2,4,2,2,1
+T207344,Sunrisers Vs Capitals,Capitals,MitchellMarsh,4.0,1,27,4,6.75,12,1,2,2,0
+T207344,Sunrisers Vs Capitals,Capitals,KuldeepYadav,3.0,0,27,0,9.0,4,1,2,0,0
+T207344,Sunrisers Vs Capitals,Capitals,AxarPatel,4.0,0,29,1,7.25,7,0,2,2,0
+T207344,Sunrisers Vs Capitals,Sunrisers,BhuvneshwarKumar,4.0,0,45,1,11.25,5,3,2,3,0
+T207344,Sunrisers Vs Capitals,Sunrisers,AkealHosein,4.0,0,40,1,10.0,6,4,2,0,0
+T207344,Sunrisers Vs Capitals,Sunrisers,TNatarajan,4.0,0,34,1,8.5,4,2,1,0,0
+T207344,Sunrisers Vs Capitals,Sunrisers,UmranMalik,1.0,0,22,0,22.0,0,2,2,0,0
+T207344,Sunrisers Vs Capitals,Sunrisers,MayankMarkande,4.0,0,20,2,5.0,7,1,0,0,0
+T207344,Sunrisers Vs Capitals,Sunrisers,AbhishekSharma,3.0,0,26,1,8.66,5,2,1,0,0
+T201505,KKR Vs Titans,Titans,MohammedShami,4.0,0,33,3,8.25,12,3,2,0,0
+T201505,KKR Vs Titans,Titans,HardikPandya,3.0,0,34,0,11.33,9,3,3,1,0
+T201505,KKR Vs Titans,Titans,RashidKhan,4.0,0,54,0,13.5,3,3,4,1,0
+T201505,KKR Vs Titans,Titans,JoshLittle,4.0,0,25,2,6.25,12,2,1,0,0
+T201505,KKR Vs Titans,Titans,NoorAhmad,4.0,0,21,2,5.25,12,1,1,1,0
+T201505,KKR Vs Titans,Titans,MohitSharma,1.0,0,12,0,12.0,1,0,1,0,0
+T201505,KKR Vs Titans,KKR,HarshitRana,3.0,0,25,1,8.33,6,4,0,1,0
+T201505,KKR Vs Titans,KKR,AndreRussell,3.0,0,29,1,9.66,6,3,1,1,0
+T201505,KKR Vs Titans,KKR,VarunChakravarthy,4.0,0,42,0,10.5,7,3,3,0,0
+T201505,KKR Vs Titans,KKR,SuyashSharma,4.0,0,37,0,9.25,7,3,2,0,0
+T201505,KKR Vs Titans,KKR,SunilNarine,3.0,0,24,1,8.0,3,1,1,0,0
+T201505,KKR Vs Titans,KKR,NitishRana,0.5,0,14,0,16.8,0,1,1,1,0
+T204958,Super Giants Vs Punjab Kings,Punjab Kings,GurnoorBrar,3.0,0,42,0,14.0,7,4,3,1,2
+T204958,Super Giants Vs Punjab Kings,Punjab Kings,ArshdeepSingh,4.0,0,54,1,13.5,4,10,0,2,0
+T204958,Super Giants Vs Punjab Kings,Punjab Kings,KagisoRabada,4.0,0,52,2,13.0,12,3,5,2,2
+T204958,Super Giants Vs Punjab Kings,Punjab Kings,SikandarRaza,1.0,0,17,0,17.0,2,1,2,0,0
+T204958,Super Giants Vs Punjab Kings,Punjab Kings,RahulChahar,4.0,0,29,0,7.25,8,2,1,0,0
+T204958,Super Giants Vs Punjab Kings,Punjab Kings,SamCurran,3.0,0,38,1,12.66,5,4,2,0,0
+T204958,Super Giants Vs Punjab Kings,Punjab Kings,LiamLivingstone,1.0,0,19,1,19.0,1,3,1,0,0
+T204958,Super Giants Vs Punjab Kings,Super Giants,MarcusStoinis,1.5,0,21,1,11.45,5,2,1,4,0
+T204958,Super Giants Vs Punjab Kings,Super Giants,KyleMayers,1.0,0,4,0,4.0,5,1,0,0,0
+T204958,Super Giants Vs Punjab Kings,Super Giants,AyushBadoni,0.1,0,0,0,0.0,1,0,0,0,0
+T204958,Super Giants Vs Punjab Kings,Super Giants,Naveen-ul-Haq,4.0,0,30,3,7.5,11,2,0,1,1
+T204958,Super Giants Vs Punjab Kings,Super Giants,AveshKhan,2.0,0,28,0,14.0,1,3,1,0,0
+T204958,Super Giants Vs Punjab Kings,Super Giants,AmitMishra,2.0,0,23,0,11.5,1,2,1,0,0
+T204958,Super Giants Vs Punjab Kings,Super Giants,RaviBishnoi,4.0,0,41,2,10.25,9,4,2,0,1
+T204958,Super Giants Vs Punjab Kings,Super Giants,YashThakur,3.5,0,37,4,9.65,9,3,2,1,0
+T204958,Super Giants Vs Punjab Kings,Super Giants,KrunalPandya,1.0,0,13,0,13.0,2,1,1,1,0
+T204283,Royals Vs Super Kings,Super Kings,AkashSingh,2.0,0,32,0,16.0,3,6,1,0,0
+T204283,Royals Vs Super Kings,Super Kings,TusharDeshpande,4.0,0,42,2,10.5,10,5,2,0,0
+T204283,Royals Vs Super Kings,Super Kings,MaheeshTheekshana,4.0,0,24,1,6.0,11,3,0,1,0
+T204283,Royals Vs Super Kings,Super Kings,RavindraJadeja,4.0,0,32,1,8.0,6,2,1,1,0
+T204283,Royals Vs Super Kings,Super Kings,MoeenAli,2.0,0,17,0,8.5,2,0,1,0,0
+T204283,Royals Vs Super Kings,Super Kings,MatheeshaPathirana,4.0,0,48,0,12.0,5,5,1,2,0
+T204283,Royals Vs Super Kings,Royals,SandeepSharma,4.0,0,24,0,6.0,10,3,0,0,0
+T204283,Royals Vs Super Kings,Royals,KuldipYadav,3.0,0,18,1,6.0,4,1,0,0,0
+T204283,Royals Vs Super Kings,Royals,JasonHolder,4.0,0,49,0,12.25,4,4,3,1,0
+T204283,Royals Vs Super Kings,Royals,RavichandranAshwin,4.0,0,35,2,8.75,7,1,2,0,0
+T204283,Royals Vs Super Kings,Royals,AdamZampa,3.0,0,22,3,7.33,7,2,1,0,0
+T204283,Royals Vs Super Kings,Royals,YuzvendraChahal,2.0,0,21,0,10.5,3,2,1,0,0
+T202291,KKR Vs RCB,RCB,MohammedSiraj,4.0,0,33,1,8.25,11,5,1,0,0
+T202291,KKR Vs RCB,RCB,DavidWilley,3.0,0,31,0,10.33,5,4,1,1,0
+T202291,KKR Vs RCB,RCB,WaninduHasaranga,4.0,0,24,2,6.0,10,3,0,0,0
+T202291,KKR Vs RCB,RCB,ShahbazAhmed,1.0,0,25,0,25.0,1,0,4,0,0
+T202291,KKR Vs RCB,RCB,VijaykumarVyshak,4.0,0,41,2,10.25,3,2,2,3,0
+T202291,KKR Vs RCB,RCB,HarshalPatel,4.0,0,44,0,11.0,7,2,4,1,0
+T202291,KKR Vs RCB,KKR,VaibhavArora,2.0,0,22,0,11.0,3,3,0,1,0
+T202291,KKR Vs RCB,KKR,UmeshYadav,1.0,0,19,0,19.0,0,1,2,0,0
+T202291,KKR Vs RCB,KKR,SuyashSharma,4.0,0,30,2,7.5,5,3,0,1,0
+T202291,KKR Vs RCB,KKR,VarunChakravarthy,4.0,0,27,3,6.75,9,2,1,0,0
+T202291,KKR Vs RCB,KKR,AndreRussell,4.0,0,29,2,7.25,11,1,2,0,0
+T202291,KKR Vs RCB,KKR,SunilNarine,4.0,0,41,0,10.25,2,1,2,0,0
+T202291,KKR Vs RCB,KKR,NitishRana,1.0,0,8,0,8.0,1,1,0,0,0
+T208781,Titans Vs Mumbai,Mumbai,ArjunTendulkar,2.0,0,9,1,4.5,7,0,0,0,0
+T208781,Titans Vs Mumbai,Mumbai,JasonBehrendorff,4.0,0,37,1,9.25,8,2,2,2,0
+T208781,Titans Vs Mumbai,Mumbai,RileyMeredith,4.0,0,49,1,12.25,6,4,3,2,0
+T208781,Titans Vs Mumbai,Mumbai,CameronGreen,2.0,0,39,0,19.5,0,2,4,0,0
+T208781,Titans Vs Mumbai,Mumbai,PiyushChawla,4.0,0,34,2,8.5,7,3,1,1,0
+T208781,Titans Vs Mumbai,Mumbai,KumarKartikeya,4.0,0,39,1,9.75,7,3,2,0,0
+T208781,Titans Vs Mumbai,Titans,MohammedShami,4.0,0,18,0,4.5,14,2,0,1,0
+T208781,Titans Vs Mumbai,Titans,HardikPandya,2.0,0,10,1,5.0,8,0,1,0,0
+T208781,Titans Vs Mumbai,Titans,RashidKhan,4.0,0,27,2,6.75,10,2,1,0,0
+T208781,Titans Vs Mumbai,Titans,NoorAhmad,4.0,0,37,3,9.25,10,2,3,0,0
+T208781,Titans Vs Mumbai,Titans,MohitSharma,4.0,0,38,2,9.5,7,1,3,0,0
+T208781,Titans Vs Mumbai,Titans,JoshLittle,2.0,0,18,0,9.0,2,1,1,0,0
+T206316,Capitals Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,11,2,2.75,16,1,0,0,0
+T206316,Capitals Vs Sunrisers,Sunrisers,MarcoJansen,2.0,0,27,0,13.5,4,4,1,0,0
+T206316,Capitals Vs Sunrisers,Sunrisers,WashingtonSundar,4.0,0,28,3,7.0,10,2,1,0,0
+T206316,Capitals Vs Sunrisers,Sunrisers,TNatarajan,3.0,0,21,1,7.0,3,2,0,0,0
+T206316,Capitals Vs Sunrisers,Sunrisers,MayankMarkande,4.0,0,34,0,8.5,7,4,0,1,0
+T206316,Capitals Vs Sunrisers,Sunrisers,UmranMalik,2.0,0,14,0,7.0,4,2,0,0,0
+T206316,Capitals Vs Sunrisers,Sunrisers,AidenMarkram,1.0,0,7,0,7.0,0,0,0,0,0
+T206316,Capitals Vs Sunrisers,Capitals,IshantSharma,3.0,0,18,1,6.0,8,2,0,0,0
+T206316,Capitals Vs Sunrisers,Capitals,AnrichNortje,4.0,0,33,2,8.25,10,4,1,0,0
+T206316,Capitals Vs Sunrisers,Capitals,MukeshKumar,3.0,0,27,0,9.0,4,4,0,0,0
+T206316,Capitals Vs Sunrisers,Capitals,AxarPatel,4.0,0,21,2,5.25,8,1,0,0,0
+T206316,Capitals Vs Sunrisers,Capitals,KuldeepYadav,4.0,0,22,1,5.5,6,1,0,0,0
+T206316,Capitals Vs Sunrisers,Capitals,MitchellMarsh,2.0,0,16,0,8.0,3,1,0,0,1
+T207135,Super Kings Vs KKR,KKR,UmeshYadav,3.0,0,35,0,11.66,7,3,3,0,0
+T207135,Super Kings Vs KKR,KKR,DavidWiese,3.0,0,38,0,12.66,3,3,2,0,0
+T207135,Super Kings Vs KKR,KKR,VarunChakravarthy,4.0,0,49,1,12.25,8,2,5,0,0
+T207135,Super Kings Vs KKR,KKR,KulwantKhejroliya,3.0,0,44,2,14.66,5,2,4,0,1
+T207135,Super Kings Vs KKR,KKR,SunilNarine,2.0,0,23,0,11.5,3,1,2,0,0
+T207135,Super Kings Vs KKR,KKR,SuyashSharma,4.0,0,29,1,7.25,8,2,1,0,0
+T207135,Super Kings Vs KKR,KKR,AndreRussell,1.0,0,17,0,17.0,0,1,1,2,0
+T207135,Super Kings Vs KKR,Super Kings,AkashSingh,4.0,0,29,1,7.25,13,4,1,1,0
+T207135,Super Kings Vs KKR,Super Kings,TusharDeshpande,4.0,0,43,2,10.75,12,3,3,4,0
+T207135,Super Kings Vs KKR,Super Kings,MaheeshTheekshana,4.0,0,32,2,8.0,8,3,1,1,0
+T207135,Super Kings Vs KKR,Super Kings,MoeenAli,1.0,0,20,1,20.0,1,0,3,0,0
+T207135,Super Kings Vs KKR,Super Kings,RavindraJadeja,3.0,0,34,1,11.33,5,2,3,0,0
+T207135,Super Kings Vs KKR,Super Kings,MatheeshaPathirana,4.0,0,27,1,6.75,11,2,1,3,0
+T205220,RCB Vs Royals,Royals,TrentBoult,4.0,0,41,2,10.25,8,6,0,1,0
+T205220,RCB Vs Royals,Royals,SandeepSharma,4.0,0,49,2,12.25,9,7,2,1,0
+T205220,RCB Vs Royals,Royals,RavichandranAshwin,4.0,0,36,1,9.0,7,2,2,1,0
+T205220,RCB Vs Royals,Royals,YuzvendraChahal,4.0,0,28,1,7.0,7,0,1,2,0
+T205220,RCB Vs Royals,Royals,JasonHolder,4.0,0,32,0,8.0,6,3,1,0,0
+T205220,RCB Vs Royals,RCB,MohammedSiraj,4.0,0,39,1,9.75,8,4,1,3,0
+T205220,RCB Vs Royals,RCB,DavidWilley,4.0,0,26,1,6.5,11,2,1,1,0
+T205220,RCB Vs Royals,RCB,VijaykumarVyshak,2.0,0,24,0,12.0,4,5,0,1,0
+T205220,RCB Vs Royals,RCB,GlennMaxwell,2.0,0,25,0,12.5,3,2,2,0,0
+T205220,RCB Vs Royals,RCB,HarshalPatel,4.0,0,32,3,8.0,8,3,1,1,0
+T205220,RCB Vs Royals,RCB,WaninduHasaranga,4.0,0,32,0,8.0,5,2,1,0,0
+T204462,Punjab Kings Vs Mumbai,Mumbai,ArjunTendulkar,3.0,0,48,1,16.0,4,6,2,4,1
+T204462,Punjab Kings Vs Mumbai,Mumbai,JasonBehrendorff,3.0,0,41,1,13.66,6,2,4,1,0
+T204462,Punjab Kings Vs Mumbai,Mumbai,CameronGreen,4.0,0,41,2,10.25,9,2,4,0,0
+T204462,Punjab Kings Vs Mumbai,Mumbai,JofraArcher,4.0,0,42,1,10.5,8,3,3,1,0
+T204462,Punjab Kings Vs Mumbai,Mumbai,PiyushChawla,3.0,0,15,2,5.0,12,2,0,1,0
+T204462,Punjab Kings Vs Mumbai,Mumbai,HrithikShokeen,3.0,0,24,0,8.0,7,1,1,0,1
+T204462,Punjab Kings Vs Mumbai,Punjab Kings,MatthewShort,1.0,0,7,0,7.0,3,1,0,1,0
+T204462,Punjab Kings Vs Mumbai,Punjab Kings,ArshdeepSingh,4.0,0,29,4,7.25,12,2,2,1,0
+T204462,Punjab Kings Vs Mumbai,Punjab Kings,HarpreetBrar,2.0,0,15,0,7.5,5,1,1,0,0
+T204462,Punjab Kings Vs Mumbai,Punjab Kings,SamCurran,3.0,0,41,0,13.66,2,3,3,1,0
+T204462,Punjab Kings Vs Mumbai,Punjab Kings,NathanEllis,4.0,0,44,1,11.0,5,2,3,0,0
+T204462,Punjab Kings Vs Mumbai,Punjab Kings,RahulChahar,4.0,0,42,0,10.5,4,4,2,0,0
+T204462,Punjab Kings Vs Mumbai,Punjab Kings,LiamLivingstone,2.0,0,23,1,11.5,2,4,0,0,0
+T208595,Titans Vs Super Giants,Super Giants,Naveen-ul-Haq,4.0,0,19,1,4.75,12,1,0,0,0
+T208595,Titans Vs Super Giants,Super Giants,KrunalPandya,4.0,0,16,2,4.0,13,1,0,0,0
+T208595,Titans Vs Super Giants,Super Giants,AveshKhan,3.0,0,21,0,7.0,6,2,0,0,0
+T208595,Titans Vs Super Giants,Super Giants,RaviBishnoi,4.0,0,49,0,12.25,4,4,3,0,0
+T208595,Titans Vs Super Giants,Super Giants,MarcusStoinis,3.0,0,20,2,6.66,7,1,1,0,0
+T208595,Titans Vs Super Giants,Super Giants,AmitMishra,2.0,0,9,1,4.5,4,0,0,0,0
+T208595,Titans Vs Super Giants,Titans,MohammedShami,3.0,1,18,0,6.0,9,3,0,0,0
+T208595,Titans Vs Super Giants,Titans,JayantYadav,4.0,0,26,0,6.5,8,2,0,0,0
+T208595,Titans Vs Super Giants,Titans,RashidKhan,4.0,0,33,1,8.25,9,4,1,0,0
+T208595,Titans Vs Super Giants,Titans,MohitSharma,3.0,0,17,2,5.66,5,1,0,0,0
+T208595,Titans Vs Super Giants,Titans,NoorAhmad,4.0,0,18,2,4.5,13,1,0,0,0
+T208595,Titans Vs Super Giants,Titans,HardikPandya,1.0,0,7,0,7.0,2,1,0,0,0
+T208595,Titans Vs Super Giants,Titans,RahulTewatia,1.0,0,8,0,8.0,4,0,1,1,0
+T208568,Sunrisers Vs Super Kings,Super Kings,AkashSingh,3.0,0,17,1,5.66,10,1,1,0,0
+T208568,Sunrisers Vs Super Kings,Super Kings,TusharDeshpande,3.0,0,26,0,8.66,7,4,0,1,0
+T208568,Sunrisers Vs Super Kings,Super Kings,MaheeshTheekshana,4.0,0,27,1,6.75,5,2,0,0,0
+T208568,Sunrisers Vs Super Kings,Super Kings,MoeenAli,2.0,0,18,0,9.0,2,1,1,0,0
+T208568,Sunrisers Vs Super Kings,Super Kings,RavindraJadeja,4.0,0,22,3,5.5,8,1,0,0,0
+T208568,Sunrisers Vs Super Kings,Super Kings,MatheeshaPathirana,4.0,0,22,1,5.5,9,2,0,1,0
+T208568,Sunrisers Vs Super Kings,Sunrisers,BhuvneshwarKumar,2.0,0,10,0,5.0,7,1,0,0,0
+T208568,Sunrisers Vs Super Kings,Sunrisers,MarcoJansen,3.0,0,37,0,12.33,5,6,1,0,0
+T208568,Sunrisers Vs Super Kings,Sunrisers,AidenMarkram,1.0,0,11,0,11.0,2,2,0,0,0
+T208568,Sunrisers Vs Super Kings,Sunrisers,WashingtonSundar,2.4,0,16,0,6.0,4,1,0,0,0
+T208568,Sunrisers Vs Super Kings,Sunrisers,MayankMarkande,4.0,0,23,2,5.75,8,2,0,0,0
+T208568,Sunrisers Vs Super Kings,Sunrisers,UmranMalik,3.0,0,18,0,6.0,8,2,0,0,0
+T208568,Sunrisers Vs Super Kings,Sunrisers,MayankDagar,3.0,0,21,0,7.0,5,2,0,0,0
+T206506,KKR Vs Capitals,Capitals,IshantSharma,4.0,0,19,2,4.75,13,2,0,1,0
+T206506,KKR Vs Capitals,Capitals,MukeshKumar,4.0,0,34,1,8.5,15,2,3,4,0
+T206506,KKR Vs Capitals,Capitals,AnrichNortje,4.0,0,20,2,5.0,16,3,0,2,0
+T206506,KKR Vs Capitals,Capitals,AxarPatel,3.0,0,13,2,4.33,12,2,0,0,0
+T206506,KKR Vs Capitals,Capitals,MitchellMarsh,2.0,0,25,0,12.5,2,1,2,2,0
+T206506,KKR Vs Capitals,Capitals,KuldeepYadav,3.0,0,15,2,5.0,9,0,1,1,0
+T206506,KKR Vs Capitals,KKR,UmeshYadav,1.0,0,6,0,6.0,3,1,0,0,0
+T206506,KKR Vs Capitals,KKR,KulwantKhejroliya,1.2,0,20,0,15.0,2,3,0,0,1
+T206506,KKR Vs Capitals,KKR,AndreRussell,1.0,0,12,0,12.0,3,2,0,0,1
+T206506,KKR Vs Capitals,KKR,SunilNarine,4.0,0,36,0,9.0,7,6,0,1,0
+T206506,KKR Vs Capitals,KKR,VarunChakravarthy,4.0,1,16,2,4.0,14,2,0,0,0
+T206506,KKR Vs Capitals,KKR,AnukulRoy,4.0,0,19,2,4.75,13,2,0,2,0
+T206506,KKR Vs Capitals,KKR,NitishRana,4.0,0,17,2,4.25,10,1,0,0,0
+T209410,RCB Vs Punjab Kings,Punjab Kings,ArshdeepSingh,4.0,0,34,1,8.5,8,5,0,1,0
+T209410,RCB Vs Punjab Kings,Punjab Kings,HarpreetBrar,3.0,0,31,2,10.33,7,1,3,0,0
+T209410,RCB Vs Punjab Kings,Punjab Kings,NathanEllis,4.0,0,41,1,10.25,8,2,3,1,0
+T209410,RCB Vs Punjab Kings,Punjab Kings,SamCurran,4.0,0,27,0,6.75,6,1,0,0,1
+T209410,RCB Vs Punjab Kings,Punjab Kings,RahulChahar,4.0,0,24,0,6.0,7,2,0,0,0
+T209410,RCB Vs Punjab Kings,Punjab Kings,LiamLivingstone,1.0,0,9,0,9.0,0,1,0,0,0
+T209410,RCB Vs Punjab Kings,RCB,MohammedSiraj,4.0,0,21,4,5.25,13,3,0,0,0
+T209410,RCB Vs Punjab Kings,RCB,WayneParnell,3.0,0,32,1,10.66,9,1,4,0,0
+T209410,RCB Vs Punjab Kings,RCB,WaninduHasaranga,4.0,0,39,2,9.75,7,2,3,0,0
+T209410,RCB Vs Punjab Kings,RCB,VijaykumarVyshak,3.0,0,29,0,9.66,6,2,2,1,0
+T209410,RCB Vs Punjab Kings,RCB,GlennMaxwell,1.0,0,5,0,5.0,1,0,0,0,0
+T209410,RCB Vs Punjab Kings,RCB,HarshalPatel,3.2,0,22,1,6.6,10,1,1,1,1
+T205539,Super Giants Vs Royals,Royals,TrentBoult,4.0,1,16,1,4.0,18,1,1,0,0
+T205539,Super Giants Vs Royals,Royals,SandeepSharma,4.0,0,32,1,8.0,8,4,0,0,1
+T205539,Super Giants Vs Royals,Royals,RavichandranAshwin,4.0,0,23,2,5.75,9,2,0,1,0
+T205539,Super Giants Vs Royals,Royals,YuzvendraChahal,4.0,0,41,0,10.25,5,3,2,0,0
+T205539,Super Giants Vs Royals,Royals,JasonHolder,4.0,0,38,1,9.5,7,3,2,0,0
+T205539,Super Giants Vs Royals,Super Giants,Naveen-ul-Haq,4.0,0,19,0,4.75,11,0,1,1,0
+T205539,Super Giants Vs Royals,Super Giants,YudhvirSingh,2.0,0,27,0,13.5,6,2,2,1,0
+T205539,Super Giants Vs Royals,Super Giants,AveshKhan,4.0,0,25,3,6.25,12,4,0,0,0
+T205539,Super Giants Vs Royals,Super Giants,MarcusStoinis,4.0,0,28,2,7.0,11,3,1,0,0
+T205539,Super Giants Vs Royals,Super Giants,RaviBishnoi,4.0,0,25,0,6.25,8,2,0,0,1
+T205539,Super Giants Vs Royals,Super Giants,AmitMishra,2.0,0,15,0,7.5,3,2,0,0,0
+T203831,Mumbai Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,31,1,7.75,8,1,2,0,0
+T203831,Mumbai Vs Sunrisers,Sunrisers,MarcoJansen,4.0,0,43,2,10.75,11,3,4,1,0
+T203831,Mumbai Vs Sunrisers,Sunrisers,WashingtonSundar,4.0,0,33,0,8.25,10,4,1,0,0
+T203831,Mumbai Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,50,1,12.5,3,7,1,0,0
+T203831,Mumbai Vs Sunrisers,Sunrisers,MayankMarkande,4.0,0,35,0,8.75,9,4,1,1,0
+T203831,Mumbai Vs Sunrisers,Mumbai,ArjunTendulkar,2.5,0,18,1,6.35,9,2,0,3,0
+T203831,Mumbai Vs Sunrisers,Mumbai,JasonBehrendorff,4.0,0,37,2,9.25,7,5,0,1,0
+T203831,Mumbai Vs Sunrisers,Mumbai,RileyMeredith,4.0,0,33,2,8.25,10,3,1,3,0
+T203831,Mumbai Vs Sunrisers,Mumbai,HrithikShokeen,1.0,0,12,0,12.0,1,0,1,0,0
+T203831,Mumbai Vs Sunrisers,Mumbai,PiyushChawla,4.0,0,43,2,10.75,5,4,2,0,0
+T203831,Mumbai Vs Sunrisers,Mumbai,CameronGreen,4.0,0,29,1,7.25,9,4,0,1,0
+T206232,Super Kings Vs RCB,RCB,MohammedSiraj,4.0,0,30,1,7.5,10,1,2,1,0
+T206232,Super Kings Vs RCB,RCB,WayneParnell,4.0,0,48,1,12.0,7,3,4,0,0
+T206232,Super Kings Vs RCB,RCB,VijaykumarVyshak,4.0,0,62,1,15.5,3,5,5,0,0
+T206232,Super Kings Vs RCB,RCB,GlennMaxwell,2.4,0,28,1,10.5,4,0,3,1,0
+T206232,Super Kings Vs RCB,RCB,WaninduHasaranga,2.0,0,21,1,10.5,1,1,1,0,0
+T206232,Super Kings Vs RCB,RCB,HarshalPatel,3.2,0,36,1,10.8,8,2,2,2,2
+T206232,Super Kings Vs RCB,Super Kings,AkashSingh,3.0,0,35,1,11.66,9,3,3,0,0
+T206232,Super Kings Vs RCB,Super Kings,TusharDeshpande,4.0,0,45,3,11.25,9,5,2,3,0
+T206232,Super Kings Vs RCB,Super Kings,MaheeshTheekshana,4.0,0,41,1,10.25,4,1,3,1,0
+T206232,Super Kings Vs RCB,Super Kings,RavindraJadeja,4.0,0,37,0,9.25,3,0,3,0,0
+T206232,Super Kings Vs RCB,Super Kings,MatheeshaPathirana,4.0,0,42,2,10.5,9,3,3,2,0
+T206232,Super Kings Vs RCB,Super Kings,MoeenAli,1.0,0,13,1,13.0,3,0,2,0,0
+T204210,Titans Vs Royals,Royals,TrentBoult,4.0,0,46,1,11.5,6,4,2,2,0
+T204210,Titans Vs Royals,Royals,SandeepSharma,4.0,0,25,2,6.25,10,3,0,1,0
+T204210,Titans Vs Royals,Royals,AdamZampa,4.0,0,32,1,8.0,9,2,2,0,0
+T204210,Titans Vs Royals,Royals,RavichandranAshwin,4.0,0,37,0,9.25,5,4,1,0,0
+T204210,Titans Vs Royals,Royals,YuzvendraChahal,4.0,0,36,1,9.0,3,0,2,1,0
+T204210,Titans Vs Royals,Titans,MohammedShami,4.0,1,25,3,6.25,18,1,3,1,0
+T204210,Titans Vs Royals,Titans,HardikPandya,4.0,0,24,1,6.0,14,3,1,0,0
+T204210,Titans Vs Royals,Titans,AlzarriJoseph,3.0,0,47,0,15.66,2,3,4,0,0
+T204210,Titans Vs Royals,Titans,RashidKhan,4.0,0,46,2,11.5,7,1,5,0,0
+T204210,Titans Vs Royals,Titans,MohitSharma,2.0,0,7,0,3.5,5,0,0,0,0
+T204210,Titans Vs Royals,Titans,NoorAhmad,2.2,0,29,1,12.42,3,2,2,1,0
+T202897,KKR Vs Mumbai,Mumbai,ArjunTendulkar,2.0,0,17,0,8.5,6,1,1,1,0
+T202897,KKR Vs Mumbai,Mumbai,CameronGreen,2.0,0,20,1,10.0,6,1,1,2,0
+T202897,KKR Vs Mumbai,Mumbai,DuanJansen,4.0,0,53,1,13.25,6,3,4,4,0
+T202897,KKR Vs Mumbai,Mumbai,PiyushChawla,4.0,0,19,1,4.75,10,1,0,0,0
+T202897,KKR Vs Mumbai,Mumbai,HrithikShokeen,4.0,0,34,2,8.5,7,3,1,1,0
+T202897,KKR Vs Mumbai,Mumbai,RileyMeredith,4.0,0,40,1,10.0,9,3,3,0,0
+T202897,KKR Vs Mumbai,KKR,UmeshYadav,2.0,0,19,0,9.5,6,1,2,0,0
+T202897,KKR Vs Mumbai,KKR,ShardulThakur,2.0,0,25,1,12.5,2,3,1,1,0
+T202897,KKR Vs Mumbai,KKR,SunilNarine,3.0,0,41,0,13.66,4,3,3,1,0
+T202897,KKR Vs Mumbai,KKR,SuyashSharma,4.0,0,27,2,6.75,11,3,1,0,0
+T202897,KKR Vs Mumbai,KKR,VarunChakravarthy,4.0,0,38,1,9.5,10,2,3,1,0
+T202897,KKR Vs Mumbai,KKR,LockieFerguson,1.4,0,19,1,11.4,4,1,2,0,0
+T202897,KKR Vs Mumbai,KKR,AndreRussell,1.0,0,17,0,17.0,1,2,1,0,0
+T203424,Super Giants Vs Punjab Kings,Punjab Kings,MatthewShort,2.0,0,10,0,5.0,7,0,1,0,0
+T203424,Super Giants Vs Punjab Kings,Punjab Kings,ArshdeepSingh,3.0,0,22,1,7.33,7,3,0,1,0
+T203424,Super Giants Vs Punjab Kings,Punjab Kings,KagisoRabada,4.0,0,34,2,8.5,11,2,2,2,0
+T203424,Super Giants Vs Punjab Kings,Punjab Kings,SamCurran,4.0,0,31,3,7.75,9,2,1,2,0
+T203424,Super Giants Vs Punjab Kings,Punjab Kings,HarpreetBrar,2.0,0,10,1,5.0,6,1,0,0,0
+T203424,Super Giants Vs Punjab Kings,Punjab Kings,SikandarRaza,2.0,0,19,1,9.5,2,2,0,0,1
+T203424,Super Giants Vs Punjab Kings,Punjab Kings,RahulChahar,3.0,0,28,0,9.33,5,1,2,1,0
+T203424,Super Giants Vs Punjab Kings,Super Giants,YudhvirSingh,3.0,0,19,2,6.33,11,4,0,0,0
+T203424,Super Giants Vs Punjab Kings,Super Giants,AveshKhan,3.0,0,24,0,8.0,8,4,0,1,0
+T203424,Super Giants Vs Punjab Kings,Super Giants,MarkWood,4.0,0,35,2,8.75,10,2,2,2,0
+T203424,Super Giants Vs Punjab Kings,Super Giants,KrishnappaGowtham,4.0,0,31,1,7.75,10,1,2,1,0
+T203424,Super Giants Vs Punjab Kings,Super Giants,KrunalPandya,3.0,0,32,1,10.66,6,3,2,0,0
+T203424,Super Giants Vs Punjab Kings,Super Giants,RaviBishnoi,2.3,0,18,2,7.2,7,2,0,1,0
+T208157,RCB Vs Capitals,Capitals,AnrichNortje,4.0,0,31,0,7.75,9,3,0,2,1
+T208157,RCB Vs Capitals,Capitals,AxarPatel,3.0,0,25,1,8.33,9,0,3,0,0
+T208157,RCB Vs Capitals,Capitals,MustafizurRahman,3.0,0,41,0,13.66,2,5,2,0,0
+T208157,RCB Vs Capitals,Capitals,MitchellMarsh,2.0,0,18,2,9.0,5,2,1,0,0
+T208157,RCB Vs Capitals,Capitals,LalitYadav,4.0,0,29,1,7.25,7,0,2,1,0
+T208157,RCB Vs Capitals,Capitals,KuldeepYadav,4.0,1,23,2,5.75,10,3,0,0,0
+T208157,RCB Vs Capitals,RCB,MohammedSiraj,4.0,0,23,2,5.75,14,4,0,0,0
+T208157,RCB Vs Capitals,RCB,WayneParnell,4.0,0,28,1,7.0,10,3,1,0,0
+T208157,RCB Vs Capitals,RCB,VijaykumarVyshak,4.0,0,20,3,5.0,11,2,0,0,0
+T208157,RCB Vs Capitals,RCB,ShahbazAhmed,1.0,0,11,0,11.0,0,1,0,0,0
+T208157,RCB Vs Capitals,RCB,WaninduHasaranga,3.0,0,37,1,12.33,4,5,1,0,0
+T208157,RCB Vs Capitals,RCB,HarshalPatel,4.0,0,32,1,8.0,7,3,0,3,0
+T209839,Sunrisers Vs KKR,KKR,UmeshYadav,3.0,0,42,0,14.0,3,3,3,1,0
+T209839,Sunrisers Vs KKR,KKR,LockieFerguson,2.0,0,37,0,18.5,4,5,1,1,1
+T209839,Sunrisers Vs KKR,KKR,SunilNarine,4.0,0,28,0,7.0,7,1,1,2,0
+T209839,Sunrisers Vs KKR,KKR,AndreRussell,2.1,0,22,3,10.15,4,2,1,2,0
+T209839,Sunrisers Vs KKR,KKR,VarunChakravarthy,4.0,0,41,1,10.25,4,3,2,1,0
+T209839,Sunrisers Vs KKR,KKR,SuyashSharma,4.0,0,44,0,11.0,8,4,3,0,0
+T209839,Sunrisers Vs KKR,KKR,ShardulThakur,0.5,0,14,0,16.8,0,3,0,0,0
+T209839,Sunrisers Vs KKR,Sunrisers,BhuvneshwarKumar,4.0,1,29,1,7.25,10,4,0,1,0
+T209839,Sunrisers Vs KKR,Sunrisers,MarcoJansen,4.0,0,37,2,9.25,12,1,3,4,2
+T209839,Sunrisers Vs KKR,Sunrisers,TNatarajan,4.0,0,54,1,13.5,6,6,3,1,0
+T209839,Sunrisers Vs KKR,Sunrisers,UmranMalik,2.0,0,36,1,18.0,3,4,3,0,0
+T209839,Sunrisers Vs KKR,Sunrisers,MayankMarkande,4.0,0,27,2,6.75,10,2,1,0,0
+T209839,Sunrisers Vs KKR,Sunrisers,WashingtonSundar,2.0,0,20,0,10.0,2,1,1,0,0
+T206541,Punjab Kings Vs Titans,Titans,MohammedShami,4.0,0,44,1,11.0,9,7,1,1,0
+T206541,Punjab Kings Vs Titans,Titans,JoshLittle,4.0,0,31,1,7.75,11,3,1,3,0
+T206541,Punjab Kings Vs Titans,Titans,AlzarriJoseph,4.0,0,32,1,8.0,11,1,2,5,0
+T206541,Punjab Kings Vs Titans,Titans,RashidKhan,4.0,0,26,1,6.5,13,3,1,0,0
+T206541,Punjab Kings Vs Titans,Titans,MohitSharma,4.0,0,18,2,4.5,12,2,0,0,0
+T206541,Punjab Kings Vs Titans,Punjab Kings,ArshdeepSingh,4.0,0,33,1,8.25,8,5,0,0,0
+T206541,Punjab Kings Vs Titans,Punjab Kings,KagisoRabada,4.0,0,36,1,9.0,11,5,1,0,0
+T206541,Punjab Kings Vs Titans,Punjab Kings,HarpreetBrar,4.0,0,20,1,5.0,8,1,0,0,0
+T206541,Punjab Kings Vs Titans,Punjab Kings,SamCurran,3.5,0,25,1,6.52,7,2,0,0,0
+T206541,Punjab Kings Vs Titans,Punjab Kings,RahulChahar,3.0,0,24,0,8.0,4,3,0,0,0
+T206541,Punjab Kings Vs Titans,Punjab Kings,MatthewShort,1.0,0,8,0,8.0,1,1,0,0,0
+T201215,Royals Vs Super Kings,Super Kings,AkashSingh,4.0,0,40,2,10.0,7,2,3,1,0
+T201215,Royals Vs Super Kings,Super Kings,TusharDeshpande,4.0,0,37,2,9.25,7,4,1,1,0
+T201215,Royals Vs Super Kings,Super Kings,MaheeshTheekshana,4.0,0,42,0,10.5,4,5,1,0,0
+T201215,Royals Vs Super Kings,Super Kings,RavindraJadeja,4.0,0,21,2,5.25,11,0,0,3,0
+T201215,Royals Vs Super Kings,Super Kings,MoeenAli,2.0,0,21,1,10.5,3,0,2,0,0
+T201215,Royals Vs Super Kings,Super Kings,SisandaMagala,2.0,0,14,0,7.0,2,0,0,1,0
+T201215,Royals Vs Super Kings,Royals,SandeepSharma,3.0,0,30,1,10.0,6,1,2,2,0
+T201215,Royals Vs Super Kings,Royals,KuldeepSen,2.0,0,8,0,4.0,4,0,0,0,0
+T201215,Royals Vs Super Kings,Royals,JasonHolder,3.0,0,37,0,12.33,4,4,2,1,0
+T201215,Royals Vs Super Kings,Royals,AdamZampa,4.0,0,43,1,10.75,5,4,1,1,0
+T201215,Royals Vs Super Kings,Royals,RavichandranAshwin,4.0,0,25,2,6.25,10,1,1,2,0
+T201215,Royals Vs Super Kings,Royals,YuzvendraChahal,4.0,0,27,2,6.75,8,2,0,1,0
+T207664,Capitals Vs Mumbai,Mumbai,JasonBehrendorff,3.0,0,23,3,7.66,8,1,2,0,0
+T207664,Capitals Vs Mumbai,Mumbai,ArshadKhan,1.0,0,12,0,12.0,1,2,0,1,0
+T207664,Capitals Vs Mumbai,Mumbai,CameronGreen,3.0,0,30,0,10.0,4,5,0,1,0
+T207664,Capitals Vs Mumbai,Mumbai,HrithikShokeen,4.0,0,43,1,10.75,10,4,2,1,1
+T207664,Capitals Vs Mumbai,Mumbai,RileyMeredith,3.4,0,34,2,9.27,10,5,1,0,1
+T207664,Capitals Vs Mumbai,Mumbai,PiyushChawla,4.0,0,22,3,5.5,9,2,0,0,0
+T207664,Capitals Vs Mumbai,Mumbai,TilakVarma,1.0,0,7,0,7.0,3,1,0,1,0
+T207664,Capitals Vs Mumbai,Capitals,MukeshKumar,2.0,0,30,2,15.0,6,3,3,0,0
+T207664,Capitals Vs Mumbai,Capitals,MustafizurRahman,4.0,0,38,1,9.5,11,5,2,0,0
+T207664,Capitals Vs Mumbai,Capitals,AnrichNortje,4.0,0,35,0,8.75,8,2,2,0,0
+T207664,Capitals Vs Mumbai,Capitals,LalitYadav,4.0,0,23,0,5.75,10,1,1,1,0
+T207664,Capitals Vs Mumbai,Capitals,AxarPatel,4.0,0,20,0,5.0,12,2,0,1,0
+T207664,Capitals Vs Mumbai,Capitals,KuldeepYadav,2.0,0,23,0,11.5,2,1,2,0,0
+T202162,RCB Vs Super Giants,Super Giants,JaydevUnadkat,2.0,0,27,0,13.5,3,2,2,1,0
+T202162,RCB Vs Super Giants,Super Giants,AveshKhan,4.0,0,53,0,13.25,8,5,4,0,0
+T202162,RCB Vs Super Giants,Super Giants,KrunalPandya,4.0,0,35,0,8.75,5,2,2,0,0
+T202162,RCB Vs Super Giants,Super Giants,MarkWood,4.0,1,32,1,8.0,12,1,3,2,0
+T202162,RCB Vs Super Giants,Super Giants,RaviBishnoi,4.0,0,39,0,9.75,5,1,3,1,0
+T202162,RCB Vs Super Giants,Super Giants,AmitMishra,2.0,0,18,1,9.0,2,1,1,0,0
+T202162,RCB Vs Super Giants,RCB,MohammedSiraj,4.0,0,22,3,5.5,16,3,0,4,0
+T202162,RCB Vs Super Giants,RCB,DavidWilley,4.0,0,32,0,8.0,6,2,1,1,0
+T202162,RCB Vs Super Giants,RCB,WayneParnell,4.0,0,41,3,10.25,6,5,1,3,0
+T202162,RCB Vs Super Giants,RCB,HarshalPatel,4.0,0,48,2,12.0,5,4,3,0,0
+T202162,RCB Vs Super Giants,RCB,KarnSharma,3.0,0,48,1,16.0,5,3,5,1,0
+T202162,RCB Vs Super Giants,RCB,ShahbazAhmed,1.0,0,15,0,15.0,1,0,2,0,0
+T206444,Punjab Kings Vs Sunrisers,Sunrisers,BhuvneshwarKumar,4.0,0,33,1,8.25,13,6,0,3,0
+T206444,Punjab Kings Vs Sunrisers,Sunrisers,MarcoJansen,3.0,1,16,2,5.33,14,2,1,1,0
+T206444,Punjab Kings Vs Sunrisers,Sunrisers,TNatarajan,4.0,0,40,0,10.0,10,3,3,0,0
+T206444,Punjab Kings Vs Sunrisers,Sunrisers,WashingtonSundar,1.0,0,6,0,6.0,3,1,0,0,0
+T206444,Punjab Kings Vs Sunrisers,Sunrisers,MayankMarkande,4.0,0,15,4,3.75,15,2,0,0,0
+T206444,Punjab Kings Vs Sunrisers,Sunrisers,UmranMalik,4.0,0,32,2,8.0,14,3,2,1,0
+T206444,Punjab Kings Vs Sunrisers,Punjab Kings,SamCurran,3.0,0,14,0,4.66,8,1,0,0,0
+T206444,Punjab Kings Vs Sunrisers,Punjab Kings,ArshdeepSingh,3.0,0,20,1,6.66,10,4,0,0,0
+T206444,Punjab Kings Vs Sunrisers,Punjab Kings,HarpreetBrar,3.1,0,26,0,8.21,8,5,0,0,0
+T206444,Punjab Kings Vs Sunrisers,Punjab Kings,NathanEllis,3.0,0,28,0,9.33,5,5,0,0,0
+T206444,Punjab Kings Vs Sunrisers,Punjab Kings,RahulChahar,3.0,0,28,1,9.33,8,4,1,0,0
+T206444,Punjab Kings Vs Sunrisers,Punjab Kings,MohitRathee,2.0,0,29,0,14.5,3,3,2,0,0
+T208626,Titans Vs KKR,KKR,UmeshYadav,3.0,0,24,0,8.0,7,4,0,1,0
+T208626,Titans Vs KKR,KKR,ShardulThakur,3.0,0,40,0,13.33,4,3,3,1,0
+T208626,Titans Vs KKR,KKR,LockieFerguson,4.0,0,40,0,10.0,8,3,2,1,1
+T208626,Titans Vs KKR,KKR,SunilNarine,4.0,0,33,3,8.25,8,3,1,1,0
+T208626,Titans Vs KKR,KKR,VarunChakravarthy,2.0,0,27,0,13.5,1,2,1,1,0
+T208626,Titans Vs KKR,KKR,SuyashSharma,4.0,0,35,1,8.75,6,3,0,1,0
+T208626,Titans Vs KKR,Titans,MohammedShami,4.0,0,28,1,7.0,10,2,1,0,0
+T208626,Titans Vs KKR,Titans,JoshLittle,4.0,0,45,1,11.25,9,4,3,3,0
+T208626,Titans Vs KKR,Titans,AlzarriJoseph,4.0,0,27,2,6.75,14,2,2,0,0
+T208626,Titans Vs KKR,Titans,YashDayal,4.0,0,69,0,17.25,4,3,8,0,0
+T208626,Titans Vs KKR,Titans,RashidKhan,4.0,0,37,3,9.25,6,4,1,0,0
+T206408,Mumbai Vs Super Kings,Super Kings,DeepakChahar,1.0,0,10,0,10.0,2,2,0,0,0
+T206408,Mumbai Vs Super Kings,Super Kings,TusharDeshpande,3.0,0,31,2,10.33,9,2,3,1,0
+T206408,Mumbai Vs Super Kings,Super Kings,SisandaMagala,4.0,0,37,1,9.25,4,5,0,0,0
+T206408,Mumbai Vs Super Kings,Super Kings,MitchellSantner,4.0,0,28,2,7.0,6,3,0,0,0
+T206408,Mumbai Vs Super Kings,Super Kings,RavindraJadeja,4.0,0,20,3,5.0,9,0,1,0,0
+T206408,Mumbai Vs Super Kings,Super Kings,DwainePretorius,4.0,0,28,0,7.0,9,3,0,4,0
+T206408,Mumbai Vs Super Kings,Mumbai,JasonBehrendorff,3.0,0,24,1,8.0,9,2,1,1,0
+T206408,Mumbai Vs Super Kings,Mumbai,ArshadKhan,2.1,0,35,0,16.15,2,5,1,3,0
+T206408,Mumbai Vs Super Kings,Mumbai,CameronGreen,3.0,0,20,0,6.66,6,0,1,1,0
+T206408,Mumbai Vs Super Kings,Mumbai,PiyushChawla,4.0,0,33,1,8.25,8,5,0,0,0
+T206408,Mumbai Vs Super Kings,Mumbai,KumarKartikeya,4.0,0,24,1,6.0,6,0,1,0,0
+T206408,Mumbai Vs Super Kings,Mumbai,HrithikShokeen,2.0,0,19,0,9.5,4,2,1,0,0
+T207547,Royals Vs Capitals,Capitals,KhaleelAhmed,2.0,0,31,0,15.5,3,6,0,2,0
+T207547,Royals Vs Capitals,Capitals,AnrichNortje,4.0,0,44,0,11.0,10,6,2,0,0
+T207547,Royals Vs Capitals,Capitals,MukeshKumar,4.0,0,36,2,9.0,8,3,2,0,0
+T207547,Royals Vs Capitals,Capitals,AxarPatel,4.0,0,38,0,9.5,6,5,1,0,0
+T207547,Royals Vs Capitals,Capitals,KuldeepYadav,4.0,0,31,1,7.75,8,2,1,0,0
+T207547,Royals Vs Capitals,Capitals,RovmanPowell,2.0,0,18,1,9.0,4,1,1,1,1
+T207547,Royals Vs Capitals,Royals,TrentBoult,4.0,1,29,3,7.25,11,5,0,0,0
+T207547,Royals Vs Capitals,Royals,SandeepSharma,4.0,0,20,1,5.0,11,2,0,1,0
+T207547,Royals Vs Capitals,Royals,RavichandranAshwin,4.0,0,25,2,6.25,10,2,0,3,0
+T207547,Royals Vs Capitals,Royals,JasonHolder,3.0,0,28,0,9.33,4,4,0,1,0
+T207547,Royals Vs Capitals,Royals,YuzvendraChahal,4.0,0,27,3,6.75,8,2,0,2,0
+T207547,Royals Vs Capitals,Royals,MuruganAshwin,1.0,0,11,0,11.0,0,0,0,0,1
+T209590,Sunrisers Vs Super Giants,Super Giants,KyleMayers,1.0,0,5,0,5.0,1,0,0,0,0
+T209590,Sunrisers Vs Super Giants,Super Giants,JaydevUnadkat,3.0,0,26,0,8.66,9,0,3,1,0
+T209590,Sunrisers Vs Super Giants,Super Giants,KrunalPandya,4.0,0,18,3,4.5,15,3,0,0,0
+T209590,Sunrisers Vs Super Giants,Super Giants,YashThakur,3.0,0,23,1,7.66,6,3,0,0,0
+T209590,Sunrisers Vs Super Giants,Super Giants,RaviBishnoi,4.0,0,16,1,4.0,10,0,0,1,0
+T209590,Sunrisers Vs Super Giants,Super Giants,DeepakHooda,1.0,0,8,0,8.0,1,1,0,0,0
+T209590,Sunrisers Vs Super Giants,Super Giants,AmitMishra,4.0,0,23,2,5.75,10,3,0,0,0
+T209590,Sunrisers Vs Super Giants,Sunrisers,BhuvneshwarKumar,2.0,0,19,1,9.5,7,1,1,1,0
+T209590,Sunrisers Vs Super Giants,Sunrisers,WashingtonSundar,1.0,0,11,0,11.0,1,2,0,0,0
+T209590,Sunrisers Vs Super Giants,Sunrisers,FazalhaqFarooqi,3.0,0,13,1,4.33,12,2,0,1,0
+T209590,Sunrisers Vs Super Giants,Sunrisers,AidenMarkram,2.0,0,14,0,7.0,5,2,0,0,0
+T209590,Sunrisers Vs Super Giants,Sunrisers,AdilRashid,3.0,0,23,2,7.66,8,2,1,0,0
+T209590,Sunrisers Vs Super Giants,Sunrisers,TNatarajan,3.0,0,23,0,7.66,7,1,1,1,0
+T209590,Sunrisers Vs Super Giants,Sunrisers,UmranMalik,2.0,0,22,1,11.0,7,3,0,2,0
+T207668,KKR Vs RCB,RCB,MohammedSiraj,4.0,0,44,1,11.0,13,6,1,3,1
+T207668,KKR Vs RCB,RCB,DavidWilley,4.0,1,16,2,4.0,15,2,0,1,0
+T207668,KKR Vs RCB,RCB,AkashDeep,2.0,0,30,0,15.0,4,2,2,1,2
+T207668,KKR Vs RCB,RCB,MichaelBracewell,3.0,0,34,1,11.33,3,1,3,0,0
+T207668,KKR Vs RCB,RCB,ShahbazAhmed,1.0,0,6,0,6.0,3,1,0,0,0
+T207668,KKR Vs RCB,RCB,KarnSharma,3.0,0,26,2,8.66,6,2,1,0,0
+T207668,KKR Vs RCB,RCB,HarshalPatel,3.0,0,38,1,12.66,5,4,2,1,0
+T207668,KKR Vs RCB,KKR,UmeshYadav,2.0,0,17,0,8.5,5,3,0,0,0
+T207668,KKR Vs RCB,KKR,TimSouthee,2.0,0,25,0,12.5,5,2,2,0,0
+T207668,KKR Vs RCB,KKR,SunilNarine,4.0,0,16,2,4.0,12,1,0,0,0
+T207668,KKR Vs RCB,KKR,VarunChakravarthy,3.4,0,15,4,4.09,13,2,0,0,0
+T207668,KKR Vs RCB,KKR,SuyashSharma,4.0,0,30,3,7.5,11,2,2,1,0
+T207668,KKR Vs RCB,KKR,ShardulThakur,2.0,0,15,1,7.5,4,2,0,0,0
+T201031,Punjab Kings Vs Royals,Royals,TrentBoult,4.0,0,38,0,9.5,8,3,2,1,0
+T201031,Punjab Kings Vs Royals,Royals,KMAsif,4.0,0,54,0,13.5,7,5,3,3,1
+T201031,Punjab Kings Vs Royals,Royals,RavichandranAshwin,4.0,0,25,1,6.25,7,2,0,1,0
+T201031,Punjab Kings Vs Royals,Royals,JasonHolder,4.0,0,29,2,7.25,7,2,1,0,0
+T201031,Punjab Kings Vs Royals,Royals,YuzvendraChahal,4.0,0,50,1,12.5,5,7,1,1,0
+T201031,Punjab Kings Vs Royals,Punjab Kings,SamCurran,4.0,0,44,0,11.0,7,3,3,0,0
+T201031,Punjab Kings Vs Royals,Punjab Kings,ArshdeepSingh,4.0,0,47,2,11.75,10,4,3,3,0
+T201031,Punjab Kings Vs Royals,Punjab Kings,HarpreetBrar,2.0,0,15,0,7.5,5,2,0,0,0
+T201031,Punjab Kings Vs Royals,Punjab Kings,NathanEllis,4.0,0,30,4,7.5,11,2,2,0,0
+T201031,Punjab Kings Vs Royals,Punjab Kings,RahulChahar,4.0,0,31,0,7.75,5,1,1,0,0
+T201031,Punjab Kings Vs Royals,Punjab Kings,SikandarRaza,2.0,0,24,0,12.0,2,1,1,2,0
+T205026,Capitals Vs Titans,Titans,MohammedShami,4.0,0,41,3,10.25,15,5,1,4,0
+T205026,Capitals Vs Titans,Titans,JoshLittle,4.0,0,27,0,6.75,11,2,1,0,0
+T205026,Capitals Vs Titans,Titans,HardikPandya,3.0,0,18,0,6.0,6,2,0,0,0
+T205026,Capitals Vs Titans,Titans,AlzarriJoseph,4.0,0,29,2,7.25,13,3,1,1,0
+T205026,Capitals Vs Titans,Titans,YashDayal,1.0,0,12,0,12.0,0,0,1,0,0
+T205026,Capitals Vs Titans,Titans,RashidKhan,4.0,0,31,3,7.75,9,2,2,0,0
+T205026,Capitals Vs Titans,Capitals,KhaleelAhmed,4.0,0,38,1,9.5,9,5,1,1,0
+T205026,Capitals Vs Titans,Capitals,MukeshKumar,4.0,0,42,0,10.5,8,5,2,1,0
+T205026,Capitals Vs Titans,Capitals,AnrichNortje,4.0,0,39,2,9.75,9,3,2,0,2
+T205026,Capitals Vs Titans,Capitals,MitchellMarsh,3.1,0,24,1,7.57,4,1,0,1,0
+T205026,Capitals Vs Titans,Capitals,KuldeepYadav,3.0,0,18,0,6.0,5,1,0,1,0
+T202790,Super Kings Vs Super Giants,Super Giants,KyleMayers,2.0,0,16,0,8.0,1,1,0,1,0
+T202790,Super Kings Vs Super Giants,Super Giants,AveshKhan,3.0,0,39,1,13.0,4,6,0,1,0
+T202790,Super Kings Vs Super Giants,Super Giants,KrunalPandya,2.0,0,21,0,10.5,4,1,2,0,0
+T202790,Super Kings Vs Super Giants,Super Giants,KrishnappaGowtham,1.0,0,20,0,20.0,2,0,3,0,0
+T202790,Super Kings Vs Super Giants,Super Giants,MarkWood,4.0,0,49,3,12.25,9,3,5,0,0
+T202790,Super Kings Vs Super Giants,Super Giants,YashThakur,4.0,0,36,0,9.0,4,3,1,0,1
+T202790,Super Kings Vs Super Giants,Super Giants,RaviBishnoi,4.0,0,28,3,7.0,13,1,2,1,0
+T202790,Super Kings Vs Super Giants,Super Kings,DeepakChahar,4.0,0,55,0,13.75,6,7,1,5,0
+T202790,Super Kings Vs Super Giants,Super Kings,BenStokes,1.0,0,18,0,18.0,0,2,1,0,0
+T202790,Super Kings Vs Super Giants,Super Kings,TusharDeshpande,4.0,0,45,2,11.25,7,2,2,4,3
+T202790,Super Kings Vs Super Giants,Super Kings,MoeenAli,4.0,0,26,4,6.5,10,0,1,1,0
+T202790,Super Kings Vs Super Giants,Super Kings,MitchellSantner,4.0,0,21,1,5.25,9,0,1,0,0
+T202790,Super Kings Vs Super Giants,Super Kings,RajvardhanHangargekar,2.0,0,24,0,12.0,4,2,1,3,0
+T202790,Super Kings Vs Super Giants,Super Kings,RavindraJadeja,1.0,0,14,0,14.0,2,0,2,0,0
+T202485,Mumbai Vs RCB,RCB,MohammedSiraj,4.0,0,21,1,5.25,16,2,0,6,0
+T202485,Mumbai Vs RCB,RCB,ReeceTopley,2.0,0,14,1,7.0,7,3,0,0,0
+T202485,Mumbai Vs RCB,RCB,AkashDeep,3.0,0,29,1,9.66,7,2,2,0,0
+T202485,Mumbai Vs RCB,RCB,HarshalPatel,4.0,0,43,1,10.75,6,3,2,1,1
+T202485,Mumbai Vs RCB,RCB,KarnSharma,4.0,0,32,2,8.0,7,1,2,1,0
+T202485,Mumbai Vs RCB,RCB,MichaelBracewell,2.0,0,16,1,8.0,6,3,0,0,0
+T202485,Mumbai Vs RCB,RCB,GlennMaxwell,1.0,0,16,0,16.0,0,1,1,1,0
+T202485,Mumbai Vs RCB,Mumbai,JasonBehrendorff,3.0,0,37,0,12.33,6,3,3,0,0
+T202485,Mumbai Vs RCB,Mumbai,ArshadKhan,2.2,0,28,1,12.0,7,2,2,4,0
+T202485,Mumbai Vs RCB,Mumbai,JofraArcher,4.0,0,33,0,8.25,10,2,2,0,0
+T202485,Mumbai Vs RCB,Mumbai,PiyushChawla,4.0,0,26,0,6.5,11,2,1,0,0
+T202485,Mumbai Vs RCB,Mumbai,CameronGreen,2.0,0,30,1,15.0,4,2,3,0,0
+T202485,Mumbai Vs RCB,Mumbai,HrithikShokeen,1.0,0,17,0,17.0,0,0,2,0,0
+T209117,Royals Vs Sunrisers,Sunrisers,BhuvneshwarKumar,3.0,0,36,0,12.0,6,4,2,1,0
+T209117,Royals Vs Sunrisers,Sunrisers,FazalhaqFarooqi,4.0,0,41,2,10.25,11,7,0,0,0
+T209117,Royals Vs Sunrisers,Sunrisers,WashingtonSundar,3.0,0,32,0,10.66,5,1,3,0,0
+T209117,Royals Vs Sunrisers,Sunrisers,TNatarajan,3.0,0,23,2,7.66,7,4,0,0,0
+T209117,Royals Vs Sunrisers,Sunrisers,AdilRashid,4.0,0,33,0,8.25,6,1,2,0,0
+T209117,Royals Vs Sunrisers,Sunrisers,UmranMalik,3.0,0,32,1,10.66,4,4,1,1,0
+T209117,Royals Vs Sunrisers,Royals,TrentBoult,4.0,1,21,2,5.25,15,2,1,0,0
+T209117,Royals Vs Sunrisers,Royals,KMAsif,3.0,0,15,0,5.0,9,1,0,1,0
+T209117,Royals Vs Sunrisers,Royals,JasonHolder,3.0,0,16,1,5.33,10,1,1,0,0
+T209117,Royals Vs Sunrisers,Royals,RavichandranAshwin,4.0,0,27,1,6.75,10,1,1,2,0
+T209117,Royals Vs Sunrisers,Royals,YuzvendraChahal,4.0,0,17,4,4.25,11,0,0,0,0
+T209117,Royals Vs Sunrisers,Royals,NavdeepSaini,2.0,0,34,0,17.0,3,3,2,0,3
+T208512,Super Giants Vs Capitals,Capitals,KhaleelAhmed,4.0,0,30,2,7.5,15,3,2,1,0
+T208512,Super Giants Vs Capitals,Capitals,MukeshKumar,4.0,0,34,0,8.5,5,0,2,1,0
+T208512,Super Giants Vs Capitals,Capitals,ChetanSakariya,4.0,0,53,2,13.25,8,1,6,3,0
+T208512,Super Giants Vs Capitals,Capitals,AxarPatel,4.0,0,38,1,9.5,8,1,3,0,0
+T208512,Super Giants Vs Capitals,Capitals,KuldeepYadav,4.0,0,35,1,8.75,7,0,3,0,0
+T208512,Super Giants Vs Capitals,Super Giants,KyleMayers,1.0,0,7,0,7.0,3,1,0,1,0
+T208512,Super Giants Vs Capitals,Super Giants,JaydevUnadkat,3.0,0,39,0,13.0,3,5,0,2,0
+T208512,Super Giants Vs Capitals,Super Giants,KrishnappaGowtham,4.0,0,23,0,5.75,9,2,0,1,0
+T208512,Super Giants Vs Capitals,Super Giants,AveshKhan,4.0,0,29,2,7.25,12,3,1,0,0
+T208512,Super Giants Vs Capitals,Super Giants,MarkWood,4.0,0,14,5,3.5,17,1,0,1,1
+T208512,Super Giants Vs Capitals,Super Giants,RaviBishnoi,4.0,0,31,2,7.75,8,3,1,0,0
+T202853,Punjab Kings Vs KKR,KKR,UmeshYadav,4.0,0,27,1,6.75,11,2,1,0,0
+T202853,Punjab Kings Vs KKR,KKR,TimSouthee,4.0,0,54,2,13.5,7,6,3,0,0
+T202853,Punjab Kings Vs KKR,KKR,SunilNarine,4.0,0,40,1,10.0,8,3,2,1,0
+T202853,Punjab Kings Vs KKR,KKR,VarunChakravarthy,4.0,0,26,1,6.5,10,2,1,1,0
+T202853,Punjab Kings Vs KKR,KKR,ShardulThakur,4.0,0,43,0,10.75,7,4,2,0,1
+T202853,Punjab Kings Vs KKR,Punjab Kings,SamCurran,3.0,0,38,1,12.66,4,3,3,0,0
+T202853,Punjab Kings Vs KKR,Punjab Kings,ArshdeepSingh,3.0,0,19,3,6.33,10,2,1,0,0
+T202853,Punjab Kings Vs KKR,Punjab Kings,NathanEllis,3.0,0,27,1,9.0,8,2,1,0,2
+T202853,Punjab Kings Vs KKR,Punjab Kings,SikandarRaza,3.0,0,25,1,8.33,5,3,0,1,0
+T202853,Punjab Kings Vs KKR,Punjab Kings,RishiDhawan,1.0,0,15,0,15.0,2,2,1,0,0
+T202853,Punjab Kings Vs KKR,Punjab Kings,RahulChahar,2.0,0,12,1,6.0,5,0,1,0,0
+T202853,Punjab Kings Vs KKR,Punjab Kings,HarpreetBrar,1.0,0,7,0,7.0,3,1,0,0,0
+T201566,Super Kings Vs Titans,Titans,MohammedShami,4.0,0,29,2,7.25,13,2,2,0,1
+T201566,Super Kings Vs Titans,Titans,HardikPandya,3.0,0,28,0,9.33,6,2,2,0,0
+T201566,Super Kings Vs Titans,Titans,JoshLittle,4.0,0,41,1,10.25,10,4,3,0,0
+T201566,Super Kings Vs Titans,Titans,RashidKhan,4.0,0,26,2,6.5,10,2,1,0,0
+T201566,Super Kings Vs Titans,Titans,AlzarriJoseph,4.0,0,33,2,8.25,8,0,3,0,0
+T201566,Super Kings Vs Titans,Titans,YashDayal,1.0,0,14,0,14.0,2,0,2,0,0
+T201566,Super Kings Vs Titans,Super Kings,DeepakChahar,4.0,0,29,0,7.25,9,1,2,0,0
+T201566,Super Kings Vs Titans,Super Kings,TusharDeshpande,3.2,0,51,1,15.3,5,4,4,1,1
+T201566,Super Kings Vs Titans,Super Kings,RajvardhanHangargekar,4.0,0,36,3,9.0,10,4,1,3,1
+T201566,Super Kings Vs Titans,Super Kings,MitchellSantner,4.0,0,32,0,8.0,7,5,0,0,0
+T201566,Super Kings Vs Titans,Super Kings,RavindraJadeja,4.0,0,28,1,7.0,9,1,1,0,0
